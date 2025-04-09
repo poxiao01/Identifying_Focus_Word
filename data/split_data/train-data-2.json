@@ -1,0 +1,5002 @@
+[
+    {
+        "sentence": "What politician's partner is Diana Taylor?",
+        "question_word": "partner",
+        "id": 3
+    },
+    {
+        "sentence": "Name the mountain whose parent peak is located in Mexico.",
+        "question_word": "mountain",
+        "id": 100
+    },
+    {
+        "sentence": "What currencies have been prevalent in the country whose national anthem is La Marseillaise?",
+        "question_word": "currencies",
+        "id": 444
+    },
+    {
+        "sentence": "Who created the world series of Poker?",
+        "question_word": "Who",
+        "id": 134
+    },
+    {
+        "sentence": "How many airlines are members of the Star Alliance?",
+        "question_word": "airlines",
+        "id": 473
+    },
+    {
+        "sentence": "Who has fought in the conflicts around the Mississippi river?",
+        "question_word": "Who",
+        "id": 222
+    },
+    {
+        "sentence": "From how many different places have people gone to the Harward Medical School?",
+        "question_word": "places",
+        "id": 212
+    },
+    {
+        "sentence": "List the movie whose music was given by Geoffrey Burgon and distributed by Cinema International Corporation?",
+        "question_word": "movie",
+        "id": 289
+    },
+    {
+        "sentence": "Who designed the Brooklyn Bridge?",
+        "question_word": "Who",
+        "id": 203
+    },
+    {
+        "sentence": "Which prospect team of Robin Kovacs is the draft team of Bob MacMillan?",
+        "question_word": "team",
+        "id": 318
+    },
+    {
+        "sentence": "Who was the successor of John F. Kennedy?",
+        "question_word": "successor",
+        "id": 370
+    },
+    {
+        "sentence": "For how many PMs did the politician work, whose successor was Kingsley Wood?",
+        "question_word": "PMs",
+        "id": 117
+    },
+    {
+        "sentence": "What is the common profession of DeWitt Clinton and Claiborne Pell?",
+        "question_word": "profession",
+        "id": 404
+    },
+    {
+        "sentence": "What is the river one of whose left tributary's native name is Arabic?",
+        "question_word": "river",
+        "id": 159
+    },
+    {
+        "sentence": "What does ICRO stand for?",
+        "question_word": "What",
+        "id": 304
+    },
+    {
+        "sentence": "Music of how many things has been given by Akira Ifukube?",
+        "question_word": "Music",
+        "id": 345
+    },
+    {
+        "sentence": "Who is the founder of Hohenau, Paraguay?",
+        "question_word": "founder",
+        "id": 133
+    },
+    {
+        "sentence": "Name the movies in which music is give by  Laurie Johnson and edited by Anthony Harvey?",
+        "question_word": "movies",
+        "id": 207
+    },
+    {
+        "sentence": "Which team won the American Football League?",
+        "question_word": "team",
+        "id": 465
+    },
+    {
+        "sentence": "What show has writing of Erik Jendresen and Graham Yost?",
+        "question_word": "show",
+        "id": 132
+    },
+    {
+        "sentence": "List the awards given to the race horses bred by Willis Sharpe Kilmer.",
+        "question_word": "awards",
+        "id": 298
+    },
+    {
+        "sentence": "Which state of Timothy J. Roemer is also the location city of Dad's Root Beer?",
+        "question_word": "state",
+        "id": 242
+    },
+    {
+        "sentence": "Whose labels are Victor Entertainment and Celluloid Records?",
+        "question_word": "labels",
+        "id": 199
+    },
+    {
+        "sentence": "What are the software whose programming language are Multilingual?",
+        "question_word": "software",
+        "id": 138
+    },
+    {
+        "sentence": "What was the result of Operation Autumn Clouds?",
+        "question_word": "result",
+        "id": 215
+    },
+    {
+        "sentence": "What is the official language of Ladonia, which is the target area of Probus Journal?",
+        "question_word": "language",
+        "id": 82
+    },
+    {
+        "sentence": "Which musician wrote the most books?",
+        "question_word": "musician",
+        "id": 441
+    },
+    {
+        "sentence": "What are the non-fiction topics in the books whose authors is Terry Pratchett?",
+        "question_word": "topics",
+        "id": 518
+    },
+    {
+        "sentence": "Which airports are located in California, USA?",
+        "question_word": "airports",
+        "id": 351
+    },
+    {
+        "sentence": "Who was in missions of Gemini 8 and Apollo 11?",
+        "question_word": "Who",
+        "id": 201
+    },
+    {
+        "sentence": "Which actress starring in the TV series Friends owns the production company Coquette Productions?",
+        "question_word": "actress",
+        "id": 455
+    },
+    {
+        "sentence": "Who is the scientist whose doctoral student is Erich Bagge?",
+        "question_word": "scientist",
+        "id": 414
+    },
+    {
+        "sentence": "Who fought in the battle at Tupelo Mississippi?",
+        "question_word": "Who",
+        "id": 235
+    },
+    {
+        "sentence": "What are some common games played at both Fr Agnel Multipurpose School and Vishwajyot High School?",
+        "question_word": "games",
+        "id": 458
+    },
+    {
+        "sentence": "Which people are known for appearing on the television show Dragon's Den?",
+        "question_word": "people",
+        "id": 54
+    },
+    {
+        "sentence": "How many students does the Free University of Amsterdam have?",
+        "question_word": "students",
+        "id": 170
+    },
+    {
+        "sentence": "Which range of mountains are there in canton of Fribourg?",
+        "question_word": "range",
+        "id": 22
+    },
+    {
+        "sentence": "Who is the authority of Maine School of Science and Mathematics?",
+        "question_word": "authority",
+        "id": 130
+    },
+    {
+        "sentence": "Which bands are associated to David Paton?",
+        "question_word": "bands",
+        "id": 339
+    },
+    {
+        "sentence": "Count the number of  sport played by the school which also plays Association football?",
+        "question_word": "number",
+        "id": 450
+    },
+    {
+        "sentence": "In how many places are the tombs of people who died in Connecticut Colony?",
+        "question_word": "places",
+        "id": 354
+    },
+    {
+        "sentence": "In which cities are there stations of SCOLA?",
+        "question_word": "cities",
+        "id": 172
+    },
+    {
+        "sentence": "Name the movie written by Monty Python and has music composer as Geoffrey Burgon?",
+        "question_word": "movie",
+        "id": 285
+    },
+    {
+        "sentence": "What is the serving railway line of Warwick railway station, Perth?",
+        "question_word": "line",
+        "id": 27
+    },
+    {
+        "sentence": "When was Carlo Giuliani shot?",
+        "question_word": "When",
+        "id": 33
+    },
+    {
+        "sentence": "Where were Micheal Santos and Wendy Jaquet born?",
+        "question_word": "Where",
+        "id": 208
+    },
+    {
+        "sentence": "List the home town of the people who have Ontario as one of it?",
+        "question_word": "town",
+        "id": 183
+    },
+    {
+        "sentence": "What is the origin of the musical artist whose associated band is Ziggi Recado?",
+        "question_word": "origin",
+        "id": 428
+    },
+    {
+        "sentence": "What is the river whose mouth is in deadsea?",
+        "question_word": "river",
+        "id": 168
+    },
+    {
+        "sentence": "Count the different origins of members of the Vitis Vinifera species.",
+        "question_word": "members",
+        "id": 65
+    },
+    {
+        "sentence": "Name the mouth country of Upper Neretva?",
+        "question_word": "country",
+        "id": 276
+    },
+    {
+        "sentence": "Who developed the programming languages designed by Rob Pike?",
+        "question_word": "Who",
+        "id": 107
+    },
+    {
+        "sentence": "What party was in majority of Fourth Legislative Assembly of Delhi?",
+        "question_word": "party",
+        "id": 475
+    },
+    {
+        "sentence": "Which training center of William Anthony has also alumni named Philip W Pillsbury?",
+        "question_word": "center",
+        "id": 472
+    },
+    {
+        "sentence": "Who develops the computation platform of Microsoft Expression Encoder?",
+        "question_word": "Who",
+        "id": 229
+    },
+    {
+        "sentence": "Which parent comapny of hypnotize Minds is the label of the Producers , a 2005 film?",
+        "question_word": "comapny",
+        "id": 410
+    },
+    {
+        "sentence": "Which manufacturer of  Ford Y-block engine is the parent of  Ford Air Transport Service?",
+        "question_word": "manufacturer",
+        "id": 111
+    },
+    {
+        "sentence": "Collaborators of Demis Roussos have composed music for which movies?",
+        "question_word": "movies",
+        "id": 395
+    },
+    {
+        "sentence": "What is the total number of other nearest countries to the lakes whose nearest countries is Uganda?",
+        "question_word": "number",
+        "id": 48
+    },
+    {
+        "sentence": "What is the city whose mayor is Giorgos Kaminis?",
+        "question_word": "city",
+        "id": 372
+    },
+    {
+        "sentence": "What is the common location of  tomb of the Elizabeth of Rhuddlan and Isabel of Cambridge?",
+        "question_word": "location",
+        "id": 446
+    },
+    {
+        "sentence": "How many bacterias are there whose division is Firmicutes?",
+        "question_word": "bacterias",
+        "id": 312
+    },
+    {
+        "sentence": "Which hometown of pavel Moroz is also the palace of birthplace of Helena of Moscow?",
+        "question_word": "hometown",
+        "id": 1
+    },
+    {
+        "sentence": "Which movie produced by Michael Deeley was distributed by Warner Bros?",
+        "question_word": "movie",
+        "id": 106
+    },
+    {
+        "sentence": "Which president of United States had vice president as John Adams?",
+        "question_word": "president",
+        "id": 211
+    },
+    {
+        "sentence": "Which HBO's television series was produced by Erik Bork?",
+        "question_word": "series",
+        "id": 332
+    },
+    {
+        "sentence": "Name the serving line of Daund Junction railway station?",
+        "question_word": "line",
+        "id": 41
+    },
+    {
+        "sentence": "What are some licensees of the stations playing in Nashville, Tennessee?",
+        "question_word": "licensees",
+        "id": 112
+    },
+    {
+        "sentence": "How many other important things have been written by the creator of Stuart Alan Jones?",
+        "question_word": "things",
+        "id": 495
+    },
+    {
+        "sentence": "Which countries led by Elizabeth II?",
+        "question_word": "countries",
+        "id": 135
+    },
+    {
+        "sentence": "What is the largest city in america?",
+        "question_word": "city",
+        "id": 250
+    },
+    {
+        "sentence": "Who is the compiler of British Gazette whose prime minister is also Peter Thorneycroft?",
+        "question_word": "compiler",
+        "id": 230
+    },
+    {
+        "sentence": "Give me all presidents of the United States.",
+        "question_word": "presidents",
+        "id": 412
+    },
+    {
+        "sentence": "What is Batman's real name?",
+        "question_word": "name",
+        "id": 497
+    },
+    {
+        "sentence": "Which citys mayor is anne hidalgo?",
+        "question_word": "mayor",
+        "id": 357
+    },
+    {
+        "sentence": "What ingredients are used in preparing the dish of Ragout fin?",
+        "question_word": "ingredients",
+        "id": 59
+    },
+    {
+        "sentence": "Who is the producer of the single which was the subsequent work of He's a Liar?",
+        "question_word": "producer",
+        "id": 517
+    },
+    {
+        "sentence": "Name the tv show with judges Randy Jackson and Jennifer Lopez?",
+        "question_word": "show",
+        "id": 461
+    },
+    {
+        "sentence": "In which cities can i find drinks similar to the IBC root beer?",
+        "question_word": "cities",
+        "id": 224
+    },
+    {
+        "sentence": "How many labels sign up progressive rock artists?",
+        "question_word": "labels",
+        "id": 37
+    },
+    {
+        "sentence": "Which BBC's TV show is related with the Sarah Jane Adventures?",
+        "question_word": "show",
+        "id": 247
+    },
+    {
+        "sentence": "What is the county seat of the county which has an Evergreen High School?",
+        "question_word": "seat",
+        "id": 359
+    },
+    {
+        "sentence": "Which soccer players were born on Malta?",
+        "question_word": "players",
+        "id": 498
+    },
+    {
+        "sentence": "In which timezone does Khok Kwang lie?",
+        "question_word": "timezone",
+        "id": 169
+    },
+    {
+        "sentence": "What is the birth location of the advisor of Richard Hofstadter?",
+        "question_word": "location",
+        "id": 292
+    },
+    {
+        "sentence": "Which person belongs to the board of Howard Hughes Medical Institute?",
+        "question_word": "person",
+        "id": 77
+    },
+    {
+        "sentence": "Who is the prime minister of Michael Jeffery who is also the minister of Williuam Deane?",
+        "question_word": "minister",
+        "id": 481
+    },
+    {
+        "sentence": "Which spouse of Ptolemy XIV had a mother named Ptolemy XII auletes?",
+        "question_word": "spouse",
+        "id": 4
+    },
+    {
+        "sentence": "What are the specialities of the UNC Health Care?",
+        "question_word": "specialities",
+        "id": 83
+    },
+    {
+        "sentence": "List the awards won by the writer of Face to Face?",
+        "question_word": "awards",
+        "id": 290
+    },
+    {
+        "sentence": "In which country is the Chapelle Saint-Louis de Carthage located?",
+        "question_word": "country",
+        "id": 52
+    },
+    {
+        "sentence": "Which office holder's successor is Adrian A. Basora and child named Lori Black?",
+        "question_word": "holder",
+        "id": 422
+    },
+    {
+        "sentence": "How many movies are directed by the spouse of Dolores del Ro?",
+        "question_word": "movies",
+        "id": 260
+    },
+    {
+        "sentence": "Where do cherry chevapravatdumrong and daisi pollard both live?",
+        "question_word": "Where",
+        "id": 84
+    },
+    {
+        "sentence": "How many characters were made by Paul Dini?",
+        "question_word": "characters",
+        "id": 180
+    },
+    {
+        "sentence": "Where was the person born who died in Bryn Mawr Hospital?",
+        "question_word": "Where",
+        "id": 14
+    },
+    {
+        "sentence": "What form of government is found in South Africa?",
+        "question_word": "form",
+        "id": 371
+    },
+    {
+        "sentence": "Who had  Joe Purcell and Winston Bryant as lieutenants?",
+        "question_word": "Who",
+        "id": 147
+    },
+    {
+        "sentence": "Which district of Thorington railway station is the location of death of  David Lewis (poet)?",
+        "question_word": "district",
+        "id": 500
+    },
+    {
+        "sentence": "Who won a Norbert Wiener Award for Social and Professional Responsibility?",
+        "question_word": "Who",
+        "id": 67
+    },
+    {
+        "sentence": "Who managed England national under-20 football team and Middlesbrough F.C.?",
+        "question_word": "Who",
+        "id": 108
+    },
+    {
+        "sentence": "What are the bands associated with the artists of My Favorite Girl?",
+        "question_word": "bands",
+        "id": 397
+    },
+    {
+        "sentence": "List the subsequent work of the albums whose one of the subsequent work is Planet Waves?",
+        "question_word": "work",
+        "id": 210
+    },
+    {
+        "sentence": "Who are the producers of Marie Sisters?",
+        "question_word": "producers",
+        "id": 221
+    },
+    {
+        "sentence": "?What are the airline hubs of Cascade Airways",
+        "question_word": "hubs",
+        "id": 494
+    },
+    {
+        "sentence": "Count the different places where the people died, who were born in England?",
+        "question_word": "places",
+        "id": 239
+    },
+    {
+        "sentence": "List down the schools whose mascot's order is Even-toed ungulate?",
+        "question_word": "schools",
+        "id": 394
+    },
+    {
+        "sentence": "Who was married to president Chirac?",
+        "question_word": "Who",
+        "id": 190
+    },
+    {
+        "sentence": "List the university having affiliation with Graham Holding Company and have a campus in Iowa?",
+        "question_word": "university",
+        "id": 496
+    },
+    {
+        "sentence": "Name the movie whose director is Stanley Kubrick and editor is Anthony Harvey?",
+        "question_word": "movie",
+        "id": 87
+    },
+    {
+        "sentence": "Where is the ground of the soccer club, which has Alan Kusov as a team member?",
+        "question_word": "Where",
+        "id": 56
+    },
+    {
+        "sentence": "Where else did the graduates of the university of west indies study?",
+        "question_word": "Where",
+        "id": 469
+    },
+    {
+        "sentence": "From how many coutries do companies come, which are headquartered in the Klang Valley?",
+        "question_word": "coutries",
+        "id": 102
+    },
+    {
+        "sentence": "Name the ground of Al-Rayan SC?",
+        "question_word": "ground",
+        "id": 419
+    },
+    {
+        "sentence": "What is the birth city of trainer of Leallah?",
+        "question_word": "city",
+        "id": 243
+    },
+    {
+        "sentence": "Name the battle fought by the military persons who also fought in Algeria?",
+        "question_word": "battle",
+        "id": 256
+    },
+    {
+        "sentence": "Name the office holder who has a child named Lori Black and resting place is Alta Mesa Memorial Park?",
+        "question_word": "holder",
+        "id": 125
+    },
+    {
+        "sentence": "How many movies music composers are associated with Demis Roussos?",
+        "question_word": "composers",
+        "id": 504
+    },
+    {
+        "sentence": "Where is Emmett Hughes from?",
+        "question_word": "Where",
+        "id": 98
+    },
+    {
+        "sentence": "What is the predecessor of the car engine which was succeeded by  BMW M43?",
+        "question_word": "predecessor",
+        "id": 317
+    },
+    {
+        "sentence": "Count the number of religions followed by Janta Dal members.",
+        "question_word": "number",
+        "id": 171
+    },
+    {
+        "sentence": "Who did their highschool from a school whose mascot was a fighting tiger?",
+        "question_word": "Who",
+        "id": 96
+    },
+    {
+        "sentence": "How many home stadium are there, of the soccer club seasons whose chairman is Merritt Paulson?",
+        "question_word": "stadium",
+        "id": 399
+    },
+    {
+        "sentence": "Who are all the people who used to figure skate with the current partner of Alexa Scimeca?",
+        "question_word": "Who",
+        "id": 15
+    },
+    {
+        "sentence": "Which newspapers are owned by companies which are under Rolv Erik Ryssdal?",
+        "question_word": "newspapers",
+        "id": 383
+    },
+    {
+        "sentence": "What are the movies whose director's daughter is Luke Scott?",
+        "question_word": "movies",
+        "id": 398
+    },
+    {
+        "sentence": "What awards have been given to some screenwriters?",
+        "question_word": "awards",
+        "id": 28
+    },
+    {
+        "sentence": "What are some magazines whose publishers are themselves Rock and Roll Hall of Fame members?",
+        "question_word": "magazines",
+        "id": 81
+    },
+    {
+        "sentence": "How many different products are there of the companies located in the US?",
+        "question_word": "products",
+        "id": 174
+    },
+    {
+        "sentence": "Name the movie whose director is Ridley Scott and it's music composer is Vangelis?",
+        "question_word": "movie",
+        "id": 232
+    },
+    {
+        "sentence": "List down the important people of The Elders?",
+        "question_word": "people",
+        "id": 277
+    },
+    {
+        "sentence": "Whose provides the service of  Outlook and also products  such as Visual Studio?",
+        "question_word": "provides",
+        "id": 53
+    },
+    {
+        "sentence": "What are some mammals whose phylum is Chordate?",
+        "question_word": "mammals",
+        "id": 9
+    },
+    {
+        "sentence": "Name the person whose parent is Pattie Mallette?",
+        "question_word": "person",
+        "id": 149
+    },
+    {
+        "sentence": "Name the movies distributed by Warner Bros. and directed by Ridley Scott?",
+        "question_word": "movies",
+        "id": 101
+    },
+    {
+        "sentence": "What organisation regulates and controls the New Sanno Hotel?",
+        "question_word": "organisation",
+        "id": 97
+    },
+    {
+        "sentence": "Which memeber of South Asia SubRegional Economic cooperation is also the nationality of Aishath saffa?",
+        "question_word": "memeber",
+        "id": 10
+    },
+    {
+        "sentence": "Who is the artist of Time Radio hour?",
+        "question_word": "artist",
+        "id": 295
+    },
+    {
+        "sentence": "List the battles fought by  Ali Habib Mahmud?",
+        "question_word": "battles",
+        "id": 194
+    },
+    {
+        "sentence": "What is the birth place of the astronaut whose mission was the Vostok programmer?",
+        "question_word": "place",
+        "id": 486
+    },
+    {
+        "sentence": "Who wrote a streetcar named desire?",
+        "question_word": "Who",
+        "id": 233
+    },
+    {
+        "sentence": "Who all play for the Ivory Coast football team?",
+        "question_word": "Who",
+        "id": 204
+    },
+    {
+        "sentence": "Where is the tomb of son of Bruce Lee?",
+        "question_word": "tomb",
+        "id": 380
+    },
+    {
+        "sentence": "Which building after the Burj Khalifa has the most floors?",
+        "question_word": "building",
+        "id": 110
+    },
+    {
+        "sentence": "Which planet was discovered by Johann Gottfired and Urbain Le Verrier?",
+        "question_word": "planet",
+        "id": 284
+    },
+    {
+        "sentence": "What is the bloomington viaduct built to cross?",
+        "question_word": "viaduct",
+        "id": 375
+    },
+    {
+        "sentence": "What is the country whose administrative centre is Hagta, Guam?",
+        "question_word": "country",
+        "id": 177
+    },
+    {
+        "sentence": "What stadium's operator is Stan Kroenke",
+        "question_word": "operator",
+        "id": 220
+    },
+    {
+        "sentence": "Give me the homepage of Forbes.",
+        "question_word": "homepage",
+        "id": 417
+    },
+    {
+        "sentence": "List sports managers who managed Middlesbrough F.C. and England national under-21 football team?",
+        "question_word": "managers",
+        "id": 217
+    },
+    {
+        "sentence": "Name the narrators of the album which has been narrated by Alan Thicke?",
+        "question_word": "narrators",
+        "id": 459
+    },
+    {
+        "sentence": "Which universit's affiliation is with Kalpan, Inc. and has campus at Iowa?",
+        "question_word": "universit",
+        "id": 360
+    },
+    {
+        "sentence": "Name the river whose mouth country is Mozambique and source region is North-Western Province, Zambia?",
+        "question_word": "river",
+        "id": 386
+    },
+    {
+        "sentence": "Which countries have more than ten volcanoes?",
+        "question_word": "countries",
+        "id": 236
+    },
+    {
+        "sentence": "Which awards have been given to the horse who sired Triplicate?",
+        "question_word": "awards",
+        "id": 61
+    },
+    {
+        "sentence": "Which country are the players of the Atletico Petroleos de Luanda from?",
+        "question_word": "country",
+        "id": 434
+    },
+    {
+        "sentence": "What is the place where the mayor's wife is Jean-Marc Germain?",
+        "question_word": "place",
+        "id": 297
+    },
+    {
+        "sentence": "List all episodes of the first season of the HBO television series The Sopranos!",
+        "question_word": "episodes",
+        "id": 43
+    },
+    {
+        "sentence": "Among which basket ball team having arena as The Palace of Auburn hills has president as Stan Van Gundy?",
+        "question_word": "team",
+        "id": 73
+    },
+    {
+        "sentence": "How many universities are in the National Collegiate Athletic Association?",
+        "question_word": "universities",
+        "id": 164
+    },
+    {
+        "sentence": "What was the name of the famous battle in 1836 in San Antonio?",
+        "question_word": "name",
+        "id": 11
+    },
+    {
+        "sentence": "What are the awards won by the film editor of World of Tomorrow?",
+        "question_word": "awards",
+        "id": 12
+    },
+    {
+        "sentence": "List the show related to the which was followed by Doctor Who Extra?",
+        "question_word": "show",
+        "id": 378
+    },
+    {
+        "sentence": "Mike Shinoda is in which band?",
+        "question_word": "band",
+        "id": 488
+    },
+    {
+        "sentence": "How many different things are used as ingredients in Sweden?",
+        "question_word": "things",
+        "id": 72
+    },
+    {
+        "sentence": "Which broadcast area of CFRX is also the palce of birth of Anthony Raymond?",
+        "question_word": "area",
+        "id": 258
+    },
+    {
+        "sentence": "Who is the head coach of 2009-10 Middlesbrough F.C. season?",
+        "question_word": "coach",
+        "id": 379
+    },
+    {
+        "sentence": "What is the capital of Venezuela?",
+        "question_word": "capital",
+        "id": 226
+    },
+    {
+        "sentence": "What are the movies whose music is composed by Vangelis?",
+        "question_word": "movies",
+        "id": 143
+    },
+    {
+        "sentence": "Give me all martial artists trained by Joe Schilling.",
+        "question_word": "artists",
+        "id": 109
+    },
+    {
+        "sentence": "What is the label of Double Diamond (album)?",
+        "question_word": "label",
+        "id": 389
+    },
+    {
+        "sentence": "Where did the beverages sold by Refriango originate?",
+        "question_word": "Where",
+        "id": 255
+    },
+    {
+        "sentence": "Which child of Jack Ferguson became a Prime Minister?",
+        "question_word": "child",
+        "id": 443
+    },
+    {
+        "sentence": "Where was the current champion of Egyptian Open born?",
+        "question_word": "Where",
+        "id": 6
+    },
+    {
+        "sentence": "Where do the people, famous for the Panathinaikos FC reside?",
+        "question_word": "Where",
+        "id": 146
+    },
+    {
+        "sentence": "Where did the relatives of David Hume study?",
+        "question_word": "Where",
+        "id": 307
+    },
+    {
+        "sentence": "Name the TV show whose producer is Stephen E. Ambrose and company is HBO?",
+        "question_word": "show",
+        "id": 103
+    },
+    {
+        "sentence": "What are some devices made by asus?",
+        "question_word": "devices",
+        "id": 254
+    },
+    {
+        "sentence": "Who owns the horses which have won the Timeform award?",
+        "question_word": "Who",
+        "id": 24
+    },
+    {
+        "sentence": "Count the movies directed by Tim Burton and music composer Danny Elfman?",
+        "question_word": "movies",
+        "id": 272
+    },
+    {
+        "sentence": "Which county seats are in the district where I can find the Hylebos Creek?",
+        "question_word": "seats",
+        "id": 326
+    },
+    {
+        "sentence": "Which TV show whose theme is composed by someone signed up with ATO records?",
+        "question_word": "show",
+        "id": 139
+    },
+    {
+        "sentence": "What is the official color of the Carleton University?",
+        "question_word": "color",
+        "id": 262
+    },
+    {
+        "sentence": "What are some things people born in Louisiana are famous for?",
+        "question_word": "people",
+        "id": 228
+    },
+    {
+        "sentence": "Who was the father of Queen Elizabeth II?",
+        "question_word": "father",
+        "id": 502
+    },
+    {
+        "sentence": "Which airports does Yeti Airlines serve?",
+        "question_word": "airports",
+        "id": 153
+    },
+    {
+        "sentence": "In which city was the film star of Singhasan Battisi born?",
+        "question_word": "city",
+        "id": 188
+    },
+    {
+        "sentence": "How many athletic associations are there in all of the private universities?",
+        "question_word": "associations",
+        "id": 408
+    },
+    {
+        "sentence": "What is the area of ITV (Thailand)?",
+        "question_word": "area",
+        "id": 74
+    },
+    {
+        "sentence": "Name the river whose mouth mountain is Southend-on-Sea and mouth place is Essex?",
+        "question_word": "river",
+        "id": 263
+    },
+    {
+        "sentence": "Which contnet license provider of Microsoft Office Picture Manager is also the game platform of Google Clud Connect?",
+        "question_word": "provider",
+        "id": 342
+    },
+    {
+        "sentence": "Which weapons did Heckler & Koch develop?",
+        "question_word": "weapons",
+        "id": 47
+    },
+    {
+        "sentence": "Who is the mayor of Rotterdam?",
+        "question_word": "mayor",
+        "id": 175
+    },
+    {
+        "sentence": "Who created the stadiums who have been rented by the Boston Red Sox?",
+        "question_word": "Who",
+        "id": 366
+    },
+    {
+        "sentence": "Name the HBO TV show written by Erik jendresen?",
+        "question_word": "show",
+        "id": 480
+    },
+    {
+        "sentence": "What prizes have been awarded to the relatives of Linn Ullmann?",
+        "question_word": "prizes",
+        "id": 166
+    },
+    {
+        "sentence": "What are the universities where athletics is regulated by National Collegiate Athletic Association?",
+        "question_word": "universities",
+        "id": 264
+    },
+    {
+        "sentence": "Which officer's final resting place is North Bend, ohio and belongs to Indiana Territory branch",
+        "question_word": "officer",
+        "id": 31
+    },
+    {
+        "sentence": "Which TV shows distributor is Broadcast syndication and developed by Brian Graden?",
+        "question_word": "shows",
+        "id": 407
+    },
+    {
+        "sentence": "What are the movies whose distributor's headquarters is New York?",
+        "question_word": "movies",
+        "id": 492
+    },
+    {
+        "sentence": "In which nation does the league take place where C.D. Primeiro de Agosto play?",
+        "question_word": "nation",
+        "id": 265
+    },
+    {
+        "sentence": "To which family does korean fox belongs to?",
+        "question_word": "family",
+        "id": 274
+    },
+    {
+        "sentence": "Which collaborator of Nice and Smooth wrote Same Song?",
+        "question_word": "collaborator",
+        "id": 158
+    },
+    {
+        "sentence": "Which key person of maryland jockey club is the appointer of Joseph Clay?",
+        "question_word": "person",
+        "id": 151
+    },
+    {
+        "sentence": "Who is a famous relative of Aaround Van Heemstra?",
+        "question_word": "relative",
+        "id": 196
+    },
+    {
+        "sentence": "How many total religions are followed by people whose hometown is somewhere in India?",
+        "question_word": "religions",
+        "id": 462
+    },
+    {
+        "sentence": "Who influenced the author of The Shooting of Dan McGrew?",
+        "question_word": "Who",
+        "id": 405
+    },
+    {
+        "sentence": "Who is the vice president of Jared Bernstein?",
+        "question_word": "president",
+        "id": 350
+    },
+    {
+        "sentence": "Which broadcast area of Mauritius Broadcasting Corporation is also the nationality of Michael Medor?",
+        "question_word": "area",
+        "id": 484
+    },
+    {
+        "sentence": "Where do current famous NatGeo photographers live?",
+        "question_word": "Where",
+        "id": 5
+    },
+    {
+        "sentence": "How many teams was Garry Unger in, previously?",
+        "question_word": "teams",
+        "id": 251
+    },
+    {
+        "sentence": "Food in which countries has shallot in it?",
+        "question_word": "countries",
+        "id": 240
+    },
+    {
+        "sentence": "What is the allegiance of John Kotelawala?",
+        "question_word": "allegiance",
+        "id": 62
+    },
+    {
+        "sentence": "What country provides a citizenship too Newin Chidchob and Seni Pramoj?",
+        "question_word": "country",
+        "id": 205
+    },
+    {
+        "sentence": "Give me all soccer clubs in the Premier League.",
+        "question_word": "clubs",
+        "id": 388
+    },
+    {
+        "sentence": "What is the name of the television show whose company is Paramount Television and theme music composer is Gary Portnoy?",
+        "question_word": "name",
+        "id": 99
+    },
+    {
+        "sentence": "Where are jockeys in Dubai World Cup from?",
+        "question_word": "Where",
+        "id": 287
+    },
+    {
+        "sentence": "Where did Deion Sanders debut?",
+        "question_word": "Where",
+        "id": 310
+    },
+    {
+        "sentence": "List the program genres of the sister stations of 97.1 WASH FM?",
+        "question_word": "genres",
+        "id": 337
+    },
+    {
+        "sentence": "Which mainter of Pandaruan Bridge is also the land of Malaysia junior Hockey league?",
+        "question_word": "mainter",
+        "id": 466
+    },
+    {
+        "sentence": "Name everyone working for a company owned by Roman Abramovich.",
+        "question_word": "everyone",
+        "id": 95
+    },
+    {
+        "sentence": "Which magazine's editor's official residence is Playboy Mansion?",
+        "question_word": "magazine",
+        "id": 179
+    },
+    {
+        "sentence": "What team has Sam Keller and Jim McMilin played for?",
+        "question_word": "team",
+        "id": 280
+    },
+    {
+        "sentence": "What tv series can be said to be related to the sarah jane adventure and dr who confidential?",
+        "question_word": "series",
+        "id": 338
+    },
+    {
+        "sentence": "What municipalities are adjacent to Chne-Bougeries?",
+        "question_word": "municipalities",
+        "id": 430
+    },
+    {
+        "sentence": "Where can i find salad based food?",
+        "question_word": "Where",
+        "id": 406
+    },
+    {
+        "sentence": "Who is the king of the Netherlands?",
+        "question_word": "king",
+        "id": 499
+    },
+    {
+        "sentence": "Which countries have more than two official languages?",
+        "question_word": "countries",
+        "id": 393
+    },
+    {
+        "sentence": "Name all sitcoms whose theme music is made by Miley Cyrus?",
+        "question_word": "sitcoms",
+        "id": 189
+    },
+    {
+        "sentence": "Through which counties does the road go which starts at the Port Klang?",
+        "question_word": "counties",
+        "id": 325
+    },
+    {
+        "sentence": "How many cars can I find related to the cars which have a V8 engine?",
+        "question_word": "cars",
+        "id": 252
+    },
+    {
+        "sentence": "What is the faith of Kwai Chang Caine?",
+        "question_word": "faith",
+        "id": 501
+    },
+    {
+        "sentence": "List the music of Open House (American Horror Story)?",
+        "question_word": "music",
+        "id": 25
+    },
+    {
+        "sentence": "Who has authored books published by the Perkins school for the Blind?",
+        "question_word": "Who",
+        "id": 197
+    },
+    {
+        "sentence": "How many people have fought wars where Arthur St. Clair was a commander?",
+        "question_word": "people",
+        "id": 415
+    },
+    {
+        "sentence": "How many movies have been directed by almunies of Parsons School of Design?",
+        "question_word": "movies",
+        "id": 121
+    },
+    {
+        "sentence": "What is the mascot of the unit whose garrison is Canberra?",
+        "question_word": "mascot",
+        "id": 315
+    },
+    {
+        "sentence": "Which countries came together to serve a greater purpose and founded South Asia Subregional Economic Cooperation?",
+        "question_word": "countries",
+        "id": 270
+    },
+    {
+        "sentence": "What are the kind of games one can play on windows?",
+        "question_word": "kind",
+        "id": 57
+    },
+    {
+        "sentence": "How many things are produced by companies located in Tehran?",
+        "question_word": "things",
+        "id": 187
+    },
+    {
+        "sentence": "What are some wars fought when Chung Il Kwon as the country's prime minister?",
+        "question_word": "wars",
+        "id": 145
+    },
+    {
+        "sentence": "Which researchers received fellowship from Royal Society?",
+        "question_word": "researchers",
+        "id": 36
+    },
+    {
+        "sentence": "Which films did Stanley Kubrick direct?",
+        "question_word": "films",
+        "id": 291
+    },
+    {
+        "sentence": "Give me a count of airlines whose hub airport is Los Angeles International Airport?",
+        "question_word": "count",
+        "id": 155
+    },
+    {
+        "sentence": "List the common relegion affiliation of khadra Haji Ismail and Yasmin khatun?",
+        "question_word": "affiliation",
+        "id": 128
+    },
+    {
+        "sentence": "Naval station mobile and naval support activity, naples are under which branch of Us military?",
+        "question_word": "branch",
+        "id": 288
+    },
+    {
+        "sentence": "Which operating system provider of LG Optimus Vu is also the employer of Manu Cornet?",
+        "question_word": "system",
+        "id": 273
+    },
+    {
+        "sentence": "How many different genres of games can I find which are compatible with the Commodore 64?",
+        "question_word": "genres",
+        "id": 76
+    },
+    {
+        "sentence": "Name the sports played by PATTS College of Aeronautics?",
+        "question_word": "sports",
+        "id": 508
+    },
+    {
+        "sentence": "What is the place of death of the gymnast who was the silver medalist at the 1956 Summer Olympics Men's rings?",
+        "question_word": "place",
+        "id": 46
+    },
+    {
+        "sentence": "Members of how many political parties have died in Delhi?",
+        "question_word": "parties",
+        "id": 68
+    },
+    {
+        "sentence": "How many sports are played at the university whose president is Emanuel de Guzman?",
+        "question_word": "sports",
+        "id": 154
+    },
+    {
+        "sentence": "Who is the editor of Semana?",
+        "question_word": "editor",
+        "id": 157
+    },
+    {
+        "sentence": "What is the birth name of Adele?",
+        "question_word": "name",
+        "id": 192
+    },
+    {
+        "sentence": "Which  NASA astronaut was on mission Gemini 8?",
+        "question_word": "astronaut",
+        "id": 311
+    },
+    {
+        "sentence": "Name the team Ramiro Pea played for, which was also the first team of Steve Ontiveros?",
+        "question_word": "team",
+        "id": 118
+    },
+    {
+        "sentence": "What is the award which is presented by Swedish Academy?",
+        "question_word": "award",
+        "id": 445
+    },
+    {
+        "sentence": "Name the resting place of Fazlur Rahman Khan?",
+        "question_word": "place",
+        "id": 448
+    },
+    {
+        "sentence": "Who is the prime minister that Michael Jeffery served?",
+        "question_word": "minister",
+        "id": 113
+    },
+    {
+        "sentence": "What currencies are used in the countries which have been governed by Francois Hollande?",
+        "question_word": "currencies",
+        "id": 314
+    },
+    {
+        "sentence": "Name the notable commanders of Army Group Oberrhein?",
+        "question_word": "commanders",
+        "id": 403
+    },
+    {
+        "sentence": "Where do I find buildings rented by Weber Thompson?",
+        "question_word": "Where",
+        "id": 418
+    },
+    {
+        "sentence": "Who are the key people of FWD.us?",
+        "question_word": "people",
+        "id": 482
+    },
+    {
+        "sentence": "How tall is Amazon Eve?",
+        "question_word": "tall",
+        "id": 331
+    },
+    {
+        "sentence": "What is the district of Fort Heath radar station?",
+        "question_word": "district",
+        "id": 185
+    },
+    {
+        "sentence": "Who are the producers of the movies  which has music by Gary Chang?",
+        "question_word": "producers",
+        "id": 122
+    },
+    {
+        "sentence": "What is the religion of the governors whose office is the Bank of Thailand?",
+        "question_word": "religion",
+        "id": 241
+    },
+    {
+        "sentence": "From how many different places have participants of Breeders's Cup Turf come?",
+        "question_word": "places",
+        "id": 520
+    },
+    {
+        "sentence": "How many things are aired on BBC HD?",
+        "question_word": "things",
+        "id": 249
+    },
+    {
+        "sentence": "What are the reason served by Toll Global Express which is also the country of LPGA?",
+        "question_word": "reason",
+        "id": 432
+    },
+    {
+        "sentence": "Name all the bands which have members of QDT in them.",
+        "question_word": "bands",
+        "id": 219
+    },
+    {
+        "sentence": "How many TV shows are of the company which are of company which is a subsidiary of Big  Ticket Entertainment?",
+        "question_word": "shows",
+        "id": 238
+    },
+    {
+        "sentence": "How many albums did the maker of The Band produce?",
+        "question_word": "albums",
+        "id": 343
+    },
+    {
+        "sentence": "Name the sovereign state of Wallington railway station?",
+        "question_word": "state",
+        "id": 320
+    },
+    {
+        "sentence": "Which cloud platform of Google cloud connect also provides services to 21Vianet?",
+        "question_word": "platform",
+        "id": 213
+    },
+    {
+        "sentence": "List the services provided by the company which provides Microsoft azure as one of the service?",
+        "question_word": "services",
+        "id": 440
+    },
+    {
+        "sentence": "When did Paraguay proclaim its independence?",
+        "question_word": "When",
+        "id": 435
+    },
+    {
+        "sentence": "How often did Teresa Mo marry?",
+        "question_word": "often",
+        "id": 361
+    },
+    {
+        "sentence": "List the universities from a country where Norwegian language is officially accepted.",
+        "question_word": "universities",
+        "id": 79
+    },
+    {
+        "sentence": "How many companies were founded in the same year as Google?",
+        "question_word": "companies",
+        "id": 306
+    },
+    {
+        "sentence": "Which tv series have a score composed by judy hard angelo?",
+        "question_word": "series",
+        "id": 506
+    },
+    {
+        "sentence": "Who created Goofy?",
+        "question_word": "Who",
+        "id": 191
+    },
+    {
+        "sentence": "Where does the river flow into which begins in Lebrsnik?",
+        "question_word": "Where",
+        "id": 424
+    },
+    {
+        "sentence": "Which awards did the narrator of Oscar and Lucinda win?",
+        "question_word": "awards",
+        "id": 231
+    },
+    {
+        "sentence": "Whose deputy is Neil Brown?",
+        "question_word": "deputy",
+        "id": 438
+    },
+    {
+        "sentence": "What games are played at universities in Lanao Del Sur?",
+        "question_word": "games",
+        "id": 509
+    },
+    {
+        "sentence": "What are the awards won by the person who is an authority of Latania verschaffeltii?",
+        "question_word": "awards",
+        "id": 515
+    },
+    {
+        "sentence": "With what company is the service OneDrive associated?",
+        "question_word": "company",
+        "id": 293
+    },
+    {
+        "sentence": "What are some movies written by British writers?",
+        "question_word": "movies",
+        "id": 93
+    },
+    {
+        "sentence": "List all the record label distributed by the distributor of Zune?",
+        "question_word": "label",
+        "id": 104
+    },
+    {
+        "sentence": "Which cport of Vishwajyot High School is also the genere of Battle chess",
+        "question_word": "cport",
+        "id": 32
+    },
+    {
+        "sentence": "Where is the residence of the prime minister of Spain?",
+        "question_word": "residence",
+        "id": 344
+    },
+    {
+        "sentence": "Give me the websites of companies with more than 500000 employees.",
+        "question_word": "websites",
+        "id": 463
+    },
+    {
+        "sentence": "Name the military conflict whose commander was Colin Powell and took place in israel?",
+        "question_word": "conflict",
+        "id": 58
+    },
+    {
+        "sentence": "How many awards have graduates from the University of Queensland earned?",
+        "question_word": "awards",
+        "id": 514
+    },
+    {
+        "sentence": "What is the country whose leader was once Valentina Matviyenko?",
+        "question_word": "country",
+        "id": 80
+    },
+    {
+        "sentence": "Name the mountain which belongs to Sierra Nevada range and is located in Inyo National Forest?",
+        "question_word": "mountain",
+        "id": 40
+    },
+    {
+        "sentence": "Who is the  distributor of Rev (drink)?",
+        "question_word": "distributor",
+        "id": 421
+    },
+    {
+        "sentence": "How many theories did Albert Einstein come up with?",
+        "question_word": "theories",
+        "id": 324
+    },
+    {
+        "sentence": "What came before  PlayStation 4 and uses PlayStation 3 system software as OS?",
+        "question_word": "What",
+        "id": 200
+    },
+    {
+        "sentence": "What is the layout of the cars similar to that of the Subaru Outback?",
+        "question_word": "layout",
+        "id": 507
+    },
+    {
+        "sentence": "Name some politicians buried in a place near Orange Virginia?",
+        "question_word": "politicians",
+        "id": 374
+    },
+    {
+        "sentence": "Who is the architect of Red House, London?",
+        "question_word": "architect",
+        "id": 50
+    },
+    {
+        "sentence": "What is the religion of the successor of Chatumongol Sonakul?",
+        "question_word": "religion",
+        "id": 490
+    },
+    {
+        "sentence": "Which German cities have more than 250000 inhabitants?",
+        "question_word": "cities",
+        "id": 433
+    },
+    {
+        "sentence": "Who is the current federal minister of finance in Germany?",
+        "question_word": "minister",
+        "id": 452
+    },
+    {
+        "sentence": "For which country did Alexander Lippisch design airplanes?",
+        "question_word": "country",
+        "id": 346
+    },
+    {
+        "sentence": "Which artist made the album Old School Prankstas?",
+        "question_word": "artist",
+        "id": 385
+    },
+    {
+        "sentence": "Which company's cars are assembled in Iran?",
+        "question_word": "company",
+        "id": 227
+    },
+    {
+        "sentence": "Count all the places where companies located in Ontario operate.",
+        "question_word": "places",
+        "id": 39
+    },
+    {
+        "sentence": "Count the number of artists in the Cirque du Soleil discography?",
+        "question_word": "number",
+        "id": 44
+    },
+    {
+        "sentence": "In how many places has Garbage recorded their songs?",
+        "question_word": "places",
+        "id": 413
+    },
+    {
+        "sentence": "What is the debut team of the american football player who studied in North Fort Myers High School?",
+        "question_word": "team",
+        "id": 137
+    },
+    {
+        "sentence": "What is the parent company of Edsel?",
+        "question_word": "company",
+        "id": 142
+    },
+    {
+        "sentence": "What is the launch site of Aquarius (rocket)?",
+        "question_word": "site",
+        "id": 94
+    },
+    {
+        "sentence": "How many dishes are made with an ingredient belonging to the flowering plant species?",
+        "question_word": "dishes",
+        "id": 467
+    },
+    {
+        "sentence": "Which birthpalce of Svetlana Gounkina is also the largest city of Union State?",
+        "question_word": "birthpalce",
+        "id": 294
+    },
+    {
+        "sentence": "Who are the tenants of the stadium where the UFC 140 is located?",
+        "question_word": "tenants",
+        "id": 38
+    },
+    {
+        "sentence": "What are some awards given to the french people?",
+        "question_word": "awards",
+        "id": 348
+    },
+    {
+        "sentence": "What are the cities around the sea which flows into the Atlantic?",
+        "question_word": "cities",
+        "id": 16
+    },
+    {
+        "sentence": "Who is the owner of Rolls-Royce?",
+        "question_word": "owner",
+        "id": 29
+    },
+    {
+        "sentence": "Which religion's people are member of BJP?",
+        "question_word": "religion",
+        "id": 13
+    },
+    {
+        "sentence": "What is the area of Tar Heel Sports Network?",
+        "question_word": "area",
+        "id": 268
+    },
+    {
+        "sentence": "How many movies have been cinematographed by Jordan Cronenweth?",
+        "question_word": "movies",
+        "id": 477
+    },
+    {
+        "sentence": "What is the national origin of Dornier Aerodyne and Hirth Acrostar ?;",
+        "question_word": "origin",
+        "id": 319
+    },
+    {
+        "sentence": "Who hold stocks in the bank which is located at 731 Lexington Avenue?",
+        "question_word": "Who",
+        "id": 119
+    },
+    {
+        "sentence": "Who does Cam PLante plays for?",
+        "question_word": "Who",
+        "id": 141
+    },
+    {
+        "sentence": "Who produces Orangina?",
+        "question_word": "Who",
+        "id": 176
+    },
+    {
+        "sentence": "Where does the publisher of Kathimerini live?",
+        "question_word": "Where",
+        "id": 150
+    },
+    {
+        "sentence": "What are the movies with Daniel Waters as screenwriter?",
+        "question_word": "movies",
+        "id": 244
+    },
+    {
+        "sentence": "Who is the narrator of The Incredible Hulk , 1982 TV series?",
+        "question_word": "narrator",
+        "id": 296
+    },
+    {
+        "sentence": "List the common prime minister of the Robert Ray and graham richardson?",
+        "question_word": "minister",
+        "id": 253
+    },
+    {
+        "sentence": "What is the county seat of the district through which the Beckler River flows?",
+        "question_word": "seat",
+        "id": 305
+    },
+    {
+        "sentence": "Name the scientist whose academic advisor is Karl Ewald Hasse and supervisor is Georg Meissner?",
+        "question_word": "scientist",
+        "id": 186
+    },
+    {
+        "sentence": "Which city's governing body is led by Bruce Harrell?",
+        "question_word": "body",
+        "id": 209
+    },
+    {
+        "sentence": "Count all the ethinic group who speaks language which belongs to Anglo-Frisian language family?",
+        "question_word": "group",
+        "id": 382
+    },
+    {
+        "sentence": "Which common prime minister did Graham Richardson and Bon McMullan serve?",
+        "question_word": "minister",
+        "id": 358
+    },
+    {
+        "sentence": "How many developers make softwares for Unix like operating systems?",
+        "question_word": "developers",
+        "id": 442
+    },
+    {
+        "sentence": "What program is  presented by Brian Dunkleman and has artist as Simon Fuller?",
+        "question_word": "program",
+        "id": 91
+    },
+    {
+        "sentence": "Whose associate is Publius Servilius Vatia Isauricus and has predecessor as Lucius Cornelius Lentulus Crus?",
+        "question_word": "associate",
+        "id": 271
+    },
+    {
+        "sentence": "In which country's cuisine, ham is an important part?",
+        "question_word": "cuisine",
+        "id": 457
+    },
+    {
+        "sentence": "Which office holder's military unit is USS Kittiwake  and constituency is Castro District, San Francisco?",
+        "question_word": "holder",
+        "id": 513
+    },
+    {
+        "sentence": "Where are Aureus and Solidus used as currency?",
+        "question_word": "Where",
+        "id": 51
+    },
+    {
+        "sentence": "Give me all Methodist politicians.",
+        "question_word": "politicians",
+        "id": 237
+    },
+    {
+        "sentence": "Cleopatra V of Egypt is father to which royalty?",
+        "question_word": "royalty",
+        "id": 178
+    },
+    {
+        "sentence": "What is the draft team of Antoine Bibeau?",
+        "question_word": "team",
+        "id": 427
+    },
+    {
+        "sentence": "Who are some miss michigan usa?",
+        "question_word": "miss",
+        "id": 120
+    },
+    {
+        "sentence": "What is the total number of relgions followed by people born in Bangkok?",
+        "question_word": "number",
+        "id": 195
+    },
+    {
+        "sentence": "Which current member of Insect vs Robots is also the music composer of Kenny Dies?",
+        "question_word": "member",
+        "id": 63
+    },
+    {
+        "sentence": "Who wrote Heroman?",
+        "question_word": "Who",
+        "id": 116
+    },
+    {
+        "sentence": "Which musical artist collaborated with Tony Allen (musician) and label is Victor Entertainment?",
+        "question_word": "artist",
+        "id": 234
+    },
+    {
+        "sentence": "River which flows into the eugene mahoney state park pass through which states?",
+        "question_word": "flows",
+        "id": 431
+    },
+    {
+        "sentence": "Name the  people whose residence is Beverly Hills, California?",
+        "question_word": "people",
+        "id": 491
+    },
+    {
+        "sentence": "Where was david Scherman trained?",
+        "question_word": "Where",
+        "id": 321
+    },
+    {
+        "sentence": "Count the number of characters of the play whose one of the character is Catwoman?",
+        "question_word": "number",
+        "id": 396
+    },
+    {
+        "sentence": "What is the timezone in San Pedro de Atacama?",
+        "question_word": "timezone",
+        "id": 373
+    },
+    {
+        "sentence": "List all the former broadcast network of WMDN?",
+        "question_word": "network",
+        "id": 328
+    },
+    {
+        "sentence": "What team did the players start their careers with, who right now play for Fleisher Yarn?",
+        "question_word": "team",
+        "id": 436
+    },
+    {
+        "sentence": "Which saints were the messengers of Islam?",
+        "question_word": "saints",
+        "id": 19
+    },
+    {
+        "sentence": "What is the smallest city by area in Germany?",
+        "question_word": "city",
+        "id": 363
+    },
+    {
+        "sentence": "How many people have led agencies in German occupied Europe?",
+        "question_word": "people",
+        "id": 42
+    },
+    {
+        "sentence": "Who all have appointed governess born in Magnolia Plantation gardens?",
+        "question_word": "Who",
+        "id": 193
+    },
+    {
+        "sentence": "What famous musicians play the remo?",
+        "question_word": "musicians",
+        "id": 300
+    },
+    {
+        "sentence": "What is the product of the BBC Multimedia and is the theme of Visions, the convention?",
+        "question_word": "product",
+        "id": 478
+    },
+    {
+        "sentence": "How many missions does the Soyuz programme have?",
+        "question_word": "missions",
+        "id": 129
+    },
+    {
+        "sentence": "Which american football team is owned by Mark davis and is located in O.co Colliseum?",
+        "question_word": "team",
+        "id": 70
+    },
+    {
+        "sentence": "For which team does Ramiro Pea play?",
+        "question_word": "team",
+        "id": 259
+    },
+    {
+        "sentence": "Which cities have the river one of whose Tributary is the Missouri's big spring?",
+        "question_word": "cities",
+        "id": 167
+    },
+    {
+        "sentence": "Which state's largest city is Omaha?",
+        "question_word": "state",
+        "id": 400
+    },
+    {
+        "sentence": "List the television shows whose network's executive officer is Steve Burke.",
+        "question_word": "shows",
+        "id": 453
+    },
+    {
+        "sentence": "What is the mouth mountain of Current River (Missouri)?",
+        "question_word": "mountain",
+        "id": 439
+    },
+    {
+        "sentence": "How many movies were directed by the graduate of Burbank High School?",
+        "question_word": "movies",
+        "id": 447
+    },
+    {
+        "sentence": "What are the home stadiums of the things Leonid Fedun has been the chairman of?",
+        "question_word": "stadiums",
+        "id": 519
+    },
+    {
+        "sentence": "In which city was the company founded , which owns Grasim Bhiwani Textiles?",
+        "question_word": "city",
+        "id": 425
+    },
+    {
+        "sentence": "What cities are around the sea which flows into Marmara?",
+        "question_word": "cities",
+        "id": 377
+    },
+    {
+        "sentence": "What are some artists on the show whose opening theme is Send It On?",
+        "question_word": "artists",
+        "id": 329
+    },
+    {
+        "sentence": "How many people live in the capital of Togo?",
+        "question_word": "people",
+        "id": 401
+    },
+    {
+        "sentence": "In which country is the Limerick Lake?",
+        "question_word": "country",
+        "id": 148
+    },
+    {
+        "sentence": "Count all the books written by an author buried in the Convent of Barefoot Trinitarians?",
+        "question_word": "books",
+        "id": 362
+    },
+    {
+        "sentence": "What awards did the film director of The Haunted House win?",
+        "question_word": "awards",
+        "id": 214
+    },
+    {
+        "sentence": "What is the common genere of Abhijit Kunte and Kasparov?",
+        "question_word": "genere",
+        "id": 144
+    },
+    {
+        "sentence": "Which office holder's resting place is Alta Mesa Memorial park and has adrian A. Basora as successor?",
+        "question_word": "holder",
+        "id": 282
+    },
+    {
+        "sentence": "Count me all the video game distributor whose parent company is Warner Bros?",
+        "question_word": "distributor",
+        "id": 115
+    },
+    {
+        "sentence": "Who is the founder of the trade union which affiliates Amalgamated Association of Iron and Steel Workers?",
+        "question_word": "founder",
+        "id": 309
+    },
+    {
+        "sentence": "Name the common architecture of the Grand Serail of Aleppo and Shaheed Minar, Kolkata?",
+        "question_word": "architecture",
+        "id": 423
+    },
+    {
+        "sentence": "What is the total number of fictional characters whose created by  Greg Daniels and series is The Office (U.S. TV series)?",
+        "question_word": "number",
+        "id": 35
+    },
+    {
+        "sentence": "Which largest city of Salsette Island is also the largest city of India?",
+        "question_word": "city",
+        "id": 391
+    },
+    {
+        "sentence": "Name the members of youth clubs which have Camp Nou as their homeground.",
+        "question_word": "members",
+        "id": 246
+    },
+    {
+        "sentence": "WHo gave the lyrcis of Doonesbury?",
+        "question_word": "WHo",
+        "id": 283
+    },
+    {
+        "sentence": "Who is a successor of Kingship whose parents were Julius Caesar?",
+        "question_word": "successor",
+        "id": 69
+    },
+    {
+        "sentence": "Which country has leaders  Karu Jayasuriya and Ranil Wickremesinghe?",
+        "question_word": "country",
+        "id": 390
+    },
+    {
+        "sentence": "Which things have been located, where governance is Houston City Council?",
+        "question_word": "things",
+        "id": 449
+    },
+    {
+        "sentence": "To which party do the politicians who died in Delhi belong?",
+        "question_word": "party",
+        "id": 223
+    },
+    {
+        "sentence": "How many islands belong to archipelagos located in the pacific?",
+        "question_word": "islands",
+        "id": 124
+    },
+    {
+        "sentence": "List the current members of Metro Station (band)?",
+        "question_word": "members",
+        "id": 489
+    },
+    {
+        "sentence": "Who are the writer of the singles whose music genre is Rhythm and blues?",
+        "question_word": "writer",
+        "id": 198
+    },
+    {
+        "sentence": "What are the awards won by the producer of Elizabeth: The Golden Age?",
+        "question_word": "awards",
+        "id": 86
+    },
+    {
+        "sentence": "How large is the area of UK?",
+        "question_word": "large",
+        "id": 85
+    },
+    {
+        "sentence": "What are the notable commanders of the army  whose one of the notable commanders is Paul Hausser?",
+        "question_word": "commanders",
+        "id": 334
+    },
+    {
+        "sentence": "Name the river with mouth as Thames Estuary and passes through Reading Berkshire?",
+        "question_word": "river",
+        "id": 184
+    },
+    {
+        "sentence": "Which countries are connected by the Rhine?",
+        "question_word": "countries",
+        "id": 2
+    },
+    {
+        "sentence": "Who is known for are War of 1812 and Battle of the Thames?",
+        "question_word": "Who",
+        "id": 218
+    },
+    {
+        "sentence": "Which currency is used by the record label of the Way to Your Heart?",
+        "question_word": "currency",
+        "id": 451
+    },
+    {
+        "sentence": "Which scientist's academic advisor is Georg Meissner and is known for invention of Anthrax?",
+        "question_word": "scientist",
+        "id": 34
+    },
+    {
+        "sentence": "Malaysian highway authority has designed bridges over what things?",
+        "question_word": "things",
+        "id": 521
+    },
+    {
+        "sentence": "List the territory of Tonkin Campaign?",
+        "question_word": "territory",
+        "id": 55
+    },
+    {
+        "sentence": "Which members of the Wu-Tang Clan took their stage name from a movie?",
+        "question_word": "members",
+        "id": 369
+    },
+    {
+        "sentence": "Where is the headquarters of Metro Transit (Minnesota)?",
+        "question_word": "Where",
+        "id": 269
+    },
+    {
+        "sentence": "Which Chess players died in the same place they were born in?",
+        "question_word": "players",
+        "id": 66
+    },
+    {
+        "sentence": "Give me all the TV shows with Neil Patrick Harris.",
+        "question_word": "shows",
+        "id": 75
+    },
+    {
+        "sentence": "Who developed Slack?",
+        "question_word": "Who",
+        "id": 267
+    },
+    {
+        "sentence": "Who is the governor of Carl McCall?",
+        "question_word": "governor",
+        "id": 384
+    },
+    {
+        "sentence": "Which constructor's team won the 1967 Mexican Grand Prix?",
+        "question_word": "constructor",
+        "id": 23
+    },
+    {
+        "sentence": "Which animal is the mascot of the 1502nd Infantry Brigade (Ready Reserve) and Galatasaray Handball Team?",
+        "question_word": "animal",
+        "id": 206
+    },
+    {
+        "sentence": "Which builder of Edwin Andrews Air Base isalso place of birth of the Akinoumi Setsuo?",
+        "question_word": "builder",
+        "id": 511
+    },
+    {
+        "sentence": "What is the death location of the scientist who is the known authority of Hallopus?",
+        "question_word": "location",
+        "id": 322
+    },
+    {
+        "sentence": "What is the alma mater of Julian Leow Beng Kim?",
+        "question_word": "mater",
+        "id": 367
+    },
+    {
+        "sentence": "Which magazines were founded by ann Wenner?",
+        "question_word": "magazines",
+        "id": 493
+    },
+    {
+        "sentence": "Which city near Nihoa is the place of death of jim Brady?",
+        "question_word": "city",
+        "id": 88
+    },
+    {
+        "sentence": "What is the religion of the president who won the Mongolian legislative election, 2004?",
+        "question_word": "religion",
+        "id": 313
+    },
+    {
+        "sentence": "What is the order of the Omar D. Conger where Robert Sarvis was also the nominee?",
+        "question_word": "order",
+        "id": 409
+    },
+    {
+        "sentence": "Who has had been the tenant of the stadium built by PCL construction firm?",
+        "question_word": "tenant",
+        "id": 341
+    },
+    {
+        "sentence": "Name the musical band of Written in the Stars?",
+        "question_word": "band",
+        "id": 333
+    },
+    {
+        "sentence": "What actor of Le Cirque is a relative of Maryanne Trump barry?",
+        "question_word": "actor",
+        "id": 416
+    },
+    {
+        "sentence": "Name the river which flows through the closest city of Mount Raimer?",
+        "question_word": "river",
+        "id": 302
+    },
+    {
+        "sentence": "Return some  players who have played in the NBA?",
+        "question_word": "players",
+        "id": 248
+    },
+    {
+        "sentence": "What is the total number of office holders who preceded the people working under president bill clinton?",
+        "question_word": "number",
+        "id": 347
+    },
+    {
+        "sentence": "Which Paramount TV show was produced by Glen and Les Charles?",
+        "question_word": "show",
+        "id": 160
+    },
+    {
+        "sentence": "Where was the \"Father of Singapore\" born?",
+        "question_word": "Where",
+        "id": 245
+    },
+    {
+        "sentence": "What is the television show with presentator as Ryan Seacrest and theme music composer as Julian Gingell?",
+        "question_word": "show",
+        "id": 202
+    },
+    {
+        "sentence": "Give me all European Capitals!",
+        "question_word": "Capitals",
+        "id": 181
+    },
+    {
+        "sentence": "How many titles were given to people who engaged in the Operation Dragoon?",
+        "question_word": "titles",
+        "id": 479
+    },
+    {
+        "sentence": "Who is the president of United World College of Costa Rica?",
+        "question_word": "president",
+        "id": 225
+    },
+    {
+        "sentence": "What is the architecture of First National Bank and Trust Building (Lima, Ohio)?",
+        "question_word": "architecture",
+        "id": 60
+    },
+    {
+        "sentence": "Name the mountain whose range is Sierra Nevada (U.S.) and parent mountain peak is Nevado de Toluca?",
+        "question_word": "mountain",
+        "id": 7
+    },
+    {
+        "sentence": "Who debuted their career in a team coached by Chip Kelly?",
+        "question_word": "Who",
+        "id": 21
+    },
+    {
+        "sentence": "What mammals fall into the biological family Canidae?",
+        "question_word": "mammals",
+        "id": 487
+    },
+    {
+        "sentence": "What is the highest mountain in Saxony Germany?",
+        "question_word": "mountain",
+        "id": 437
+    },
+    {
+        "sentence": "Which of the continents that Digitalb worked in, was christine rolfes born in?",
+        "question_word": "continents",
+        "id": 330
+    },
+    {
+        "sentence": "Name the commanders of military conflicts where Roundhead was one of the commander?",
+        "question_word": "commanders",
+        "id": 275
+    },
+    {
+        "sentence": "What are some players of England national football team?",
+        "question_word": "players",
+        "id": 140
+    },
+    {
+        "sentence": "Which party won both the general electoin and the andhra pradesh election in 2004?",
+        "question_word": "party",
+        "id": 316
+    },
+    {
+        "sentence": "What is the deathplace of people who have worked in Ethics?",
+        "question_word": "deathplace",
+        "id": 349
+    },
+    {
+        "sentence": "What is the city of the Maine School of Science and Mathematics is also the resting place of Charles A. Boutelle?",
+        "question_word": "city",
+        "id": 123
+    },
+    {
+        "sentence": "List all the presidents of the school which had atleast one of the president as Queen Noor of Jordan?",
+        "question_word": "presidents",
+        "id": 301
+    },
+    {
+        "sentence": "What is the common branch of military of Edward Joseph Schwartz  and John Tower?",
+        "question_word": "branch",
+        "id": 308
+    },
+    {
+        "sentence": "For which label did Elvis record his first album?",
+        "question_word": "label",
+        "id": 126
+    },
+    {
+        "sentence": "List all areas served by the radio station serving South carolina?",
+        "question_word": "areas",
+        "id": 78
+    },
+    {
+        "sentence": "Count the number of shows whose creators are Jerry Seinfeld and Larry David?",
+        "question_word": "number",
+        "id": 365
+    },
+    {
+        "sentence": "What is the total number of other characters of the plays whose characters is Robin (comics)?",
+        "question_word": "number",
+        "id": 8
+    },
+    {
+        "sentence": "Graduates of Somerville College have been in how many political parties?",
+        "question_word": "parties",
+        "id": 429
+    },
+    {
+        "sentence": "How many people play for the Dallas Cowboys?",
+        "question_word": "people",
+        "id": 152
+    },
+    {
+        "sentence": "What water bodies are nearest to Helsinki city?",
+        "question_word": "bodies",
+        "id": 352
+    },
+    {
+        "sentence": "Which movies have their music composed by someone that signed up with RCA Records?",
+        "question_word": "movies",
+        "id": 340
+    },
+    {
+        "sentence": "How many other genere are there of the radio stations whose one of the genre  is Classic rock?",
+        "question_word": "genere",
+        "id": 454
+    },
+    {
+        "sentence": "Who is owner of the soccer club which owns the Cobham Training Centre?",
+        "question_word": "owner",
+        "id": 26
+    },
+    {
+        "sentence": "What are some countries where companies headquartered in the Klang Valley operate?",
+        "question_word": "countries",
+        "id": 336
+    },
+    {
+        "sentence": "British people have edited which movies?",
+        "question_word": "movies",
+        "id": 356
+    },
+    {
+        "sentence": "Whose military unit is 39th infantry regiment in 1812?",
+        "question_word": "unit",
+        "id": 485
+    },
+    {
+        "sentence": "Who is the stockholder of Paphos International Airport?",
+        "question_word": "stockholder",
+        "id": 303
+    },
+    {
+        "sentence": "How many players participated in the 2004-05 FC Barcelona season?",
+        "question_word": "players",
+        "id": 503
+    },
+    {
+        "sentence": "To which county of New York city does the Tremount Avenue street belong?",
+        "question_word": "county",
+        "id": 353
+    },
+    {
+        "sentence": "In which sects were the aristocrats included, who were buried in Westminister abbey?",
+        "question_word": "sects",
+        "id": 278
+    },
+    {
+        "sentence": "Where is the most deep point in the ocean?",
+        "question_word": "point",
+        "id": 368
+    },
+    {
+        "sentence": "List the former partner of the figure skaters whose former choreographer was Igor Shpillband.",
+        "question_word": "partner",
+        "id": 90
+    },
+    {
+        "sentence": "What are the broadcast areas of Mauritius Broadcasting Corporation?",
+        "question_word": "areas",
+        "id": 364
+    },
+    {
+        "sentence": "Name the television show voiced by April Stewart and Eliza Schneider?",
+        "question_word": "show",
+        "id": 460
+    },
+    {
+        "sentence": "Give me the total number of architect of the buildings whose one of the  architect was Louis D. Astorino?",
+        "question_word": "number",
+        "id": 468
+    },
+    {
+        "sentence": "List the leaders of the government agencies whose jurisdiction was German-occupied Europe.",
+        "question_word": "leaders",
+        "id": 281
+    },
+    {
+        "sentence": "Which school of jack mcGregor attend which was also the training center of William Anthony?",
+        "question_word": "school",
+        "id": 105
+    },
+    {
+        "sentence": "Which rivers start in a country whose leader is Irene Mambilima?",
+        "question_word": "rivers",
+        "id": 136
+    },
+    {
+        "sentence": "Who appointed the governor under whom Richard Winn served?",
+        "question_word": "Who",
+        "id": 71
+    },
+    {
+        "sentence": "Who all have been canonized by Pope Paul VI",
+        "question_word": "Who",
+        "id": 512
+    },
+    {
+        "sentence": "Which home stadium of 2011-12 FC Spartak Moscow season is also the location of birth of the Svetlana Gounkina?",
+        "question_word": "stadium",
+        "id": 376
+    },
+    {
+        "sentence": "What are the settlements whose neighboring municipalities is Lancy?",
+        "question_word": "settlements",
+        "id": 45
+    },
+    {
+        "sentence": "What  is the Nickname of Daniel O'Regan?",
+        "question_word": "What",
+        "id": 156
+    },
+    {
+        "sentence": "Name the part of Liverpool city region >",
+        "question_word": "part",
+        "id": 17
+    },
+    {
+        "sentence": "Name the television show where Mona Marshall has given voice and is distributed by Comedy Central?",
+        "question_word": "show",
+        "id": 30
+    },
+    {
+        "sentence": "Name all the venues of the convention which has also been hosted in San Diego Convention?",
+        "question_word": "venues",
+        "id": 216
+    },
+    {
+        "sentence": "What all has been created by Jerry Siegel?",
+        "question_word": "What",
+        "id": 516
+    },
+    {
+        "sentence": "Who is the Pole driver of 1992 Canadian Grand Prix?",
+        "question_word": "driver",
+        "id": 18
+    },
+    {
+        "sentence": "What is the religious affiliation of the Neungin High School which is also the academic interest of Sylvain Lvi?",
+        "question_word": "affiliation",
+        "id": 471
+    },
+    {
+        "sentence": "What cities are close by LoDaisKa?",
+        "question_word": "cities",
+        "id": 476
+    },
+    {
+        "sentence": "Who is the producer of album which has the song Money?",
+        "question_word": "producer",
+        "id": 286
+    },
+    {
+        "sentence": "Who oarent organization of Get TV is also the label provider of I Pray on CHristmas?",
+        "question_word": "Who",
+        "id": 20
+    },
+    {
+        "sentence": "Count the participants of the NBA.",
+        "question_word": "participants",
+        "id": 335
+    },
+    {
+        "sentence": "Name the office holder whose theatre is Siege of Fort Recovery and belongs to Indian territory branch?",
+        "question_word": "holder",
+        "id": 257
+    },
+    {
+        "sentence": "How many television shows have  Fox Broadcasting Company as their channel?",
+        "question_word": "shows",
+        "id": 49
+    },
+    {
+        "sentence": "What is the municipality of Patterson Houses?",
+        "question_word": "municipality",
+        "id": 392
+    },
+    {
+        "sentence": "In which country is there a political party whose leader is Jose Cha Cha Jimenez?",
+        "question_word": "country",
+        "id": 261
+    },
+    {
+        "sentence": "What are some relatives of armymen who died in Germany?",
+        "question_word": "relatives",
+        "id": 411
+    },
+    {
+        "sentence": "What region is governed by Mario Olivero?",
+        "question_word": "region",
+        "id": 420
+    },
+    {
+        "sentence": "In which state do darren brass and belvin perry live?",
+        "question_word": "state",
+        "id": 426
+    },
+    {
+        "sentence": "What is the ethicity of Ted Falon?",
+        "question_word": "ethicity",
+        "id": 355
+    },
+    {
+        "sentence": "Where did the relatives of Gustavo Rojas Pinilla study?",
+        "question_word": "Where",
+        "id": 161
+    },
+    {
+        "sentence": "Count the water bodies that flow into the North Sea?",
+        "question_word": "bodies",
+        "id": 505
+    },
+    {
+        "sentence": "What are some awards given to people who were born in sweden?",
+        "question_word": "awards",
+        "id": 131
+    },
+    {
+        "sentence": "Who is associated to the predecessor of Dan Mica?",
+        "question_word": "Who",
+        "id": 483
+    },
+    {
+        "sentence": "To whom was Tessa Dahl born to?",
+        "question_word": "whom",
+        "id": 464
+    },
+    {
+        "sentence": "What series is Mazes of Time from, and is produced by BBC multimedia?",
+        "question_word": "series",
+        "id": 456
+    },
+    {
+        "sentence": "Name the television show created by CE Webber and also has actor named Companion?",
+        "question_word": "show",
+        "id": 976
+    },
+    {
+        "sentence": "Name the office holder whose constituency is Haight-Ashbury?",
+        "question_word": "holder",
+        "id": 983
+    },
+    {
+        "sentence": "Which country does league of Nguendula Filipe belongs to?",
+        "question_word": "country",
+        "id": 790
+    },
+    {
+        "sentence": "Which films starring Clint Eastwood did he direct himself?",
+        "question_word": "films",
+        "id": 562
+    },
+    {
+        "sentence": "Who is the developer of Montecito Inn?",
+        "question_word": "developer",
+        "id": 657
+    },
+    {
+        "sentence": "In what group Joe Jonas and Kevin Jonas were previously involved?",
+        "question_word": "group",
+        "id": 812
+    },
+    {
+        "sentence": "In which fields have people born in Lausanne worked?",
+        "question_word": "fields",
+        "id": 704
+    },
+    {
+        "sentence": "Where was the trainer of Java Gold born?",
+        "question_word": "Where",
+        "id": 584
+    },
+    {
+        "sentence": "Who is the artist of Sings Kristofferson and also performed Milk Cow Blues atleast once?",
+        "question_word": "artist",
+        "id": 734
+    },
+    {
+        "sentence": "What sport played at Islamic azad uni employes Craig Van Tilbury?",
+        "question_word": "sport",
+        "id": 889
+    },
+    {
+        "sentence": "Who offers the services of OneDrive and Outlook.com?",
+        "question_word": "Who",
+        "id": 1049
+    },
+    {
+        "sentence": "Name the movie whose producer is Michael Deeley and music is given by Vangelis?",
+        "question_word": "movie",
+        "id": 1019
+    },
+    {
+        "sentence": "What medals have been given to people who died of lung cancer?",
+        "question_word": "medals",
+        "id": 768
+    },
+    {
+        "sentence": "What is the place of death of the lieutenant of Frank Steunenberg?",
+        "question_word": "place",
+        "id": 557
+    },
+    {
+        "sentence": "What is the last work of Dan Brown?",
+        "question_word": "work",
+        "id": 866
+    },
+    {
+        "sentence": "Who is the headcoach of 2013-14 Marquette Golden Eagles men's basketball team?",
+        "question_word": "headcoach",
+        "id": 523
+    },
+    {
+        "sentence": "What awards were presented to the person who produced Paradise place?",
+        "question_word": "awards",
+        "id": 551
+    },
+    {
+        "sentence": "How many people are there whose children died in Indiana?",
+        "question_word": "people",
+        "id": 742
+    },
+    {
+        "sentence": "How many relatives are there of the people who died in Germany?",
+        "question_word": "relatives",
+        "id": 960
+    },
+    {
+        "sentence": "Who owns the ship Victoria?",
+        "question_word": "Who",
+        "id": 989
+    },
+    {
+        "sentence": "List the cities which share the same water body as that of Florida?",
+        "question_word": "cities",
+        "id": 911
+    },
+    {
+        "sentence": "What famous politician died in the Petersen House?",
+        "question_word": "politician",
+        "id": 891
+    },
+    {
+        "sentence": "Saores de costa built a bridge over which river?",
+        "question_word": "river",
+        "id": 940
+    },
+    {
+        "sentence": "In which country is Sierra del Merendin?",
+        "question_word": "country",
+        "id": 668
+    },
+    {
+        "sentence": "Count number of people who follow a religion which has an important office in Gold Base?",
+        "question_word": "number",
+        "id": 727
+    },
+    {
+        "sentence": "Count the awards won by the people who graduated from the National and Kapodistrian University of Athens.",
+        "question_word": "awards",
+        "id": 754
+    },
+    {
+        "sentence": "What is the nationality of the chancellor who was served by Michael Mayr?",
+        "question_word": "nationality",
+        "id": 661
+    },
+    {
+        "sentence": "List the destinations to which the airlines headquartered at the Gatwick Airport fly to?",
+        "question_word": "destinations",
+        "id": 792
+    },
+    {
+        "sentence": "What is the founding year of the brewery that produces Pilsner Urquell?",
+        "question_word": "year",
+        "id": 862
+    },
+    {
+        "sentence": "In how many different people are alumini of the University of Oxford working?",
+        "question_word": "people",
+        "id": 1041
+    },
+    {
+        "sentence": "Which televion show's theme music was given by Ron Grainer and is broadcasted by BBC HD?",
+        "question_word": "show",
+        "id": 856
+    },
+    {
+        "sentence": "What religions are followed by economists?",
+        "question_word": "religions",
+        "id": 825
+    },
+    {
+        "sentence": "Which set of researchers won the Gold Medal of the Royal Astronomical Society award?",
+        "question_word": "researchers",
+        "id": 914
+    },
+    {
+        "sentence": "List the military branch of  Henry Hyde?",
+        "question_word": "branch",
+        "id": 654
+    },
+    {
+        "sentence": "Give me a list of everyone who manages the famous rock art sites?",
+        "question_word": "list",
+        "id": 797
+    },
+    {
+        "sentence": "Where did the members of judge advocate general corps study?",
+        "question_word": "Where",
+        "id": 802
+    },
+    {
+        "sentence": "Which producer of  the Eristoff is also the  distributor of  Bombay Sapphire?",
+        "question_word": "producer",
+        "id": 635
+    },
+    {
+        "sentence": "Which companies are in the computer software industry?",
+        "question_word": "companies",
+        "id": 996
+    },
+    {
+        "sentence": "Name the sharehoders of The National Herald?",
+        "question_word": "sharehoders",
+        "id": 822
+    },
+    {
+        "sentence": "In which continent do Air 2000 and Novair International airways operate?",
+        "question_word": "continent",
+        "id": 991
+    },
+    {
+        "sentence": "Where did john o conner study?",
+        "question_word": "Where",
+        "id": 745
+    },
+    {
+        "sentence": "What are the academic interest of Philip Novak?",
+        "question_word": "academic",
+        "id": 847
+    },
+    {
+        "sentence": "Give me the characters who last appeared in Star Wars Episode 3",
+        "question_word": "characters",
+        "id": 651
+    },
+    {
+        "sentence": "How many other field are there of the scientists whose one of the field is Mathematics?",
+        "question_word": "field",
+        "id": 760
+    },
+    {
+        "sentence": "Who are relatives of Ozzy Osbourne and Kelly Osbourne?",
+        "question_word": "relatives",
+        "id": 620
+    },
+    {
+        "sentence": "What television show is magistrated by Harry Connick, Jr.?",
+        "question_word": "show",
+        "id": 671
+    },
+    {
+        "sentence": "Name the river with source as Shannon Pot and its mouth is located in Limerick?",
+        "question_word": "river",
+        "id": 820
+    },
+    {
+        "sentence": "What is the university to which Erica Frank went, and where Ivan Toplak was a club manager?",
+        "question_word": "university",
+        "id": 830
+    },
+    {
+        "sentence": "Give me the places where people who worked in Church of England died in?",
+        "question_word": "places",
+        "id": 954
+    },
+    {
+        "sentence": "Who is the performer of the album whose subsequent work is Willie Nelson and Family?",
+        "question_word": "performer",
+        "id": 717
+    },
+    {
+        "sentence": "Which founding cities of Young Americans Bank is also the location of Denver Broncos?",
+        "question_word": "cities",
+        "id": 839
+    },
+    {
+        "sentence": "What is the eye color of Liza Kennedy?",
+        "question_word": "color",
+        "id": 547
+    },
+    {
+        "sentence": "List the work institute of the medicians who has also worked at University of Miami?",
+        "question_word": "institute",
+        "id": 794
+    },
+    {
+        "sentence": "Which mascot of Celal Bayer university is also the nickname of kore Presbyterian Theological Seminar?",
+        "question_word": "mascot",
+        "id": 756
+    },
+    {
+        "sentence": "What are some musical artists associated with the ones signed up with EMI?",
+        "question_word": "artists",
+        "id": 705
+    },
+    {
+        "sentence": "What is the layout of the automobiles whose designer company is Olivier Boulay?",
+        "question_word": "layout",
+        "id": 726
+    },
+    {
+        "sentence": "What is the death place of the Marina Pankova and Viktor Ulyanich?",
+        "question_word": "place",
+        "id": 1042
+    },
+    {
+        "sentence": "List the relatives of clay Aiken?",
+        "question_word": "relatives",
+        "id": 565
+    },
+    {
+        "sentence": "Which notable commanders of the Army Group Oberrhein (Germany) is the  leader of the Kriminalpolizei?",
+        "question_word": "commanders",
+        "id": 1027
+    },
+    {
+        "sentence": "List presidents of the school whose one of the president is Charles. Prince of Wales?",
+        "question_word": "presidents",
+        "id": 842
+    },
+    {
+        "sentence": "What all are in the states whose anthem is Ja, vi esker dette landet?",
+        "question_word": "states",
+        "id": 1002
+    },
+    {
+        "sentence": "What artist of Charing Cross Bridge influenced Dorothea Sharp in her career?",
+        "question_word": "artist",
+        "id": 748
+    },
+    {
+        "sentence": "How many other people are in a band with Robert de Niro?",
+        "question_word": "people",
+        "id": 656
+    },
+    {
+        "sentence": "Which movies starring Mickey Rourke were directed by Guy Ritchie?",
+        "question_word": "movies",
+        "id": 814
+    },
+    {
+        "sentence": "In which religions are both Pope Gregory 1 and Edwin of northumbria reverred?",
+        "question_word": "religions",
+        "id": 1037
+    },
+    {
+        "sentence": "How many religions are followed amongst the people who've worked in the Korean army?",
+        "question_word": "religions",
+        "id": 941
+    },
+    {
+        "sentence": "Who is the film star of On Air with Ryan Seacrest?",
+        "question_word": "star",
+        "id": 572
+    },
+    {
+        "sentence": "List all the musicals with music by Leonard Bernstein.",
+        "question_word": "musicals",
+        "id": 877
+    },
+    {
+        "sentence": "What is the country whose leader name is Grard Larcher?",
+        "question_word": "country",
+        "id": 675
+    },
+    {
+        "sentence": "Who developed the video game Duke Nukem 3D?",
+        "question_word": "Who",
+        "id": 882
+    },
+    {
+        "sentence": "How many goals did Pelé score?",
+        "question_word": "goals",
+        "id": 811
+    },
+    {
+        "sentence": "Horses grandsired by Sundridge  have won which awards?",
+        "question_word": "awards",
+        "id": 722
+    },
+    {
+        "sentence": "Which birthplace of Liliya Lobanova is also the location of the Snake Island?",
+        "question_word": "birthplace",
+        "id": 555
+    },
+    {
+        "sentence": "How many other key people are there of the non-profit organisations whose key people is Hillary Clinton?",
+        "question_word": "people",
+        "id": 623
+    },
+    {
+        "sentence": "To which branch Edwin F. Hunter  belong?",
+        "question_word": "branch",
+        "id": 617
+    },
+    {
+        "sentence": "To which educational institute does Cornell University Press belong to?",
+        "question_word": "institute",
+        "id": 679
+    },
+    {
+        "sentence": "Name some TV shows whose theme is made by a band associated with Buckethead?",
+        "question_word": "shows",
+        "id": 853
+    },
+    {
+        "sentence": "Give me all communist countries.",
+        "question_word": "countries",
+        "id": 897
+    },
+    {
+        "sentence": "Name some shows whose company is owned by the CBS Corporation?",
+        "question_word": "shows",
+        "id": 577
+    },
+    {
+        "sentence": "Name the organization which developed iPhone OS and the XNU?",
+        "question_word": "organization",
+        "id": 587
+    },
+    {
+        "sentence": "How many things are crossed over by bridges which can carry cars?",
+        "question_word": "things",
+        "id": 688
+    },
+    {
+        "sentence": "Name the movie whose screenplay is by Akiva Goldsman and directed by Joel Schumacher?",
+        "question_word": "movie",
+        "id": 827
+    },
+    {
+        "sentence": "Who was the president under which a tennis player held office before John W. Weeks?",
+        "question_word": "president",
+        "id": 715
+    },
+    {
+        "sentence": "Which philosophy journal has compiler as Stephen Law?",
+        "question_word": "journal",
+        "id": 698
+    },
+    {
+        "sentence": "Which company builds Microsoft Azure and Microsoft Surface?",
+        "question_word": "company",
+        "id": 898
+    },
+    {
+        "sentence": "List some musicians associated with famous guitar players?",
+        "question_word": "musicians",
+        "id": 844
+    },
+    {
+        "sentence": "Name the city served by Juhu Aerodrome?",
+        "question_word": "city",
+        "id": 640
+    },
+    {
+        "sentence": "List all the nicknames of the city which has Toru gingerbread as one of it?",
+        "question_word": "nicknames",
+        "id": 943
+    },
+    {
+        "sentence": "What is the second highest mountain on Earth?",
+        "question_word": "mountain",
+        "id": 987
+    },
+    {
+        "sentence": "How many universities are there whose country's capital is Oslo?",
+        "question_word": "universities",
+        "id": 805
+    },
+    {
+        "sentence": "Who is the architect of the tallest building in Japan?",
+        "question_word": "architect",
+        "id": 787
+    },
+    {
+        "sentence": "Where is the senator from whose successor was James belford?",
+        "question_word": "Where",
+        "id": 539
+    },
+    {
+        "sentence": "Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel?",
+        "question_word": "subsidiary",
+        "id": 578
+    },
+    {
+        "sentence": "What is the stylistic origin of Wizard rock?",
+        "question_word": "origin",
+        "id": 883
+    },
+    {
+        "sentence": "What is the official name of Colorado wine?",
+        "question_word": "name",
+        "id": 979
+    },
+    {
+        "sentence": "Which  siler medalist of the Tennis at the 2012 Summer Olympics  Men's singles was also the  flagbearer of the Switzerland at the 2008 Summer Olympics",
+        "question_word": "medalist",
+        "id": 681
+    },
+    {
+        "sentence": "Which political figures were awarded Screen Actors Guild Life Achievement Award?",
+        "question_word": "figures",
+        "id": 720
+    },
+    {
+        "sentence": "How many players are in the San Francisco Giants?",
+        "question_word": "players",
+        "id": 695
+    },
+    {
+        "sentence": "Which programming languages influenced Javascript?",
+        "question_word": "languages",
+        "id": 687
+    },
+    {
+        "sentence": "Which source of broad creek is the Audenried tunnel located?",
+        "question_word": "source",
+        "id": 920
+    },
+    {
+        "sentence": "Which governor of Charles Willing byrd fought the battle of Siege of Fort Recovery?",
+        "question_word": "governor",
+        "id": 610
+    },
+    {
+        "sentence": "Where is Richard Stites located?",
+        "question_word": "Where",
+        "id": 878
+    },
+    {
+        "sentence": "Name the university whose affiliations's foundation is in Washington, D.C.?",
+        "question_word": "university",
+        "id": 818
+    },
+    {
+        "sentence": "Which actors have performed in plays performed in New York?",
+        "question_word": "actors",
+        "id": 736
+    },
+    {
+        "sentence": "What is the city  of the 2015 MLS All-Star Game and birthplace of the The Okee Dokee Brothers",
+        "question_word": "city",
+        "id": 801
+    },
+    {
+        "sentence": "What is the company whose one of the key person is Dennis Muilenburg and produces Boeing CH-47 Chinook?",
+        "question_word": "company",
+        "id": 660
+    },
+    {
+        "sentence": "List the guests of On Broadway?",
+        "question_word": "guests",
+        "id": 554
+    },
+    {
+        "sentence": "How many other school are there of the rugby players whose school is Michaelhouse?",
+        "question_word": "school",
+        "id": 944
+    },
+    {
+        "sentence": "What is the common relegion of Miao people  and the country where Guru Purnima is celebrated?",
+        "question_word": "relegion",
+        "id": 837
+    },
+    {
+        "sentence": "How often did Jane Fonda marry?",
+        "question_word": "often",
+        "id": 692
+    },
+    {
+        "sentence": "How many members are there of the order of Bacillales?",
+        "question_word": "members",
+        "id": 1046
+    },
+    {
+        "sentence": "Which fictional character's relatives were made by Ted Osborne?",
+        "question_word": "character",
+        "id": 544
+    },
+    {
+        "sentence": "What organization is the parent of Greenpeace Nordic?",
+        "question_word": "organization",
+        "id": 700
+    },
+    {
+        "sentence": "Count the wars in which people awarded with the Croix de guerre fought.",
+        "question_word": "wars",
+        "id": 666
+    },
+    {
+        "sentence": "When is Gibraltar Diamond Jubilee Flotilla?",
+        "question_word": "When",
+        "id": 743
+    },
+    {
+        "sentence": "What are the books written by authors who died in Madrid?",
+        "question_word": "books",
+        "id": 582
+    },
+    {
+        "sentence": "What sports are played by school which owns Fr. Agnel Stadium?",
+        "question_word": "sports",
+        "id": 982
+    },
+    {
+        "sentence": "Name  some ww1 veterans?",
+        "question_word": "veterans",
+        "id": 579
+    },
+    {
+        "sentence": "List the houses of Parliament of India?",
+        "question_word": "houses",
+        "id": 624
+    },
+    {
+        "sentence": "Which team of Dan Shamash is also the debutant team of John Estes?",
+        "question_word": "team",
+        "id": 759
+    },
+    {
+        "sentence": "What is the products of the BBC Multimedia and series of the The Last Resort (Doctor Who)",
+        "question_word": "products",
+        "id": 910
+    },
+    {
+        "sentence": "How tall is Michael Jordan?",
+        "question_word": "tall",
+        "id": 680
+    },
+    {
+        "sentence": "Name the movies directed by Stanley Kubrick and edited by Anthony Harvey?",
+        "question_word": "movies",
+        "id": 752
+    },
+    {
+        "sentence": "In how many different places have people beatified by Pope Pius X died?",
+        "question_word": "places",
+        "id": 636
+    },
+    {
+        "sentence": "What is the state of Umatilla language which is also the state of James K. Kelly?",
+        "question_word": "state",
+        "id": 893
+    },
+    {
+        "sentence": "How many cities are around the sea into which the aegean sea flows?",
+        "question_word": "cities",
+        "id": 931
+    },
+    {
+        "sentence": "Who are the managers of clubs participating in the 2014-2015 Football League Championship?",
+        "question_word": "managers",
+        "id": 980
+    },
+    {
+        "sentence": "For how many teams have the league players of Czech Extraliga, previously played?",
+        "question_word": "teams",
+        "id": 986
+    },
+    {
+        "sentence": "Count the number of ingredient of the foods which have one of the ingredient is Pork?",
+        "question_word": "number",
+        "id": 574
+    },
+    {
+        "sentence": "Muhammad Yunus has won how many awards?",
+        "question_word": "awards",
+        "id": 571
+    },
+    {
+        "sentence": "Which kmascot od seneca Academy is also the species of The Fox and the Cat?",
+        "question_word": "kmascot",
+        "id": 708
+    },
+    {
+        "sentence": "What is the religion of the person who founded the Emel magazine?",
+        "question_word": "religion",
+        "id": 829
+    },
+    {
+        "sentence": "Where can I find things run by the maritime museum of San Diego?",
+        "question_word": "Where",
+        "id": 710
+    },
+    {
+        "sentence": "Name the river  whose source location is Nevado Mismi and region is Arequipa Region?",
+        "question_word": "river",
+        "id": 677
+    },
+    {
+        "sentence": "In which state Penn State University is located?",
+        "question_word": "state",
+        "id": 628
+    },
+    {
+        "sentence": "Who are the people which were the influencer of the person, who influenced Costanzo Preve?",
+        "question_word": "Who",
+        "id": 723
+    },
+    {
+        "sentence": "Who battled under commander Egushawa in a conflict?",
+        "question_word": "Who",
+        "id": 659
+    },
+    {
+        "sentence": "Which awards are presented by the committee located in Stockholm?",
+        "question_word": "awards",
+        "id": 1031
+    },
+    {
+        "sentence": "In which city where there is a headquarters of Orient News and also Feras Saied died?",
+        "question_word": "city",
+        "id": 881
+    },
+    {
+        "sentence": "What are some cartoons distributed by a subsidiary of Time Warner?",
+        "question_word": "cartoons",
+        "id": 828
+    },
+    {
+        "sentence": "Who started at the pole position in both 1997 canadian grand prix and the 94 spanish one?",
+        "question_word": "Who",
+        "id": 1028
+    },
+    {
+        "sentence": "Who are the spouse of the parents of Kimberly Stewart?",
+        "question_word": "spouse",
+        "id": 642
+    },
+    {
+        "sentence": "How many awards have royal designers for industry awardwinners got?",
+        "question_word": "awards",
+        "id": 905
+    },
+    {
+        "sentence": "Give me everything owned by networks which is lead by Steve Burke?",
+        "question_word": "everything",
+        "id": 602
+    },
+    {
+        "sentence": "What city was recorded in Live in detroit which is also the official residence of ken Holland?",
+        "question_word": "city",
+        "id": 615
+    },
+    {
+        "sentence": "Who wrote the play in which Blanche DuBois is a character?",
+        "question_word": "Who",
+        "id": 1036
+    },
+    {
+        "sentence": "Which beer brewing comapnies are located in North-Rhine Westphalia?",
+        "question_word": "beer",
+        "id": 766
+    },
+    {
+        "sentence": "Which domain's journals did Willard Fiske edit?",
+        "question_word": "domain",
+        "id": 529
+    },
+    {
+        "sentence": "Name the scientist whose doctoral supervisor's doctoral student is John Bowlby?",
+        "question_word": "scientist",
+        "id": 965
+    },
+    {
+        "sentence": "What sport amongst the one Lagos Preparatory School practices, did Willian Garne play for?",
+        "question_word": "sport",
+        "id": 1011
+    },
+    {
+        "sentence": "What famous work is derived from the one whose lyrics are written by Inma Gonzales?",
+        "question_word": "work",
+        "id": 900
+    },
+    {
+        "sentence": "Which other weapons did the designer of the Uzi develop?",
+        "question_word": "weapons",
+        "id": 641
+    },
+    {
+        "sentence": "Which companies work in the aerospace industry as well as in medicine?",
+        "question_word": "companies",
+        "id": 591
+    },
+    {
+        "sentence": "Which state is the birth location of Ann Monroe Gilchrist Strong?",
+        "question_word": "state",
+        "id": 561
+    },
+    {
+        "sentence": "What are the largest cities in each of the destinations of TranStar Airlines?",
+        "question_word": "cities",
+        "id": 696
+    },
+    {
+        "sentence": "What is the television show whose sculptor is C. E. Webber and composed by Murray Gold?",
+        "question_word": "show",
+        "id": 831
+    },
+    {
+        "sentence": "Butch Otter is the governor of which U.S. state?",
+        "question_word": "state",
+        "id": 627
+    },
+    {
+        "sentence": "What is the nationality of the economist who is one of the important people in the Foundation for Economic Education?",
+        "question_word": "nationality",
+        "id": 804
+    },
+    {
+        "sentence": "Which U.S. state has the highest population density?",
+        "question_word": "state",
+        "id": 780
+    },
+    {
+        "sentence": "Who is the daughter of Robert Kennedy married to?",
+        "question_word": "daughter",
+        "id": 808
+    },
+    {
+        "sentence": "Name the appointer of William Clark?",
+        "question_word": "appointer",
+        "id": 678
+    },
+    {
+        "sentence": "Name the famous employee of open society foundations?",
+        "question_word": "employee",
+        "id": 817
+    },
+    {
+        "sentence": "In which studio did the Beatles record their first album?",
+        "question_word": "studio",
+        "id": 778
+    },
+    {
+        "sentence": "Which company owns the manufacturer of the Edsel Ranger?",
+        "question_word": "company",
+        "id": 1043
+    },
+    {
+        "sentence": "What are some other great things by the person who produced Queer as Folk?",
+        "question_word": "things",
+        "id": 770
+    },
+    {
+        "sentence": "How many different mascots are there of the NCAA teams?",
+        "question_word": "mascots",
+        "id": 929
+    },
+    {
+        "sentence": "List the fields of the scientists with Sanskrit as one of the interest?",
+        "question_word": "fields",
+        "id": 753
+    },
+    {
+        "sentence": "Ontario's ice hockey players have been a part of which teams?",
+        "question_word": "teams",
+        "id": 834
+    },
+    {
+        "sentence": "How many bands are signed up with labels which were founded in Japan?",
+        "question_word": "bands",
+        "id": 573
+    },
+    {
+        "sentence": "Which club of Michael Springer is also the parent organization of Syracuse University press?",
+        "question_word": "club",
+        "id": 596
+    },
+    {
+        "sentence": "Rivers which end in Arkansas go through which cities?",
+        "question_word": "cities",
+        "id": 764
+    },
+    {
+        "sentence": "Name the rivers in the hudson highlands state parts?",
+        "question_word": "rivers",
+        "id": 751
+    },
+    {
+        "sentence": "Who are the characters of Batman Live?",
+        "question_word": "characters",
+        "id": 772
+    },
+    {
+        "sentence": "Which city council owns the Ted Williams tunnel and Leonard Memorial ridge?",
+        "question_word": "council",
+        "id": 934
+    },
+    {
+        "sentence": "Which show developed by Brain Graden has theme music composed by Primus?",
+        "question_word": "show",
+        "id": 815
+    },
+    {
+        "sentence": "What are the other key people of the non-profit organisations whose one of the  key person is Joe Green?",
+        "question_word": "people",
+        "id": 755
+    },
+    {
+        "sentence": "Name the notable work by Russell T Davis which is also the series of Doctor Who:Destiny of the Doctors?",
+        "question_word": "work",
+        "id": 939
+    },
+    {
+        "sentence": "In which movies directed by Orson Welles has Bernard Herrmann as music composer?",
+        "question_word": "movies",
+        "id": 888
+    },
+    {
+        "sentence": "Count the different alma maters of people employed by the CNN",
+        "question_word": "maters",
+        "id": 762
+    },
+    {
+        "sentence": "How many kinds of games can be played on the Amiga?",
+        "question_word": "games",
+        "id": 545
+    },
+    {
+        "sentence": "Which part of the US political framework did Arthur Bagby and Thomas H hicks both serve?",
+        "question_word": "part",
+        "id": 719
+    },
+    {
+        "sentence": "Give me the count of tenants of the stadia whose one of the tenants is Toronto Furies?",
+        "question_word": "count",
+        "id": 712
+    },
+    {
+        "sentence": "In how many places have Irishmen died?",
+        "question_word": "places",
+        "id": 673
+    },
+    {
+        "sentence": "How many people currently play for the NYC FC?",
+        "question_word": "people",
+        "id": 969
+    },
+    {
+        "sentence": "Which educational institution has Kaplan, Inc as it's affiliation?",
+        "question_word": "institution",
+        "id": 823
+    },
+    {
+        "sentence": "Who commanded the invasion of Buwat and made Fatima bint Sa'd famous?",
+        "question_word": "Who",
+        "id": 682
+    },
+    {
+        "sentence": "Where are the movies directed by Faisal Aman Khan recorded?",
+        "question_word": "Where",
+        "id": 632
+    },
+    {
+        "sentence": "Show me hiking trails in the Grand Canyon where there's no danger of flash floods.",
+        "question_word": "trails",
+        "id": 558
+    },
+    {
+        "sentence": "Show me Hemingway's autobiography.",
+        "question_word": "autobiography",
+        "id": 849
+    },
+    {
+        "sentence": "Who created Retrocrush?",
+        "question_word": "Who",
+        "id": 541
+    },
+    {
+        "sentence": "How many different songwriters have had their songs recorded in London?",
+        "question_word": "songwriters",
+        "id": 706
+    },
+    {
+        "sentence": "What are the airlines whose hub airport is Los Angeles International Airport?",
+        "question_word": "airlines",
+        "id": 894
+    },
+    {
+        "sentence": "What is the operator of SR class 3Sub?",
+        "question_word": "operator",
+        "id": 846
+    },
+    {
+        "sentence": "What is the venue of Indy PopCon?",
+        "question_word": "venue",
+        "id": 718
+    },
+    {
+        "sentence": "Who was the cover artist of The Adventure of Tom Sawyer also wrote mark Twain Tonight?",
+        "question_word": "artist",
+        "id": 925
+    },
+    {
+        "sentence": "What awards have been given to race horses bred by Bert Michell?",
+        "question_word": "awards",
+        "id": 786
+    },
+    {
+        "sentence": "Which creation of Josh Friedman was portrayed in Terminator 2?",
+        "question_word": "creation",
+        "id": 594
+    },
+    {
+        "sentence": "What is the settlement whose neighboring municipalities is Lancy and mayor name is Esther Alder?",
+        "question_word": "settlement",
+        "id": 683
+    },
+    {
+        "sentence": "Name the actors of the TV show which has an episode named The Five?",
+        "question_word": "actors",
+        "id": 906
+    },
+    {
+        "sentence": "Amongst the winner of Lovelace medal, who has John Robert as doctoral supervisor?",
+        "question_word": "winner",
+        "id": 709
+    },
+    {
+        "sentence": "Who  won the Lovelace Medal and the Norbert Wiener Award for Social and Professional Responsibility?",
+        "question_word": "Who",
+        "id": 1038
+    },
+    {
+        "sentence": "Name the cause of death of Martino Martini?",
+        "question_word": "cause",
+        "id": 1022
+    },
+    {
+        "sentence": "Who is the fictional character whose family member is Padme Amidala?",
+        "question_word": "character",
+        "id": 537
+    },
+    {
+        "sentence": "What are the television shows whose company's predecessor is Desilu Productions?",
+        "question_word": "shows",
+        "id": 824
+    },
+    {
+        "sentence": "Where is the rival school of Somerset Berkeley Regional High school?",
+        "question_word": "Where",
+        "id": 739
+    },
+    {
+        "sentence": "What are some fictional characters whose voice is in the peanuts movie?",
+        "question_word": "characters",
+        "id": 744
+    },
+    {
+        "sentence": "What show had NTSC format and theme music composed by  Ron Grainer?",
+        "question_word": "show",
+        "id": 1018
+    },
+    {
+        "sentence": "Who is the associate of Thomas Bryan Martin?",
+        "question_word": "associate",
+        "id": 845
+    },
+    {
+        "sentence": "Which technological products were manufactured by Foxconn?",
+        "question_word": "products",
+        "id": 535
+    },
+    {
+        "sentence": "Which races has the horse bred by Jacques Van't Hart participated in?",
+        "question_word": "races",
+        "id": 527
+    },
+    {
+        "sentence": "How short is the shortest active NBA player?",
+        "question_word": "short",
+        "id": 904
+    },
+    {
+        "sentence": "What newspapers's owners is Schibsted",
+        "question_word": "newspapers",
+        "id": 857
+    },
+    {
+        "sentence": "Which country's leader  is Giuseppe Bertello?",
+        "question_word": "leader",
+        "id": 732
+    },
+    {
+        "sentence": "Where is the headquarters of the public transit system which owns the American Boulevard (Metro Transit station) located?",
+        "question_word": "headquarters",
+        "id": 903
+    },
+    {
+        "sentence": "What is the state of origin of the person who is the successor of Tetsugen Bernard Glassman?",
+        "question_word": "state",
+        "id": 595
+    },
+    {
+        "sentence": "Comcast SportsNet is broadcasted in what area, which also has the Michigan Renaissance Festival?",
+        "question_word": "area",
+        "id": 958
+    },
+    {
+        "sentence": "AH141 highway is a part of which country?",
+        "question_word": "country",
+        "id": 865
+    },
+    {
+        "sentence": "Waddy wachtel did the music for what movies?",
+        "question_word": "movies",
+        "id": 564
+    },
+    {
+        "sentence": "What is the television show whose cast members are Jeff Conaway and Jason Carter?",
+        "question_word": "show",
+        "id": 902
+    },
+    {
+        "sentence": "Whay common comic is written by Karakuri Dji Ultimo and narrated by The Incredible Hulk?",
+        "question_word": "Whay",
+        "id": 763
+    },
+    {
+        "sentence": "Which famous horserace has seen both Fergie sutherland and the illustrious War of Attrition?",
+        "question_word": "horserace",
+        "id": 613
+    },
+    {
+        "sentence": "What railway lines go through the stations maintained by Western Australian Public Transport Authority?",
+        "question_word": "lines",
+        "id": 733
+    },
+    {
+        "sentence": "Name the common alma mater of the Henry Morton Dexter and Jack McGregor",
+        "question_word": "mater",
+        "id": 803
+    },
+    {
+        "sentence": "Name the office holder with predecessor as Mark Latham and partner Tim Mathieson?",
+        "question_word": "holder",
+        "id": 1034
+    },
+    {
+        "sentence": "For how many different teams have Ontarians been drafted?",
+        "question_word": "teams",
+        "id": 614
+    },
+    {
+        "sentence": "What is the city  of the television station whose affiliations is LATV?",
+        "question_word": "city",
+        "id": 581
+    },
+    {
+        "sentence": "List the launch site of the rockets whose one of the launch site has been Cape Canaveral Air Force Station Launch Complex 26?",
+        "question_word": "launch",
+        "id": 974
+    },
+    {
+        "sentence": "President of Ghana is the leader title of which country?",
+        "question_word": "country",
+        "id": 1015
+    },
+    {
+        "sentence": "Where does the Giannis Alafouzos originate?",
+        "question_word": "Where",
+        "id": 531
+    },
+    {
+        "sentence": "How tall is John Windsor?",
+        "question_word": "tall",
+        "id": 580
+    },
+    {
+        "sentence": "What city is the residence of Cheryl Teigs?",
+        "question_word": "city",
+        "id": 993
+    },
+    {
+        "sentence": "How many people have written for Gangan Comics?",
+        "question_word": "people",
+        "id": 1050
+    },
+    {
+        "sentence": "Name the party of Indira Gandhi?",
+        "question_word": "party",
+        "id": 937
+    },
+    {
+        "sentence": "Give me all Avant-garde jazz record labels.",
+        "question_word": "labels",
+        "id": 1017
+    },
+    {
+        "sentence": "Who was John F. Kennedy's vice president?",
+        "question_word": "president",
+        "id": 629
+    },
+    {
+        "sentence": "Name the nearest city to  Lake Victoria?",
+        "question_word": "city",
+        "id": 907
+    },
+    {
+        "sentence": "Raymond Johansen is the mayor of what city?",
+        "question_word": "city",
+        "id": 957
+    },
+    {
+        "sentence": "What is the home town of the Rolando Gomez is the DOD of the Clyde McNeal?",
+        "question_word": "town",
+        "id": 843
+    },
+    {
+        "sentence": "How many other important work has been done by the writers of Sarah Jane Adventures?",
+        "question_word": "work",
+        "id": 816
+    },
+    {
+        "sentence": "Which company released the software RenderMan?",
+        "question_word": "company",
+        "id": 784
+    },
+    {
+        "sentence": "Where was the successor of Hank Brown born?",
+        "question_word": "Where",
+        "id": 807
+    },
+    {
+        "sentence": "List the interest of the scientists whose one of the field is Chinese poetry?",
+        "question_word": "scientists",
+        "id": 699
+    },
+    {
+        "sentence": "Which ppolitical party of Yashpal Kapur is also the owner of National Herald?",
+        "question_word": "party",
+        "id": 701
+    },
+    {
+        "sentence": "List education institute of the engineers whose alma mater is ChristChurch?",
+        "question_word": "institute",
+        "id": 1033
+    },
+    {
+        "sentence": "How many pages does The Man with the Red Tattoo have?",
+        "question_word": "pages",
+        "id": 738
+    },
+    {
+        "sentence": "What is the automobile platform of Chiva bus?",
+        "question_word": "platform",
+        "id": 618
+    },
+    {
+        "sentence": "Who discovered Callisto?",
+        "question_word": "Who",
+        "id": 603
+    },
+    {
+        "sentence": "Starwood operates in which places?",
+        "question_word": "places",
+        "id": 800
+    },
+    {
+        "sentence": "With how many countries Iran has borders?",
+        "question_word": "countries",
+        "id": 885
+    },
+    {
+        "sentence": "Which city's mayor is married to Jean Marc Germain?",
+        "question_word": "city",
+        "id": 884
+    },
+    {
+        "sentence": "In which U.S. state is Area 51 located?",
+        "question_word": "state",
+        "id": 798
+    },
+    {
+        "sentence": "What were the names of the three ships by Columbus?",
+        "question_word": "names",
+        "id": 919
+    },
+    {
+        "sentence": "In which city are the headquarters of the United Nations?",
+        "question_word": "city",
+        "id": 765
+    },
+    {
+        "sentence": "Name the state of Timothy J. Roemer?",
+        "question_word": "state",
+        "id": 973
+    },
+    {
+        "sentence": "How many non-fiction subject are there of the books whose one of the non-fiction subject is Ankh-Morpork City Watch?",
+        "question_word": "subject",
+        "id": 1005
+    },
+    {
+        "sentence": "Who wrote a rose for emily?",
+        "question_word": "Who",
+        "id": 793
+    },
+    {
+        "sentence": "Who are some US colonels?",
+        "question_word": "colonels",
+        "id": 887
+    },
+    {
+        "sentence": "Who is the producer of Captain EO?",
+        "question_word": "producer",
+        "id": 549
+    },
+    {
+        "sentence": "Which company's division is Audi India? Correct Question",
+        "question_word": "division",
+        "id": 864
+    },
+    {
+        "sentence": "What eating disorder is characterized by an appetite for substances such as clay and sand?",
+        "question_word": "disorder",
+        "id": 848
+    },
+    {
+        "sentence": "Which fictional character portrayed by Roger barton has Padm Amidala as family?",
+        "question_word": "character",
+        "id": 997
+    },
+    {
+        "sentence": "How did the child of Stevens T. Mason die?",
+        "question_word": "How",
+        "id": 899
+    },
+    {
+        "sentence": "Where do the judge advocate general corps live?",
+        "question_word": "Where",
+        "id": 607
+    },
+    {
+        "sentence": "Which classis do tree frogs belong to?",
+        "question_word": "classis",
+        "id": 852
+    },
+    {
+        "sentence": "Name the islands that belong to the archipelago whose largest city is Papeete?",
+        "question_word": "islands",
+        "id": 711
+    },
+    {
+        "sentence": "Which currency can I use both in Kerguelen islands and French southern and antarctic lands?",
+        "question_word": "currency",
+        "id": 600
+    },
+    {
+        "sentence": "Which employer of Michael M. Sears is also the producer of Delta III?",
+        "question_word": "employer",
+        "id": 921
+    },
+    {
+        "sentence": "From where did the son of Gustavo Rojas Pinilla graduate?",
+        "question_word": "From",
+        "id": 912
+    },
+    {
+        "sentence": "What faith of Buddhist Tai Hung College is also the acadmeic interest of Paul Demiville?",
+        "question_word": "faith",
+        "id": 608
+    },
+    {
+        "sentence": "Of what all has David Ian Salter been an editor of?",
+        "question_word": "what",
+        "id": 622
+    },
+    {
+        "sentence": "What are the films whose atleast one cast member died due to Colorectal cancer?",
+        "question_word": "films",
+        "id": 616
+    },
+    {
+        "sentence": "Who rented the stadium where the UFC 152 take place?",
+        "question_word": "Who",
+        "id": 998
+    },
+    {
+        "sentence": "What is the mascot of the military unit whose commander is Herbert Bautista?",
+        "question_word": "mascot",
+        "id": 783
+    },
+    {
+        "sentence": "What is the most beautiful painting?",
+        "question_word": "painting",
+        "id": 955
+    },
+    {
+        "sentence": "Which college of Luke List (golfer) is the alma mater of K. Terry Dornbush",
+        "question_word": "college",
+        "id": 1020
+    },
+    {
+        "sentence": "What are the source of the streams whose one of the source is Calera, Oklahoma?",
+        "question_word": "source",
+        "id": 569
+    },
+    {
+        "sentence": "To how many different species does the members of the Animal Kingdom belong?",
+        "question_word": "species",
+        "id": 619
+    },
+    {
+        "sentence": "Name the river with source as Columbia Lake and river mouth is located in Clatsop Country?",
+        "question_word": "river",
+        "id": 694
+    },
+    {
+        "sentence": "From which region is the Melon de Bourgogne?",
+        "question_word": "region",
+        "id": 782
+    },
+    {
+        "sentence": "In which country can I find the State Academic Opera and Ballet Theater and Baku Puppet Theatre?",
+        "question_word": "country",
+        "id": 1012
+    },
+    {
+        "sentence": "Who killed John Lennon?",
+        "question_word": "Who",
+        "id": 970
+    },
+    {
+        "sentence": "List the common official language of the ladonia and Empire of Atlantium?",
+        "question_word": "language",
+        "id": 967
+    },
+    {
+        "sentence": "In which province was Dick Redding born?",
+        "question_word": "province",
+        "id": 879
+    },
+    {
+        "sentence": "Name the river passing through Reading Berkshire and has mouth place at Essex?",
+        "question_word": "river",
+        "id": 771
+    },
+    {
+        "sentence": "Who are the developers of DBpedia?",
+        "question_word": "developers",
+        "id": 626
+    },
+    {
+        "sentence": "Which animator of the The Skeleton Dance is also the director of The Haunted House (1929 film)?",
+        "question_word": "animator",
+        "id": 638
+    },
+    {
+        "sentence": "Where was David Scherman trained?",
+        "question_word": "Where",
+        "id": 946
+    },
+    {
+        "sentence": "What are the towns who have Thesaban system?",
+        "question_word": "towns",
+        "id": 1013
+    },
+    {
+        "sentence": "Which venue of indy PopCon is also the death palce of Louis Le Cocqq?",
+        "question_word": "venue",
+        "id": 637
+    },
+    {
+        "sentence": "Who is the mayor of the capital of French Polynesia?",
+        "question_word": "mayor",
+        "id": 663
+    },
+    {
+        "sentence": "What is the county seat of Moscow Governorate?",
+        "question_word": "seat",
+        "id": 984
+    },
+    {
+        "sentence": "Who is the successor of Quest Software?",
+        "question_word": "successor",
+        "id": 566
+    },
+    {
+        "sentence": "How many kings and queens have died in the Arabian Peninsula?",
+        "question_word": "kings",
+        "id": 643
+    },
+    {
+        "sentence": "Which company has a product named Visual Studio and One Drive as service?",
+        "question_word": "company",
+        "id": 1032
+    },
+    {
+        "sentence": "What state has a Brideun School for Exception Children and is the birthplace  of B J Crombeen?",
+        "question_word": "state",
+        "id": 795
+    },
+    {
+        "sentence": "Who are the politicians whose death place is Ontario?",
+        "question_word": "politicians",
+        "id": 972
+    },
+    {
+        "sentence": "List all the movies whose directors were born in Kenosha, Wisconsin?",
+        "question_word": "movies",
+        "id": 583
+    },
+    {
+        "sentence": "Who became president after JFK died?",
+        "question_word": "Who",
+        "id": 935
+    },
+    {
+        "sentence": "Which series was written by Eric Jendresen and John Orloff?",
+        "question_word": "series",
+        "id": 758
+    },
+    {
+        "sentence": "List the awards won by the fashion designer which have been recognized by Tennessee State Museum?",
+        "question_word": "awards",
+        "id": 936
+    },
+    {
+        "sentence": "Whose theme music is composed by the band one of whose member is Les Claypool?",
+        "question_word": "music",
+        "id": 567
+    },
+    {
+        "sentence": "Who is the builder of the Stadium of Costa Rica women's national football team?",
+        "question_word": "builder",
+        "id": 737
+    },
+    {
+        "sentence": "List some leaders of regions in the Indian Standard Time Zone?",
+        "question_word": "leaders",
+        "id": 922
+    },
+    {
+        "sentence": "Greek writers have won which award?",
+        "question_word": "award",
+        "id": 730
+    },
+    {
+        "sentence": "List the doctoral students of Harry Harlow?",
+        "question_word": "students",
+        "id": 948
+    },
+    {
+        "sentence": "Who were the narrators of the albums which had Ringo Starr as one of the narrator?",
+        "question_word": "narrators",
+        "id": 956
+    },
+    {
+        "sentence": "Who is the office holder whose deputy was Andrew Peacock and predecessor was Alexander Downer?",
+        "question_word": "holder",
+        "id": 599
+    },
+    {
+        "sentence": "What river is it whose source is Dowra?",
+        "question_word": "river",
+        "id": 826
+    },
+    {
+        "sentence": "What is the Nickname of the school where Jeff Hornacek studied?",
+        "question_word": "Nickname",
+        "id": 1010
+    },
+    {
+        "sentence": "How many groups have fought in wars where Richard Taylor fought too?",
+        "question_word": "groups",
+        "id": 994
+    },
+    {
+        "sentence": "What is the magazine which have been  founded by Ralph J. Gleason?",
+        "question_word": "magazine",
+        "id": 836
+    },
+    {
+        "sentence": "Who were the american football players who played for Dallas Cowboys?",
+        "question_word": "players",
+        "id": 966
+    },
+    {
+        "sentence": "Who has produced movies that have a James Horner score?",
+        "question_word": "Who",
+        "id": 1026
+    },
+    {
+        "sentence": "Which arena of WPC Dynamo Moscow is the death palce of Mikhail Voronin?",
+        "question_word": "arena",
+        "id": 1047
+    },
+    {
+        "sentence": "Whose leaders are Willem-Alexander and Fredis Refunjol?",
+        "question_word": "leaders",
+        "id": 652
+    },
+    {
+        "sentence": "Which source country of SamurAbsheron channel is the birth place of Anar Salmanov?",
+        "question_word": "country",
+        "id": 686
+    },
+    {
+        "sentence": "Give me the total number of membership of the organisations which have memebers as  Azerbaijan?",
+        "question_word": "number",
+        "id": 1035
+    },
+    {
+        "sentence": "Who developed Minecraft?",
+        "question_word": "Who",
+        "id": 761
+    },
+    {
+        "sentence": "Count the number of sports played by the universities whose one of the sports is baketball?",
+        "question_word": "number",
+        "id": 644
+    },
+    {
+        "sentence": "Where is the tombstone of the successor of Edward Wolcott?",
+        "question_word": "tombstone",
+        "id": 985
+    },
+    {
+        "sentence": "Name the country with currency as Aureus?",
+        "question_word": "country",
+        "id": 813
+    },
+    {
+        "sentence": "Who is the developer of the software which serves the platform for King's Quest VI?",
+        "question_word": "developer",
+        "id": 533
+    },
+    {
+        "sentence": "To which country do the players of Waitakere United belong?",
+        "question_word": "country",
+        "id": 872
+    },
+    {
+        "sentence": "Who all are known to play the Gibson Guitar Corporation?",
+        "question_word": "Who",
+        "id": 952
+    },
+    {
+        "sentence": "How tall is Claudia Schiffer?",
+        "question_word": "tall",
+        "id": 672
+    },
+    {
+        "sentence": "What is the nationality of Sune Agerschou?",
+        "question_word": "nationality",
+        "id": 917
+    },
+    {
+        "sentence": "In which race did Coneygree the racehorse and Fergie Sutherland the horse trainer participate?",
+        "question_word": "race",
+        "id": 833
+    },
+    {
+        "sentence": "Name the founders of the record labels whose one of the founders is Frank Rogers?",
+        "question_word": "founders",
+        "id": 576
+    },
+    {
+        "sentence": "Who is the youngest player in the Premier League?",
+        "question_word": "player",
+        "id": 731
+    },
+    {
+        "sentence": "Which Greek parties are pro-European?",
+        "question_word": "parties",
+        "id": 927
+    },
+    {
+        "sentence": "What are the movies written by Nick Castle?",
+        "question_word": "movies",
+        "id": 915
+    },
+    {
+        "sentence": "List the main ingredient of Pizza-ghetti?",
+        "question_word": "ingredient",
+        "id": 570
+    },
+    {
+        "sentence": "How many mountain ranges are located in the Canton of Fribourg?",
+        "question_word": "ranges",
+        "id": 841
+    },
+    {
+        "sentence": "Name the scientist who become the part of Royal Society and had academic advisor as Karl Ewald Hasse?",
+        "question_word": "scientist",
+        "id": 1025
+    },
+    {
+        "sentence": "Name the artist who made Dream Dancing and is often associated with Joe Pass?",
+        "question_word": "artist",
+        "id": 777
+    },
+    {
+        "sentence": "Count the number of sports team members  which have player named Matt Williams?",
+        "question_word": "number",
+        "id": 633
+    },
+    {
+        "sentence": "Which notable series of Russell T Davies is also the series of Short Trips: A day in the life?",
+        "question_word": "series",
+        "id": 810
+    },
+    {
+        "sentence": "Which country of Montaas Mayas Chiquibul is the birth place of Jos Bernardo Escobar?",
+        "question_word": "country",
+        "id": 612
+    },
+    {
+        "sentence": "Into which water bodies does Lake Uniamsi outflow?",
+        "question_word": "bodies",
+        "id": 926
+    },
+    {
+        "sentence": "What are the movies whose director is Orson Welles?",
+        "question_word": "movies",
+        "id": 832
+    },
+    {
+        "sentence": "What is the owner of Ivanpah Solar Power Facility and the original developer of Dart?",
+        "question_word": "owner",
+        "id": 522
+    },
+    {
+        "sentence": "Who are the tenants of the stadium which is a venue of WCW Mayhem?",
+        "question_word": "tenants",
+        "id": 838
+    },
+    {
+        "sentence": "Who are the scientists known for the Manhattan Project?",
+        "question_word": "scientists",
+        "id": 1000
+    },
+    {
+        "sentence": "What do craig Van tilbury and karen Grigorian do for a living?",
+        "question_word": "What",
+        "id": 1023
+    },
+    {
+        "sentence": "Where was Antonio Giannini born?",
+        "question_word": "Where",
+        "id": 593
+    },
+    {
+        "sentence": "Give me the Apollo 14 astronauts.",
+        "question_word": "astronauts",
+        "id": 585
+    },
+    {
+        "sentence": "Who is the founder of DC Comics?",
+        "question_word": "founder",
+        "id": 971
+    },
+    {
+        "sentence": "Which baseball team is owned by Robert Nutting?",
+        "question_word": "team",
+        "id": 1001
+    },
+    {
+        "sentence": "List the graves of the royalities which have been buried at Beeleigh Abbey?",
+        "question_word": "graves",
+        "id": 776
+    },
+    {
+        "sentence": "How much is the population of mexico city?",
+        "question_word": "much",
+        "id": 534
+    },
+    {
+        "sentence": "Give me an estimate number of races where horses grandsired by the Wild Risk have raced in?",
+        "question_word": "number",
+        "id": 729
+    },
+    {
+        "sentence": "Where did the war take place where one of the commander was Zuo Zongtang?",
+        "question_word": "Where",
+        "id": 928
+    },
+    {
+        "sentence": "Give me a count of bridges located in California?",
+        "question_word": "count",
+        "id": 774
+    },
+    {
+        "sentence": "Which writers had influenced the philosopher that refused a Nobel Prize?",
+        "question_word": "writers",
+        "id": 962
+    },
+    {
+        "sentence": "Which magazine's editor is married to Crystal Harris?",
+        "question_word": "magazine",
+        "id": 747
+    },
+    {
+        "sentence": "Who has allegiance is Colony of Virginia and buried in Montpelier?",
+        "question_word": "Who",
+        "id": 945
+    },
+    {
+        "sentence": "The fugitive Kind and the Notebook of Trigorin is written by what author?",
+        "question_word": "author",
+        "id": 851
+    },
+    {
+        "sentence": "What are the notable works of the person who produced Queer as Folk?",
+        "question_word": "works",
+        "id": 556
+    },
+    {
+        "sentence": "Who all have been in bands which have recorded their work in the Electric Lady Studios?",
+        "question_word": "Who",
+        "id": 740
+    },
+    {
+        "sentence": "Which successor of Philippine Ports Authority is the state of origin of Ruben J. Villote?",
+        "question_word": "successor",
+        "id": 890
+    },
+    {
+        "sentence": "In how many different teams have all those who have played as a defenceman been?",
+        "question_word": "teams",
+        "id": 901
+    },
+    {
+        "sentence": "Who are currently playing for Barcelona FC?",
+        "question_word": "Who",
+        "id": 840
+    },
+    {
+        "sentence": "What is the birthplace of Liudmila Privivkova and Qadir Huseynov?",
+        "question_word": "birthplace",
+        "id": 1048
+    },
+    {
+        "sentence": "List the other nicknames of city which has one of the nickname as City of Angels?",
+        "question_word": "nicknames",
+        "id": 953
+    },
+    {
+        "sentence": "To which families does the Koolakamba belong?",
+        "question_word": "families",
+        "id": 933
+    },
+    {
+        "sentence": "Where did the ultimate fighter: a champion will be crowned tonight and ultimate fighter: team rousey vs team tate take place?",
+        "question_word": "Where",
+        "id": 526
+    },
+    {
+        "sentence": "Which scientist was advised by John Robert Woodyard?",
+        "question_word": "scientist",
+        "id": 735
+    },
+    {
+        "sentence": "Which river goes through cohoes, NY",
+        "question_word": "river",
+        "id": 525
+    },
+    {
+        "sentence": "Of which countries  does Viveka Babajee have citizenship?",
+        "question_word": "countries",
+        "id": 605
+    },
+    {
+        "sentence": "Who was the prime minister of Victor Hope, 2nd Marquess of Linlithgow and also the editor of British Gazette?",
+        "question_word": "minister",
+        "id": 949
+    },
+    {
+        "sentence": "To which political party does the successor of Radhabinod Koijam belong?",
+        "question_word": "party",
+        "id": 895
+    },
+    {
+        "sentence": "Which series has an episode called The lost special and also a character named Sherlock Holmes?",
+        "question_word": "series",
+        "id": 655
+    },
+    {
+        "sentence": "How many genres gave birth to other genres which emphasize Bass Guitars?",
+        "question_word": "genres",
+        "id": 835
+    },
+    {
+        "sentence": "Which is the university of Vanderbilt Commodores?",
+        "question_word": "university",
+        "id": 918
+    },
+    {
+        "sentence": "Which city was designed by saleen Pator which is also the birht location of Jimmy Diggs?",
+        "question_word": "city",
+        "id": 702
+    },
+    {
+        "sentence": "Name the rive whose mouth is located in Limerick and location is Dowra?",
+        "question_word": "rive",
+        "id": 932
+    },
+    {
+        "sentence": "How many have order (taxonomy) as Bacillales and division as Firmicutes are there?",
+        "question_word": "order",
+        "id": 530
+    },
+    {
+        "sentence": "What is the alma mater of the scientist  whose PhD advisor is Jean-Claude Latombe?",
+        "question_word": "mater",
+        "id": 691
+    },
+    {
+        "sentence": "Gaborone is the capital of which country member of the African Union?",
+        "question_word": "capital",
+        "id": 821
+    },
+    {
+        "sentence": "What are the television shows telecasted on the network which has headquarters at Atlanta?",
+        "question_word": "shows",
+        "id": 543
+    },
+    {
+        "sentence": "List the movies whose editors are born in London.",
+        "question_word": "movies",
+        "id": 598
+    },
+    {
+        "sentence": "List the people who were the first one to climb a mountain in California?",
+        "question_word": "people",
+        "id": 779
+    },
+    {
+        "sentence": "Which country was Bill Gates born in?",
+        "question_word": "country",
+        "id": 870
+    },
+    {
+        "sentence": "Which location of  INKAS is also the location of  T.I. Ahmadiyya Senior High School, Kumasi?",
+        "question_word": "location",
+        "id": 769
+    },
+    {
+        "sentence": "What does the cahora bassa flow into?",
+        "question_word": "What",
+        "id": 1007
+    },
+    {
+        "sentence": "What  awards did the cast members of Gods of Egypt win?",
+        "question_word": "awards",
+        "id": 589
+    },
+    {
+        "sentence": "Which television shows were created by Walt Disney?",
+        "question_word": "shows",
+        "id": 552
+    },
+    {
+        "sentence": "What is the common military branch of the Thomas Darden and that of Edwin F. Hunter",
+        "question_word": "branch",
+        "id": 714
+    },
+    {
+        "sentence": "How many tenats have been there, of the constructions of PCL constructures?",
+        "question_word": "tenats",
+        "id": 995
+    },
+    {
+        "sentence": "List all the members of the organization whose one of the members is Bangladesh?",
+        "question_word": "members",
+        "id": 1016
+    },
+    {
+        "sentence": "What is debut team of the baseball players who died in Los Angeles?",
+        "question_word": "team",
+        "id": 959
+    },
+    {
+        "sentence": "Name the directors of Lennon Legend: The Very Best of John Lennon (DVD)?",
+        "question_word": "directors",
+        "id": 532
+    },
+    {
+        "sentence": "Which countries were the first to play Gumus and Ne daj se, Nina?",
+        "question_word": "countries",
+        "id": 796
+    },
+    {
+        "sentence": "What religion do the Wickramabahu Centeral College and Neungin High School both follow?",
+        "question_word": "religion",
+        "id": 930
+    },
+    {
+        "sentence": "How many awards have been given to Italians?",
+        "question_word": "awards",
+        "id": 690
+    },
+    {
+        "sentence": "How many television shows are broadcasted on Fox Broadcasting Company?",
+        "question_word": "shows",
+        "id": 860
+    },
+    {
+        "sentence": "Which space probes were sent into orbit around the sun?",
+        "question_word": "probes",
+        "id": 670
+    },
+    {
+        "sentence": "Who are the managers of england national under 20 football team?",
+        "question_word": "managers",
+        "id": 924
+    },
+    {
+        "sentence": "How many other Guests are there of the television episodes whose Guests is Brian d'Arcy James?",
+        "question_word": "Guests",
+        "id": 968
+    },
+    {
+        "sentence": "Which executive producer of the ultimate merger is also an important person at Trump Productions?",
+        "question_word": "producer",
+        "id": 664
+    },
+    {
+        "sentence": "Which tema did Dough Acomb played for which is also the drafty team of Dale Mitchell?",
+        "question_word": "tema",
+        "id": 746
+    },
+    {
+        "sentence": "List the total number of awards of the musicals who have won Tony Award?",
+        "question_word": "number",
+        "id": 1030
+    },
+    {
+        "sentence": "What river ends in Indian Ocean and also starts somewhere in Zambia?",
+        "question_word": "river",
+        "id": 854
+    },
+    {
+        "sentence": "Who is the mayor of the capital of New Caledonia?",
+        "question_word": "mayor",
+        "id": 963
+    },
+    {
+        "sentence": "List things developed by Autoconf?",
+        "question_word": "things",
+        "id": 1004
+    },
+    {
+        "sentence": "Name the battle fought by the people which also fought in Levant?",
+        "question_word": "battle",
+        "id": 886
+    },
+    {
+        "sentence": "What is the city whose mayor is Anne Hidalgo?",
+        "question_word": "city",
+        "id": 658
+    },
+    {
+        "sentence": "How many religions are practiced by diplomats?",
+        "question_word": "religions",
+        "id": 646
+    },
+    {
+        "sentence": "Which organisation has superintendent as Lieutenant general (United States)?",
+        "question_word": "organisation",
+        "id": 992
+    },
+    {
+        "sentence": "Name the regions served by Toll Global Express?",
+        "question_word": "regions",
+        "id": 684
+    },
+    {
+        "sentence": "Which software has been published by Mean Hamster Software?",
+        "question_word": "software",
+        "id": 538
+    },
+    {
+        "sentence": "What sports are played in schools in Vashi?",
+        "question_word": "sports",
+        "id": 601
+    },
+    {
+        "sentence": "What sports are played in schools where Swahili is the official language?",
+        "question_word": "sports",
+        "id": 724
+    },
+    {
+        "sentence": "What religion is followed by the commander of Defense Security Command?",
+        "question_word": "religion",
+        "id": 667
+    },
+    {
+        "sentence": "Which company owns the airlines whose hub is in Dubai?",
+        "question_word": "company",
+        "id": 536
+    },
+    {
+        "sentence": "Which former team of the Harry Parker (baseball) is the  debut team of the Carl Sitton?",
+        "question_word": "team",
+        "id": 950
+    },
+    {
+        "sentence": "Which party has come in power at both Balangir and Amaravila in india?",
+        "question_word": "party",
+        "id": 867
+    },
+    {
+        "sentence": "Which movies' composers have won a BAFTA for film music?",
+        "question_word": "composers",
+        "id": 964
+    },
+    {
+        "sentence": "Name some sports played in institutions of Maharashtra?",
+        "question_word": "sports",
+        "id": 546
+    },
+    {
+        "sentence": "Whose famous works have been illustrated by E W Kemble?",
+        "question_word": "works",
+        "id": 775
+    },
+    {
+        "sentence": "What are some neighboring cities of cologny?",
+        "question_word": "cities",
+        "id": 728
+    },
+    {
+        "sentence": "List the television shows whose network's sister names is N-tv.",
+        "question_word": "shows",
+        "id": 975
+    },
+    {
+        "sentence": "Name the console whose successor is PlayStation 4 and predecessor is PlayStation 2?",
+        "question_word": "console",
+        "id": 988
+    },
+    {
+        "sentence": "List the subjects of the books whose one of the topics is Pau Broca?",
+        "question_word": "subjects",
+        "id": 703
+    },
+    {
+        "sentence": "In which country was GM was firt aired which is also the mouth country of Upper Neretva?",
+        "question_word": "country",
+        "id": 707
+    },
+    {
+        "sentence": "What are the things whose director of photography died in United States?",
+        "question_word": "things",
+        "id": 669
+    },
+    {
+        "sentence": "How many movies have a screenplay located in the States?",
+        "question_word": "movies",
+        "id": 1009
+    },
+    {
+        "sentence": "Where are the shrines of the saints who were beatified by Pope Pius XI?",
+        "question_word": "Where",
+        "id": 676
+    },
+    {
+        "sentence": "Name the movies distributed by RKO Pictures and has music composer as Bernard Herrmann?",
+        "question_word": "movies",
+        "id": 553
+    },
+    {
+        "sentence": "What is the wavelength of Indigo?",
+        "question_word": "wavelength",
+        "id": 942
+    },
+    {
+        "sentence": "Give me all actors starring in Batman Begins.",
+        "question_word": "actors",
+        "id": 896
+    },
+    {
+        "sentence": "Name the fictional character who was in Terminator and portrayer is Terminator 2: Judgment Day?",
+        "question_word": "character",
+        "id": 560
+    },
+    {
+        "sentence": "Which writers studied in Istanbul?",
+        "question_word": "writers",
+        "id": 540
+    },
+    {
+        "sentence": "Name the company with product named Microsft Azure and provides OneDrive as a service?",
+        "question_word": "company",
+        "id": 876
+    },
+    {
+        "sentence": "What awards have been given to the writers of Wallace and Gromit?",
+        "question_word": "awards",
+        "id": 1014
+    },
+    {
+        "sentence": "Name a movie with actor as Momoko Kchi and music by Akira Ifukube?",
+        "question_word": "movie",
+        "id": 916
+    },
+    {
+        "sentence": "Which animator of Tommy Tucker's Tooth is also the film director of Alice's Wonderland?",
+        "question_word": "animator",
+        "id": 850
+    },
+    {
+        "sentence": "How many movies were cinematographed by Jordan Cronenweth?",
+        "question_word": "movies",
+        "id": 524
+    },
+    {
+        "sentence": "What is the location of death of the skier who was the bronze medalist of Alpine skiing at the 1964 Winter Olympics  Men's slalom?",
+        "question_word": "location",
+        "id": 621
+    },
+    {
+        "sentence": "Which distributer of Glover (video game) is also the  publisher of the Super Mario Adventures?",
+        "question_word": "distributer",
+        "id": 649
+    },
+    {
+        "sentence": "What is the leader name of the settlements whose governing body is Municipal council?",
+        "question_word": "name",
+        "id": 630
+    },
+    {
+        "sentence": "Which battle did both Steven Palazao and tony hogg fight in?",
+        "question_word": "battle",
+        "id": 586
+    },
+    {
+        "sentence": "Who is the musician of Before I let you Go?",
+        "question_word": "musician",
+        "id": 773
+    },
+    {
+        "sentence": "Who is the leader of Allgemeine SS?",
+        "question_word": "leader",
+        "id": 875
+    },
+    {
+        "sentence": "Erik Jendresen is writer and Play tone is company of which TV show?",
+        "question_word": "show",
+        "id": 568
+    },
+    {
+        "sentence": "What is the base currency of the Benelux and is also used as money in Kerguelen Islands?",
+        "question_word": "currency",
+        "id": 923
+    },
+    {
+        "sentence": "Which people have as their given name Jimmy?",
+        "question_word": "people",
+        "id": 809
+    },
+    {
+        "sentence": "How many people used to play for Toronto Argonauts?",
+        "question_word": "people",
+        "id": 741
+    },
+    {
+        "sentence": "Name the common associate band of Blayse and Teddy Riley?",
+        "question_word": "band",
+        "id": 880
+    },
+    {
+        "sentence": "Which rivers flow into the lower manhatten?",
+        "question_word": "rivers",
+        "id": 1021
+    },
+    {
+        "sentence": "Which awards did the creator of A Barrel of Laughs, a Vale of Tears won?",
+        "question_word": "awards",
+        "id": 528
+    },
+    {
+        "sentence": "Name the basketball players drafted by Los Angeles Clippers?",
+        "question_word": "players",
+        "id": 871
+    },
+    {
+        "sentence": "Give me all movies with Tom Cruise!",
+        "question_word": "movies",
+        "id": 1008
+    },
+    {
+        "sentence": "In which state is the team, which has John Roeslein?",
+        "question_word": "state",
+        "id": 575
+    },
+    {
+        "sentence": "Which type of  building is Qun Thnh Temple?",
+        "question_word": "type",
+        "id": 1045
+    },
+    {
+        "sentence": "Who did the person whose predecessor is Arthur Slaght, play for?",
+        "question_word": "Who",
+        "id": 977
+    },
+    {
+        "sentence": "Where was the company who is the operator of Harihar Airport founded?",
+        "question_word": "Where",
+        "id": 938
+    },
+    {
+        "sentence": "List all the school of the rugby player whose one of the school is Michael House?",
+        "question_word": "school",
+        "id": 1039
+    },
+    {
+        "sentence": "To which company is Michael Dell a father company?",
+        "question_word": "company",
+        "id": 590
+    },
+    {
+        "sentence": "What is the place of birth of the jockey who breeded De La Rose?",
+        "question_word": "place",
+        "id": 639
+    },
+    {
+        "sentence": "Over what do Concor holdings have a bridge?",
+        "question_word": "what",
+        "id": 634
+    },
+    {
+        "sentence": "From where is Quinn Ojinnaka billed?",
+        "question_word": "where",
+        "id": 542
+    },
+    {
+        "sentence": "List all the doctoral student of the scientist who has advised john Bowlby?",
+        "question_word": "student",
+        "id": 859
+    },
+    {
+        "sentence": "Which ships were called after Benjamin Franklin?",
+        "question_word": "ships",
+        "id": 604
+    },
+    {
+        "sentence": "Name the common musical band of Take Me There and Tonight's the Night?",
+        "question_word": "band",
+        "id": 693
+    },
+    {
+        "sentence": "Give me all cities in New Jersey with more than 100000 inhabitants.",
+        "question_word": "cities",
+        "id": 990
+    },
+    {
+        "sentence": "Which awards are presented by Swedish Academy?",
+        "question_word": "awards",
+        "id": 665
+    },
+    {
+        "sentence": "Who is the former partner of the pupil of Dalilah Sappenfield?",
+        "question_word": "partner",
+        "id": 662
+    },
+    {
+        "sentence": "Which coach of England national under 21 footbal team is also the coach of Aston Villa F.C season?",
+        "question_word": "coach",
+        "id": 892
+    },
+    {
+        "sentence": "Which cities does the Weser flow through?",
+        "question_word": "cities",
+        "id": 685
+    },
+    {
+        "sentence": "How many sitcoms were produced by the company whose predecessor was the Desilu Productions",
+        "question_word": "sitcoms",
+        "id": 647
+    },
+    {
+        "sentence": "List the websites which the authors of Tornado own?",
+        "question_word": "websites",
+        "id": 868
+    },
+    {
+        "sentence": "In which year was Rachel Stevens born?",
+        "question_word": "year",
+        "id": 785
+    },
+    {
+        "sentence": "List the leaders of all the cities through which the Ganga river flows?",
+        "question_word": "leaders",
+        "id": 978
+    },
+    {
+        "sentence": "Give me all Apollo 14 astronauts.",
+        "question_word": "astronauts",
+        "id": 1051
+    },
+    {
+        "sentence": "How many sitcoms are there whose theme music is composed by a New Yorker?",
+        "question_word": "sitcoms",
+        "id": 749
+    },
+    {
+        "sentence": "Count the religions followed by people living in British Columbia.",
+        "question_word": "religions",
+        "id": 588
+    },
+    {
+        "sentence": "Which subsidiary of TUI Travel serves both Glasgow and Dublin?",
+        "question_word": "subsidiary",
+        "id": 1003
+    },
+    {
+        "sentence": "Who are the writers of South Park: The Stick of Truth?",
+        "question_word": "writers",
+        "id": 550
+    },
+    {
+        "sentence": "How many artists have their works in the Sao Paolo Museum of Art?",
+        "question_word": "artists",
+        "id": 559
+    },
+    {
+        "sentence": "What is the meaning of Heydar?",
+        "question_word": "meaning",
+        "id": 873
+    },
+    {
+        "sentence": "Which companies have launched from the Vandenberg Air Force Air base?",
+        "question_word": "companies",
+        "id": 592
+    },
+    {
+        "sentence": "List the television shows whose network's owning company is Turner Broadcasting System?",
+        "question_word": "shows",
+        "id": 1044
+    },
+    {
+        "sentence": "Which leader of United States House of Representatives was the appinter of ohn Drayton?",
+        "question_word": "leader",
+        "id": 1006
+    },
+    {
+        "sentence": "List down all the baseball teams whose team manager was a Catcher?",
+        "question_word": "teams",
+        "id": 981
+    },
+    {
+        "sentence": "In how many places have the companies started in Newcastle worked?",
+        "question_word": "places",
+        "id": 597
+    },
+    {
+        "sentence": "Which band made the song Take me There, and has collaborated with Blayse in the past?",
+        "question_word": "band",
+        "id": 767
+    },
+    {
+        "sentence": "What is the origin of the musical artist of A Todo Romantic Style?",
+        "question_word": "origin",
+        "id": 674
+    },
+    {
+        "sentence": "What awards have been given to A. Peter Dewey?",
+        "question_word": "awards",
+        "id": 781
+    },
+    {
+        "sentence": "List the children of Margaret Thatcher.",
+        "question_word": "children",
+        "id": 645
+    },
+    {
+        "sentence": "List the destinations of Novair International Airways?",
+        "question_word": "destinations",
+        "id": 648
+    },
+    {
+        "sentence": "List the shrines of the saint whose one of the shrine is Ponza?",
+        "question_word": "shrines",
+        "id": 961
+    },
+    {
+        "sentence": "Name the veneration of the monarch who is the predecessor of Solomon?",
+        "question_word": "veneration",
+        "id": 631
+    },
+    {
+        "sentence": "Who  has these major shrines  : Emmitsburg, Maryland and Shrine of St. Elizabeth Ann Bayley Seton?",
+        "question_word": "Who",
+        "id": 653
+    },
+    {
+        "sentence": "Which things are Breann McGregor known for?",
+        "question_word": "things",
+        "id": 999
+    },
+    {
+        "sentence": "Where are the Dinamo Krasnodar players born?",
+        "question_word": "Where",
+        "id": 563
+    },
+    {
+        "sentence": "Count all the universities who participated in the tournament won by Alabama Crimson Tides in 2015?",
+        "question_word": "universities",
+        "id": 863
+    },
+    {
+        "sentence": "Which athlete was the flag bearer for Switzerland in 2004 and 2008 summer Olympics?",
+        "question_word": "athlete",
+        "id": 806
+    },
+    {
+        "sentence": "What political party has governed both in Baraily,MP and Jowai?",
+        "question_word": "party",
+        "id": 750
+    },
+    {
+        "sentence": "Name the TV show with distributor as Broadcast syndication and has theme music composed by Primus?",
+        "question_word": "show",
+        "id": 1052
+    }
+]

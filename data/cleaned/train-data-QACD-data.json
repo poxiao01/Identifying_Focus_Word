@@ -1,0 +1,3707 @@
+[
+    {
+        "sentence": "Which countries are connected by the Rhine?",
+        "question_word": "countries",
+        "id": 2
+    },
+    {
+        "sentence": "What was the name of the famous battle in 1836 in San Antonio?",
+        "question_word": "name",
+        "id": 11
+    },
+    {
+        "sentence": "Who is the owner of Rolls-Royce?",
+        "question_word": "owner",
+        "id": 29
+    },
+    {
+        "sentence": "When was Carlo Giuliani shot?",
+        "question_word": "When",
+        "id": 33
+    },
+    {
+        "sentence": "List all episodes of the first season of the HBO television series The Sopranos!",
+        "question_word": "episodes",
+        "id": 43
+    },
+    {
+        "sentence": "Which weapons did Heckler & Koch develop?",
+        "question_word": "weapons",
+        "id": 47
+    },
+    {
+        "sentence": "Which Chess players died in the same place they were born in?",
+        "question_word": "players",
+        "id": 66
+    },
+    {
+        "sentence": "Give me all the TV shows with Neil Patrick Harris.",
+        "question_word": "shows",
+        "id": 75
+    },
+    {
+        "sentence": "What are the specialities of the UNC Health Care?",
+        "question_word": "specialities",
+        "id": 83
+    },
+    {
+        "sentence": "How large is the area of UK?",
+        "question_word": "large",
+        "id": 85
+    },
+    {
+        "sentence": "Which building after the Burj Khalifa has the most floors?",
+        "question_word": "building",
+        "id": 110
+    },
+    {
+        "sentence": "For which label did Elvis record his first album?",
+        "question_word": "label",
+        "id": 126
+    },
+    {
+        "sentence": "How many missions does the Soyuz programme have?",
+        "question_word": "missions",
+        "id": 129
+    },
+    {
+        "sentence": "In which country is the Limerick Lake?",
+        "question_word": "country",
+        "id": 148
+    },
+    {
+        "sentence": "Which airports does Yeti Airlines serve?",
+        "question_word": "airports",
+        "id": 153
+    },
+    {
+        "sentence": "Who is the editor of Semana?",
+        "question_word": "editor",
+        "id": 157
+    },
+    {
+        "sentence": "How many students does the Free University of Amsterdam have?",
+        "question_word": "students",
+        "id": 170
+    },
+    {
+        "sentence": "Who is the mayor of Rotterdam?",
+        "question_word": "mayor",
+        "id": 175
+    },
+    {
+        "sentence": "Who produces Orangina?",
+        "question_word": "Who",
+        "id": 176
+    },
+    {
+        "sentence": "Give me all European Capitals!",
+        "question_word": "Capitals",
+        "id": 181
+    },
+    {
+        "sentence": "Who was married to president Chirac?",
+        "question_word": "Who",
+        "id": 190
+    },
+    {
+        "sentence": "Who created Goofy?",
+        "question_word": "Who",
+        "id": 191
+    },
+    {
+        "sentence": "What is the birth name of Adele?",
+        "question_word": "name",
+        "id": 192
+    },
+    {
+        "sentence": "Who designed the Brooklyn Bridge?",
+        "question_word": "Who",
+        "id": 203
+    },
+    {
+        "sentence": "What is the capital of Venezuela?",
+        "question_word": "capital",
+        "id": 226
+    },
+    {
+        "sentence": "Which countries have more than ten volcanoes?",
+        "question_word": "countries",
+        "id": 236
+    },
+    {
+        "sentence": "Give me all Methodist politicians.",
+        "question_word": "politicians",
+        "id": 237
+    },
+    {
+        "sentence": "Where was the \"Father of Singapore\" born?",
+        "question_word": "Where",
+        "id": 245
+    },
+    {
+        "sentence": "What is the largest city in america?",
+        "question_word": "city",
+        "id": 250
+    },
+    {
+        "sentence": "What is the official color of the Carleton University?",
+        "question_word": "color",
+        "id": 262
+    },
+    {
+        "sentence": "Who developed Slack?",
+        "question_word": "Who",
+        "id": 267
+    },
+    {
+        "sentence": "Which films did Stanley Kubrick direct?",
+        "question_word": "films",
+        "id": 291
+    },
+    {
+        "sentence": "What is the total population of Melbourne, Florida?",
+        "question_word": "population",
+        "id": 299
+    },
+    {
+        "sentence": "What does ICRO stand for?",
+        "question_word": "What",
+        "id": 304
+    },
+    {
+        "sentence": "How many companies were founded in the same year as Google?",
+        "question_word": "companies",
+        "id": 306
+    },
+    {
+        "sentence": "What is the currency of the Czech Republic?",
+        "question_word": "currency",
+        "id": 323
+    },
+    {
+        "sentence": "How many theories did Albert Einstein come up with?",
+        "question_word": "theories",
+        "id": 324
+    },
+    {
+        "sentence": "How tall is Amazon Eve?",
+        "question_word": "tall",
+        "id": 331
+    },
+    {
+        "sentence": "Where is the residence of the prime minister of Spain?",
+        "question_word": "residence",
+        "id": 344
+    },
+    {
+        "sentence": "Which airports are located in California, USA?",
+        "question_word": "airports",
+        "id": 351
+    },
+    {
+        "sentence": "How often did Teresa Mo marry?",
+        "question_word": "often",
+        "id": 361
+    },
+    {
+        "sentence": "What is the smallest city by area in Germany?",
+        "question_word": "city",
+        "id": 363
+    },
+    {
+        "sentence": "Where is the most deep point in the ocean?",
+        "question_word": "point",
+        "id": 368
+    },
+    {
+        "sentence": "Which members of the Wu-Tang Clan took their stage name from a movie?",
+        "question_word": "members",
+        "id": 369
+    },
+    {
+        "sentence": "Who was the successor of John F. Kennedy?",
+        "question_word": "successor",
+        "id": 370
+    },
+    {
+        "sentence": "What form of government is found in South Africa?",
+        "question_word": "form",
+        "id": 371
+    },
+    {
+        "sentence": "What is the timezone in San Pedro de Atacama?",
+        "question_word": "timezone",
+        "id": 373
+    },
+    {
+        "sentence": "Give me the capitals of all countries in Africa.",
+        "question_word": "capitals",
+        "id": 381
+    },
+    {
+        "sentence": "Which artist made the album Old School Prankstas?",
+        "question_word": "artist",
+        "id": 385
+    },
+    {
+        "sentence": "Give me all soccer clubs in the Premier League.",
+        "question_word": "clubs",
+        "id": 388
+    },
+    {
+        "sentence": "Which countries have more than two official languages?",
+        "question_word": "countries",
+        "id": 393
+    },
+    {
+        "sentence": "How many people live in the capital of Togo?",
+        "question_word": "people",
+        "id": 401
+    },
+    {
+        "sentence": "Give me all presidents of the United States.",
+        "question_word": "presidents",
+        "id": 412
+    },
+    {
+        "sentence": "Give me the homepage of Forbes.",
+        "question_word": "homepage",
+        "id": 417
+    },
+    {
+        "sentence": "Which German cities have more than 250000 inhabitants?",
+        "question_word": "cities",
+        "id": 433
+    },
+    {
+        "sentence": "When did Paraguay proclaim its independence?",
+        "question_word": "When",
+        "id": 435
+    },
+    {
+        "sentence": "What is the highest mountain in Saxony Germany?",
+        "question_word": "mountain",
+        "id": 437
+    },
+    {
+        "sentence": "Which musician wrote the most books?",
+        "question_word": "musician",
+        "id": 441
+    },
+    {
+        "sentence": "Who is the current federal minister of finance in Germany?",
+        "question_word": "minister",
+        "id": 452
+    },
+    {
+        "sentence": "Which actress starring in the TV series Friends owns the production company Coquette Productions?",
+        "question_word": "actress",
+        "id": 455
+    },
+    {
+        "sentence": "Give me the websites of companies with more than 500000 employees.",
+        "question_word": "websites",
+        "id": 463
+    },
+    {
+        "sentence": "How many airlines are members of the Star Alliance?",
+        "question_word": "airlines",
+        "id": 473
+    },
+    {
+        "sentence": "What is Batman's real name?",
+        "question_word": "name",
+        "id": 497
+    },
+    {
+        "sentence": "Which soccer players were born on Malta?",
+        "question_word": "players",
+        "id": 498
+    },
+    {
+        "sentence": "Who is the king of the Netherlands?",
+        "question_word": "king",
+        "id": 499
+    },
+    {
+        "sentence": "Who was the father of Queen Elizabeth II?",
+        "question_word": "father",
+        "id": 502
+    },
+    {
+        "sentence": "How much is the population of mexico city?",
+        "question_word": "much",
+        "id": 534
+    },
+    {
+        "sentence": "Which software has been published by Mean Hamster Software?",
+        "question_word": "software",
+        "id": 538
+    },
+    {
+        "sentence": "Which writers studied in Istanbul?",
+        "question_word": "writers",
+        "id": 540
+    },
+    {
+        "sentence": "Who created Retrocrush?",
+        "question_word": "Who",
+        "id": 541
+    },
+    {
+        "sentence": "What is the eye color of Liza Kennedy?",
+        "question_word": "color",
+        "id": 547
+    },
+    {
+        "sentence": "Which television shows were created by Walt Disney?",
+        "question_word": "shows",
+        "id": 552
+    },
+    {
+        "sentence": "Show me hiking trails in the Grand Canyon where there's no danger of flash floods.",
+        "question_word": "trails",
+        "id": 558
+    },
+    {
+        "sentence": "Which films starring Clint Eastwood did he direct himself?",
+        "question_word": "films",
+        "id": 562
+    },
+    {
+        "sentence": "Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel?",
+        "question_word": "subsidiary",
+        "id": 578
+    },
+    {
+        "sentence": "How tall is John Windsor?",
+        "question_word": "tall",
+        "id": 580
+    },
+    {
+        "sentence": "Give me the Apollo 14 astronauts.",
+        "question_word": "astronauts",
+        "id": 585
+    },
+    {
+        "sentence": "Which companies work in the aerospace industry as well as in medicine?",
+        "question_word": "companies",
+        "id": 591
+    },
+    {
+        "sentence": "Which ships were called after Benjamin Franklin?",
+        "question_word": "ships",
+        "id": 604
+    },
+    {
+        "sentence": "Who are the developers of DBpedia?",
+        "question_word": "developers",
+        "id": 626
+    },
+    {
+        "sentence": "Butch Otter is the governor of which U.S. state?",
+        "question_word": "state",
+        "id": 627
+    },
+    {
+        "sentence": "In which state Penn State University is located?",
+        "question_word": "state",
+        "id": 628
+    },
+    {
+        "sentence": "Who was John F. Kennedy's vice president?",
+        "question_word": "president",
+        "id": 629
+    },
+    {
+        "sentence": "Which other weapons did the designer of the Uzi develop?",
+        "question_word": "weapons",
+        "id": 641
+    },
+    {
+        "sentence": "List the children of Margaret Thatcher.",
+        "question_word": "children",
+        "id": 645
+    },
+    {
+        "sentence": "Which volcanos in Japan erupted since 2000?",
+        "question_word": "volcanos",
+        "id": 650
+    },
+    {
+        "sentence": "Who is the mayor of the capital of French Polynesia?",
+        "question_word": "mayor",
+        "id": 663
+    },
+    {
+        "sentence": "Which space probes were sent into orbit around the sun?",
+        "question_word": "probes",
+        "id": 670
+    },
+    {
+        "sentence": "How tall is Claudia Schiffer?",
+        "question_word": "tall",
+        "id": 672
+    },
+    {
+        "sentence": "How tall is Michael Jordan?",
+        "question_word": "tall",
+        "id": 680
+    },
+    {
+        "sentence": "Which cities does the Weser flow through?",
+        "question_word": "cities",
+        "id": 685
+    },
+    {
+        "sentence": "Which programming languages influenced Javascript?",
+        "question_word": "languages",
+        "id": 687
+    },
+    {
+        "sentence": "How often did Jane Fonda marry?",
+        "question_word": "often",
+        "id": 692
+    },
+    {
+        "sentence": "Show me all songs from Bruce Springsteen released between 1980 and 1990.",
+        "question_word": "songs",
+        "id": 697
+    },
+    {
+        "sentence": "Who is the youngest player in the Premier League?",
+        "question_word": "player",
+        "id": 731
+    },
+    {
+        "sentence": "How many pages does The Man with the Red Tattoo have?",
+        "question_word": "pages",
+        "id": 738
+    },
+    {
+        "sentence": "When is Gibraltar Diamond Jubilee Flotilla?",
+        "question_word": "When",
+        "id": 743
+    },
+    {
+        "sentence": "Who developed Minecraft?",
+        "question_word": "Who",
+        "id": 761
+    },
+    {
+        "sentence": "In which city are the headquarters of the United Nations?",
+        "question_word": "city",
+        "id": 765
+    },
+    {
+        "sentence": "Which beer brewing comapnies are located in North-Rhine Westphalia?",
+        "question_word": "beer",
+        "id": 766
+    },
+    {
+        "sentence": "In which studio did the Beatles record their first album?",
+        "question_word": "studio",
+        "id": 778
+    },
+    {
+        "sentence": "Which U.S. state has the highest population density?",
+        "question_word": "state",
+        "id": 780
+    },
+    {
+        "sentence": "From which region is the Melon de Bourgogne?",
+        "question_word": "region",
+        "id": 782
+    },
+    {
+        "sentence": "In which year was Rachel Stevens born?",
+        "question_word": "year",
+        "id": 785
+    },
+    {
+        "sentence": "Who is the architect of the tallest building in Japan?",
+        "question_word": "architect",
+        "id": 787
+    },
+    {
+        "sentence": "In which U.S. state is Area 51 located?",
+        "question_word": "state",
+        "id": 798
+    },
+    {
+        "sentence": "Who is the daughter of Robert Kennedy married to?",
+        "question_word": "daughter",
+        "id": 808
+    },
+    {
+        "sentence": "Which people have as their given name Jimmy?",
+        "question_word": "people",
+        "id": 809
+    },
+    {
+        "sentence": "How many goals did Pelé score?",
+        "question_word": "goals",
+        "id": 811
+    },
+    {
+        "sentence": "Which movies starring Mickey Rourke were directed by Guy Ritchie?",
+        "question_word": "movies",
+        "id": 814
+    },
+    {
+        "sentence": "Which museum in New York has the most visitors?",
+        "question_word": "museum",
+        "id": 819
+    },
+    {
+        "sentence": "Gaborone is the capital of which country member of the African Union?",
+        "question_word": "capital",
+        "id": 821
+    },
+    {
+        "sentence": "What eating disorder is characterized by an appetite for substances such as clay and sand?",
+        "question_word": "disorder",
+        "id": 848
+    },
+    {
+        "sentence": "Show me Hemingway's autobiography.",
+        "question_word": "autobiography",
+        "id": 849
+    },
+    {
+        "sentence": "Which classis do tree frogs belong to?",
+        "question_word": "classis",
+        "id": 852
+    },
+    {
+        "sentence": "What are the nicknames of San Francisco?",
+        "question_word": "nicknames",
+        "id": 861
+    },
+    {
+        "sentence": "What is the founding year of the brewery that produces Pilsner Urquell?",
+        "question_word": "year",
+        "id": 862
+    },
+    {
+        "sentence": "What is the last work of Dan Brown?",
+        "question_word": "work",
+        "id": 866
+    },
+    {
+        "sentence": "Which country was Bill Gates born in?",
+        "question_word": "country",
+        "id": 870
+    },
+    {
+        "sentence": "List all the musicals with music by Leonard Bernstein.",
+        "question_word": "musicals",
+        "id": 877
+    },
+    {
+        "sentence": "Who developed the video game Duke Nukem 3D?",
+        "question_word": "Who",
+        "id": 882
+    },
+    {
+        "sentence": "With how many countries Iran has borders?",
+        "question_word": "countries",
+        "id": 885
+    },
+    {
+        "sentence": "Give me all actors starring in Batman Begins.",
+        "question_word": "actors",
+        "id": 896
+    },
+    {
+        "sentence": "Give me all communist countries.",
+        "question_word": "countries",
+        "id": 897
+    },
+    {
+        "sentence": "How short is the shortest active NBA player?",
+        "question_word": "short",
+        "id": 904
+    },
+    {
+        "sentence": "Give me all inflows of the Lake Houston.",
+        "question_word": "inflows",
+        "id": 909
+    },
+    {
+        "sentence": "What were the names of the three ships by Columbus?",
+        "question_word": "names",
+        "id": 919
+    },
+    {
+        "sentence": "Which Greek parties are pro-European?",
+        "question_word": "parties",
+        "id": 927
+    },
+    {
+        "sentence": "Who became president after JFK died?",
+        "question_word": "Who",
+        "id": 935
+    },
+    {
+        "sentence": "What is the wavelength of Indigo?",
+        "question_word": "wavelength",
+        "id": 942
+    },
+    {
+        "sentence": "What is the most beautiful painting?",
+        "question_word": "painting",
+        "id": 955
+    },
+    {
+        "sentence": "Which writers had influenced the philosopher that refused a Nobel Prize?",
+        "question_word": "writers",
+        "id": 962
+    },
+    {
+        "sentence": "Who is the mayor of the capital of New Caledonia?",
+        "question_word": "mayor",
+        "id": 963
+    },
+    {
+        "sentence": "Who killed John Lennon?",
+        "question_word": "Who",
+        "id": 970
+    },
+    {
+        "sentence": "Who is the founder of DC Comics?",
+        "question_word": "founder",
+        "id": 971
+    },
+    {
+        "sentence": "What is the second highest mountain on Earth?",
+        "question_word": "mountain",
+        "id": 987
+    },
+    {
+        "sentence": "Give me all cities in New Jersey with more than 100000 inhabitants.",
+        "question_word": "cities",
+        "id": 990
+    },
+    {
+        "sentence": "Which companies are in the computer software industry?",
+        "question_word": "companies",
+        "id": 996
+    },
+    {
+        "sentence": "Which subsidiary of TUI Travel serves both Glasgow and Dublin?",
+        "question_word": "subsidiary",
+        "id": 1003
+    },
+    {
+        "sentence": "Give me all movies with Tom Cruise!",
+        "question_word": "movies",
+        "id": 1008
+    },
+    {
+        "sentence": "Give me all Avant-garde jazz record labels.",
+        "question_word": "labels",
+        "id": 1017
+    },
+    {
+        "sentence": "Who is 8th president of US?",
+        "question_word": "president",
+        "id": 1040
+    },
+    {
+        "sentence": "Give me all Apollo 14 astronauts.",
+        "question_word": "astronauts",
+        "id": 1051
+    },
+    {
+        "sentence": "How many companies were founded by the founder of Facebook?",
+        "question_word": "companies",
+        "id": 1063
+    },
+    {
+        "sentence": "What is the percentage of area water in Brazil?",
+        "question_word": "percentage",
+        "id": 1081
+    },
+    {
+        "sentence": "Give me all writers that won the Nobel Prize in literature.",
+        "question_word": "writers",
+        "id": 1089
+    },
+    {
+        "sentence": "Where did the architect of the Eiffel Tower study?",
+        "question_word": "Where",
+        "id": 1097
+    },
+    {
+        "sentence": "How many people live in Eurasia?",
+        "question_word": "people",
+        "id": 1100
+    },
+    {
+        "sentence": "What are the names of the Teenage Mutant Ninja Turtles?",
+        "question_word": "names",
+        "id": 1117
+    },
+    {
+        "sentence": "Which city has the oldest running metro?",
+        "question_word": "city",
+        "id": 1129
+    },
+    {
+        "sentence": "How many James Bond movies are there?",
+        "question_word": "movies",
+        "id": 1137
+    },
+    {
+        "sentence": "What were the names of the three ships used by Columbus?",
+        "question_word": "names",
+        "id": 1144
+    },
+    {
+        "sentence": "Which capitals in Europe were host cities of the summer olympic games?",
+        "question_word": "capitals",
+        "id": 1157
+    },
+    {
+        "sentence": "Who does the voice of Bart Simpson?",
+        "question_word": "Who",
+        "id": 1167
+    },
+    {
+        "sentence": "Show me all museums in London.",
+        "question_word": "museums",
+        "id": 1170
+    },
+    {
+        "sentence": "What is the location of the Houses of Parliament?",
+        "question_word": "location",
+        "id": 1175
+    },
+    {
+        "sentence": "Which beer originated in Ireland?",
+        "question_word": "beer",
+        "id": 1182
+    },
+    {
+        "sentence": "Who succeeded the pope that reigned only 33 days?",
+        "question_word": "Who",
+        "id": 1195
+    },
+    {
+        "sentence": "Who composed the music for the film that depicts the early life of Jane Austin?",
+        "question_word": "Who",
+        "id": 1196
+    },
+    {
+        "sentence": "Show me everyone who was born on Boxing Day.",
+        "question_word": "everyone",
+        "id": 1203
+    },
+    {
+        "sentence": "Give me all Danish movies.",
+        "question_word": "movies",
+        "id": 1206
+    },
+    {
+        "sentence": "Show me all Czech movies.",
+        "question_word": "movies",
+        "id": 1220
+    },
+    {
+        "sentence": "Which holidays are celebrated around the world? test2",
+        "question_word": "holidays",
+        "id": 1224
+    },
+    {
+        "sentence": "In which U.S. state is Fort Knox located?",
+        "question_word": "state",
+        "id": 1230
+    },
+    {
+        "sentence": "In which country does the Nile start?",
+        "question_word": "country",
+        "id": 1244
+    },
+    {
+        "sentence": "Where is the origin of Carolina reaper?",
+        "question_word": "origin",
+        "id": 1249
+    },
+    {
+        "sentence": "Which actor was casted in the most movies?",
+        "question_word": "actor",
+        "id": 1253
+    },
+    {
+        "sentence": "Give me all South American countries.",
+        "question_word": "countries",
+        "id": 1266
+    },
+    {
+        "sentence": "How big is the earth's diameter?",
+        "question_word": "big",
+        "id": 1269
+    },
+    {
+        "sentence": "What is the official website of Tom Cruise?",
+        "question_word": "website",
+        "id": 1285
+    },
+    {
+        "sentence": "When did Dracula's creator die?",
+        "question_word": "When",
+        "id": 1291
+    },
+    {
+        "sentence": "How much did the Lego Movie cost?",
+        "question_word": "cost",
+        "id": 1293
+    },
+    {
+        "sentence": "Give me all professional skateboarders from Sweden.",
+        "question_word": "skateboarders",
+        "id": 1295
+    },
+    {
+        "sentence": "Who was the first president of the United States?",
+        "question_word": "president",
+        "id": 1309
+    },
+    {
+        "sentence": "Which U.S. states are in the same timezone as Utah?",
+        "question_word": "states",
+        "id": 1315
+    },
+    {
+        "sentence": "How high is the Doe Hill Mountain?",
+        "question_word": "high",
+        "id": 1328
+    },
+    {
+        "sentence": "Which U.S. State has the abbreviation MN?",
+        "question_word": "State",
+        "id": 1333
+    },
+    {
+        "sentence": "What is the total amount of men and women serving in the FDNY?",
+        "question_word": "amount",
+        "id": 1335
+    },
+    {
+        "sentence": "Where is the Sandhammaren located?",
+        "question_word": "Where",
+        "id": 1343
+    },
+    {
+        "sentence": "When was Alberta admitted as province?",
+        "question_word": "When",
+        "id": 1344
+    },
+    {
+        "sentence": "Who was the 16th president of the United States?",
+        "question_word": "president",
+        "id": 1353
+    },
+    {
+        "sentence": "How many politicians graduated from Stanford University?",
+        "question_word": "politicians",
+        "id": 1367
+    },
+    {
+        "sentence": "What is the highest mountain in the Bavarian Alps?",
+        "question_word": "mountain",
+        "id": 1372
+    },
+    {
+        "sentence": "Who created Batman?",
+        "question_word": "Who",
+        "id": 1383
+    },
+    {
+        "sentence": "When was Sevcon founded?",
+        "question_word": "When",
+        "id": 1385
+    },
+    {
+        "sentence": "When did the Boston Tea Party take place?",
+        "question_word": "When",
+        "id": 1388
+    },
+    {
+        "sentence": "What is the capital of Canada?",
+        "question_word": "capital",
+        "id": 1391
+    },
+    {
+        "sentence": "Give me all movies directed by Francis Ford Coppola.",
+        "question_word": "movies",
+        "id": 1395
+    },
+    {
+        "sentence": "Desserts from which country contain fish?",
+        "question_word": "country",
+        "id": 1399
+    },
+    {
+        "sentence": "In which films did Julia Roberts as well as Richard Gere play?",
+        "question_word": "films",
+        "id": 1406
+    },
+    {
+        "sentence": "Which bridges are of the same type as the Manhattan Bridge?",
+        "question_word": "bridges",
+        "id": 1409
+    },
+    {
+        "sentence": "What does IYCM stand for?",
+        "question_word": "What",
+        "id": 1413
+    },
+    {
+        "sentence": "Which organizations were founded in 1930?",
+        "question_word": "organizations",
+        "id": 1419
+    },
+    {
+        "sentence": "Give me the official websites of actors of the television show Charmed.",
+        "question_word": "websites",
+        "id": 1426
+    },
+    {
+        "sentence": "Who is the governor of Texas?",
+        "question_word": "governor",
+        "id": 1434
+    },
+    {
+        "sentence": "Give me all launch pads operated by NASA.",
+        "question_word": "pads",
+        "id": 1436
+    },
+    {
+        "sentence": "How many James Bond movies do exist?",
+        "question_word": "movies",
+        "id": 1438
+    },
+    {
+        "sentence": "Who is the mayor of Tel Aviv?",
+        "question_word": "mayor",
+        "id": 1449
+    },
+    {
+        "sentence": "How many moons does Mars have?",
+        "question_word": "moons",
+        "id": 1451
+    },
+    {
+        "sentence": "How many pages does War and Peace have?",
+        "question_word": "pages",
+        "id": 1461
+    },
+    {
+        "sentence": "Who wrote the song Hotel California?",
+        "question_word": "Who",
+        "id": 1471
+    },
+    {
+        "sentence": "Which daughters of British earls died at the same place they were born at?",
+        "question_word": "daughters",
+        "id": 1477
+    },
+    {
+        "sentence": "Esserts from which country contain fish?",
+        "question_word": "country",
+        "id": 1479
+    },
+    {
+        "sentence": "How many scientists graduated from an Ivy League university?",
+        "question_word": "scientists",
+        "id": 1483
+    },
+    {
+        "sentence": "Give me all Swiss non-profit organizations.",
+        "question_word": "organizations",
+        "id": 1491
+    },
+    {
+        "sentence": "At which college did the only American actor that received the César Award study?",
+        "question_word": "college",
+        "id": 1492
+    },
+    {
+        "sentence": "Which airports does Air China serve?",
+        "question_word": "airports",
+        "id": 1495
+    },
+    {
+        "sentence": "Give me all Danish films.",
+        "question_word": "films",
+        "id": 1500
+    },
+    {
+        "sentence": "When was the last episode of the TV series Friends aired?",
+        "question_word": "When",
+        "id": 1504
+    },
+    {
+        "sentence": "Give me all video games published by Black Isle Studios.",
+        "question_word": "games",
+        "id": 1528
+    },
+    {
+        "sentence": "What movies does Jesse Eisenberg play in?",
+        "question_word": "movies",
+        "id": 1545
+    },
+    {
+        "sentence": "How high is the Landegode Lighthouse?",
+        "question_word": "high",
+        "id": 1547
+    },
+    {
+        "sentence": "Who was on the Apollo 11 mission?",
+        "question_word": "Who",
+        "id": 1557
+    },
+    {
+        "sentence": "What are the official languages of Tunisia?",
+        "question_word": "languages",
+        "id": 1562
+    },
+    {
+        "sentence": "Which organizations were founded in 1918?",
+        "question_word": "organizations",
+        "id": 1566
+    },
+    {
+        "sentence": "Who invented the zipper?",
+        "question_word": "Who",
+        "id": 1568
+    },
+    {
+        "sentence": "How much is the elevation of Düsseldorf Airport?",
+        "question_word": "much",
+        "id": 1570
+    },
+    {
+        "sentence": "Give me the birth place of Frank Sinatra.",
+        "question_word": "place",
+        "id": 1572
+    },
+    {
+        "sentence": "How many calories does a baguette have?",
+        "question_word": "calories",
+        "id": 1586
+    },
+    {
+        "sentence": "Give me all actors who were born in Berlin.",
+        "question_word": "actors",
+        "id": 1589
+    },
+    {
+        "sentence": "What is the melting point of copper?",
+        "question_word": "point",
+        "id": 1592
+    },
+    {
+        "sentence": "Give me all actors starring in movies directed by William Shatner.",
+        "question_word": "actors",
+        "id": 1593
+    },
+    {
+        "sentence": "Who wrote Harry Potter?",
+        "question_word": "Who",
+        "id": 1603
+    },
+    {
+        "sentence": "Show me all basketball players that are higher than 2 meters.",
+        "question_word": "players",
+        "id": 1604
+    },
+    {
+        "sentence": "List all the battles commanded by the lover of Cleopatra.",
+        "question_word": "battles",
+        "id": 1608
+    },
+    {
+        "sentence": "Who created Wikipedia?",
+        "question_word": "Who",
+        "id": 1610
+    },
+    {
+        "sentence": "In which country is Solaize located?",
+        "question_word": "country",
+        "id": 1613
+    },
+    {
+        "sentence": "Who created Miss Marple?",
+        "question_word": "Who",
+        "id": 1620
+    },
+    {
+        "sentence": "Who played Gus Fring in Breaking Bad?",
+        "question_word": "Who",
+        "id": 1626
+    },
+    {
+        "sentence": "Who wrote the book The Pillars of the Earth?",
+        "question_word": "Who",
+        "id": 1629
+    },
+    {
+        "sentence": "When did Boris Becker end his active career?",
+        "question_word": "When",
+        "id": 1630
+    },
+    {
+        "sentence": "Give me all cars that are produced in Netherlands.",
+        "question_word": "cars",
+        "id": 1636
+    },
+    {
+        "sentence": "Which monarchs of the United Kingdom were married to a German?",
+        "question_word": "monarchs",
+        "id": 1653
+    },
+    {
+        "sentence": "What languages are spoken in Estonia?",
+        "question_word": "languages",
+        "id": 1666
+    },
+    {
+        "sentence": "When will start the final match of the football world cup 2018?",
+        "question_word": "When",
+        "id": 1670
+    },
+    {
+        "sentence": "Which classes does the Millepede belong to?",
+        "question_word": "classes",
+        "id": 1685
+    },
+    {
+        "sentence": "How many rivers and lakes are in South Carolina?",
+        "question_word": "rivers",
+        "id": 1688
+    },
+    {
+        "sentence": "Give me all libraries established before 1400.",
+        "question_word": "libraries",
+        "id": 1691
+    },
+    {
+        "sentence": "What does the abbreviation FIFA stand for?",
+        "question_word": "What",
+        "id": 1708
+    },
+    {
+        "sentence": "Which locations have more than two caves?",
+        "question_word": "locations",
+        "id": 1709
+    },
+    {
+        "sentence": "Give me all types of eating disorders.",
+        "question_word": "types",
+        "id": 1719
+    },
+    {
+        "sentence": "Which museum exhibits The Scream by Munch?",
+        "question_word": "museum",
+        "id": 1722
+    },
+    {
+        "sentence": "Give me all soccer clubs in Spain.",
+        "question_word": "clubs",
+        "id": 1734
+    },
+    {
+        "sentence": "Give me the capitals of all U.S. states.",
+        "question_word": "capitals",
+        "id": 1736
+    },
+    {
+        "sentence": "In which city does the Chile Route 68 end?",
+        "question_word": "city",
+        "id": 1762
+    },
+    {
+        "sentence": "When was the founding date of french fifth republic?",
+        "question_word": "date",
+        "id": 1767
+    },
+    {
+        "sentence": "Give me all Swedish oceanographers.",
+        "question_word": "oceanographers",
+        "id": 1779
+    },
+    {
+        "sentence": "Give all swimmers that were born in Moscow.",
+        "question_word": "swimmers",
+        "id": 1800
+    },
+    {
+        "sentence": "Which holidays are celebrated around the world?",
+        "question_word": "holidays",
+        "id": 1802
+    },
+    {
+        "sentence": "Which frequent flyer program has the most airlines?",
+        "question_word": "program",
+        "id": 1803
+    },
+    {
+        "sentence": "When were the Hells Angels founded?",
+        "question_word": "When",
+        "id": 1816
+    },
+    {
+        "sentence": "What is the name of the university where Obama's wife studied?",
+        "question_word": "name",
+        "id": 1825
+    },
+    {
+        "sentence": "Give me the currency of China.",
+        "question_word": "currency",
+        "id": 1832
+    },
+    {
+        "sentence": "When was Olof Palme shot?",
+        "question_word": "When",
+        "id": 1835
+    },
+    {
+        "sentence": "What is the bridge with the longest span?",
+        "question_word": "bridge",
+        "id": 1849
+    },
+    {
+        "sentence": "What is the native city of Hollywood's highest-paid actress?",
+        "question_word": "city",
+        "id": 1850
+    },
+    {
+        "sentence": "Give me all world heritage sites designated within the past five years.",
+        "question_word": "heritage",
+        "id": 1852
+    },
+    {
+        "sentence": "Which city has the most inhabitants?",
+        "question_word": "city",
+        "id": 1854
+    },
+    {
+        "sentence": "What kind of music did Lou Reed play?",
+        "question_word": "kind",
+        "id": 1855
+    },
+    {
+        "sentence": "Which city has the least inhabitants?",
+        "question_word": "city",
+        "id": 1871
+    },
+    {
+        "sentence": "What form of government does Russia have?",
+        "question_word": "form",
+        "id": 1872
+    },
+    {
+        "sentence": "Give me all taikonauts.",
+        "question_word": "taikonauts",
+        "id": 1880
+    },
+    {
+        "sentence": "Who assassinated President McKinley?",
+        "question_word": "Who",
+        "id": 1897
+    },
+    {
+        "sentence": "How much is the population densty rank of germany?",
+        "question_word": "rank",
+        "id": 1912
+    },
+    {
+        "sentence": "How many seats does the home stadium of FC Porto have?",
+        "question_word": "seats",
+        "id": 1919
+    },
+    {
+        "sentence": "Give me the homepage of Metropolitan Home.",
+        "question_word": "homepage",
+        "id": 1929
+    },
+    {
+        "sentence": "How did Michael Jackson die?",
+        "question_word": "How",
+        "id": 1933
+    },
+    {
+        "sentence": "When was the Operation Purple Haze?",
+        "question_word": "When",
+        "id": 1936
+    },
+    {
+        "sentence": "Which music albums contain the song Into Your Arms?",
+        "question_word": "albums",
+        "id": 1937
+    },
+    {
+        "sentence": "In which city is Air China headquartered?",
+        "question_word": "city",
+        "id": 1949
+    },
+    {
+        "sentence": "Which movies did Kurosawa direct?",
+        "question_word": "movies",
+        "id": 1962
+    },
+    {
+        "sentence": "What is the name of the Viennese newspaper founded by the creator of the croissant?",
+        "question_word": "name",
+        "id": 1964
+    },
+    {
+        "sentence": "How many employees does Google have?",
+        "question_word": "employees",
+        "id": 1972
+    },
+    {
+        "sentence": "Who is the coach of Ankara's ice hockey team?",
+        "question_word": "coach",
+        "id": 1976
+    },
+    {
+        "sentence": "Give me all B-sides of the Ramones.",
+        "question_word": "sides",
+        "id": 1985
+    },
+    {
+        "sentence": "Which presidents were born in 1945?",
+        "question_word": "presidents",
+        "id": 1993
+    },
+    {
+        "sentence": "Which artists were born on the same date as Rachel Stevens?",
+        "question_word": "artists",
+        "id": 1999
+    },
+    {
+        "sentence": "How many big fires struck Paris during the Middle Ages?",
+        "question_word": "fires",
+        "id": 2009
+    },
+    {
+        "sentence": "Give me all school types.",
+        "question_word": "types",
+        "id": 2021
+    },
+    {
+        "sentence": "How many years was the Ford Model T manufactured?",
+        "question_word": "years",
+        "id": 2024
+    },
+    {
+        "sentence": "Which companies produce hovercrafts?",
+        "question_word": "companies",
+        "id": 2032
+    },
+    {
+        "sentence": "Which states of Germany are governed by the Social Democratic Party?",
+        "question_word": "states",
+        "id": 2036
+    },
+    {
+        "sentence": "Which state of the USA has the highest population density?",
+        "question_word": "state",
+        "id": 2040
+    },
+    {
+        "sentence": "Give me all Argentine films.",
+        "question_word": "films",
+        "id": 2049
+    },
+    {
+        "sentence": "How much did Pulp Fiction cost?",
+        "question_word": "cost",
+        "id": 2051
+    },
+    {
+        "sentence": "Who was called Frank The Tank?",
+        "question_word": "Tank",
+        "id": 2054
+    },
+    {
+        "sentence": "Which Chinese-speaking country is a former Portguese colony?",
+        "question_word": "country",
+        "id": 2060
+    },
+    {
+        "sentence": "Who developed Skype?",
+        "question_word": "Who",
+        "id": 2063
+    },
+    {
+        "sentence": "Give me a list of all trumpet players that were bandleaders.",
+        "question_word": "list",
+        "id": 2064
+    },
+    {
+        "sentence": "For which movie did the daughter of Francis Ford Coppola receive an Oscar?",
+        "question_word": "movie",
+        "id": 2079
+    },
+    {
+        "sentence": "Give me all chemical elements.",
+        "question_word": "elements",
+        "id": 2086
+    },
+    {
+        "sentence": "Who is the manager of Real Madrid?",
+        "question_word": "manager",
+        "id": 2087
+    },
+    {
+        "sentence": "Which writers converted to Islam?",
+        "question_word": "writers",
+        "id": 2089
+    },
+    {
+        "sentence": "Who wrote the lyrics for the Polish national anthem?",
+        "question_word": "Who",
+        "id": 2092
+    },
+    {
+        "sentence": "How many languages are spoken in Colombia?",
+        "question_word": "languages",
+        "id": 2095
+    },
+    {
+        "sentence": "Who was president of Pakistan in 1978?",
+        "question_word": "president",
+        "id": 2097
+    },
+    {
+        "sentence": "Where did Abraham Lincoln die?",
+        "question_word": "Where",
+        "id": 2134
+    },
+    {
+        "sentence": "Which organizations were founded in 1950?",
+        "question_word": "organizations",
+        "id": 2140
+    },
+    {
+        "sentence": "Who wrote the book Leave It to Psmith?",
+        "question_word": "Who",
+        "id": 2154
+    },
+    {
+        "sentence": "What is the most frequent cause of death?",
+        "question_word": "cause",
+        "id": 2165
+    },
+    {
+        "sentence": "When did Germany join the EU?",
+        "question_word": "When",
+        "id": 2170
+    },
+    {
+        "sentence": "Which languages are spoken in Romania?",
+        "question_word": "languages",
+        "id": 2171
+    },
+    {
+        "sentence": "How heavy is Jupiter's lightest moon?",
+        "question_word": "heavy",
+        "id": 2178
+    },
+    {
+        "sentence": "What color expresses loyalty?",
+        "question_word": "color",
+        "id": 2200
+    },
+    {
+        "sentence": "When was the De Beers company founded?",
+        "question_word": "When",
+        "id": 2201
+    },
+    {
+        "sentence": "Which countries have more than ten caves?",
+        "question_word": "countries",
+        "id": 2204
+    },
+    {
+        "sentence": "How many gold medals did Michael Phelps win at the 2008 Olympics?",
+        "question_word": "medals",
+        "id": 2210
+    },
+    {
+        "sentence": "Who produces Red Bull?",
+        "question_word": "Who",
+        "id": 2213
+    },
+    {
+        "sentence": "Which television shows were created by John Cleese?",
+        "question_word": "shows",
+        "id": 2219
+    },
+    {
+        "sentence": "Give me all companies in Jena.",
+        "question_word": "companies",
+        "id": 2220
+    },
+    {
+        "sentence": "Who developed the video game World of Warcraft?",
+        "question_word": "Who",
+        "id": 2229
+    },
+    {
+        "sentence": "Give me the runtime of Toy Story.",
+        "question_word": "runtime",
+        "id": 2232
+    },
+    {
+        "sentence": "When is the movie Worst Case Scenario going to be in cinemas in the Netherlands?",
+        "question_word": "When",
+        "id": 2233
+    },
+    {
+        "sentence": "Which spaceflights were launched from Baikonur?",
+        "question_word": "spaceflights",
+        "id": 2241
+    },
+    {
+        "sentence": "How many children does Eddie Murphy have?",
+        "question_word": "children",
+        "id": 2246
+    },
+    {
+        "sentence": "Which books by Kerouac were published by Viking Press?",
+        "question_word": "books",
+        "id": 2251
+    },
+    {
+        "sentence": "Which Indian company has the most employees?",
+        "question_word": "company",
+        "id": 2266
+    },
+    {
+        "sentence": "How many programming languages are there?",
+        "question_word": "languages",
+        "id": 2276
+    },
+    {
+        "sentence": "List all episodes of the first season of the HBO television series The Sopranos.",
+        "question_word": "episodes",
+        "id": 2295
+    },
+    {
+        "sentence": "How many children did Benjamin Franklin have?",
+        "question_word": "children",
+        "id": 2296
+    },
+    {
+        "sentence": "Which electronics companies were founded in Beijing?",
+        "question_word": "companies",
+        "id": 2302
+    },
+    {
+        "sentence": "Which genre does DBpedia belong to?",
+        "question_word": "genre",
+        "id": 2304
+    },
+    {
+        "sentence": "Who has been the 5th president of the United States of America?",
+        "question_word": "president",
+        "id": 2316
+    },
+    {
+        "sentence": "Who is the daughter of Ingrid Bergman married to?",
+        "question_word": "daughter",
+        "id": 2319
+    },
+    {
+        "sentence": "When was the Battle of Gettysburg?",
+        "question_word": "When",
+        "id": 2322
+    },
+    {
+        "sentence": "Which U.S. state has the abbreviation MN?",
+        "question_word": "state",
+        "id": 2324
+    },
+    {
+        "sentence": "In which city were the parents of Che Guevara born?",
+        "question_word": "parents",
+        "id": 2327
+    },
+    {
+        "sentence": "Show me everyone who was born on Halloween.",
+        "question_word": "everyone",
+        "id": 2337
+    },
+    {
+        "sentence": "Who was the pope that founded the Vatican Television?",
+        "question_word": "pope",
+        "id": 2340
+    },
+    {
+        "sentence": "Who was Vincent van Gogh inspired by?",
+        "question_word": "Who",
+        "id": 2355
+    },
+    {
+        "sentence": "To which party does the mayor of Paris belong?",
+        "question_word": "party",
+        "id": 2361
+    },
+    {
+        "sentence": "Which Secretary of State was significantly involved in the United States' dominance of the Caribbean?",
+        "question_word": "Secretary",
+        "id": 2370
+    },
+    {
+        "sentence": "Where is the birthplace of Goethe?",
+        "question_word": "birthplace",
+        "id": 2371
+    },
+    {
+        "sentence": "Give me all members of The Who.",
+        "question_word": "members",
+        "id": 2373
+    },
+    {
+        "sentence": "Give me a list of all Canadians that reside in the U.S.",
+        "question_word": "list",
+        "id": 2376
+    },
+    {
+        "sentence": "Who is the front man of the band that wrote Coffee & TV?",
+        "question_word": "man",
+        "id": 2378
+    },
+    {
+        "sentence": "What are the five boroughs of New York?",
+        "question_word": "boroughs",
+        "id": 2380
+    },
+    {
+        "sentence": "Which awards did Douglas Hofstadter win?",
+        "question_word": "awards",
+        "id": 2382
+    },
+    {
+        "sentence": "What is the longest river in China?",
+        "question_word": "river",
+        "id": 2390
+    },
+    {
+        "sentence": "Who was Tom Hanks married to?",
+        "question_word": "Who",
+        "id": 2407
+    },
+    {
+        "sentence": "From which region is the Refosco dal Peduncolo Rosso?",
+        "question_word": "region",
+        "id": 2411
+    },
+    {
+        "sentence": "Which book has the most pages?",
+        "question_word": "book",
+        "id": 2419
+    },
+    {
+        "sentence": "Where did Hillel Slovak die?",
+        "question_word": "Where",
+        "id": 2442
+    },
+    {
+        "sentence": "How tall is Kate Upton?",
+        "question_word": "tall",
+        "id": 2458
+    },
+    {
+        "sentence": "Give me all animals that are extinct.",
+        "question_word": "animals",
+        "id": 2462
+    },
+    {
+        "sentence": "What is the net income of Apple?",
+        "question_word": "income",
+        "id": 2464
+    },
+    {
+        "sentence": "Where was JFK assassinated?",
+        "question_word": "Where",
+        "id": 2477
+    },
+    {
+        "sentence": "Through which countries does the Yenisei river flow?",
+        "question_word": "countries",
+        "id": 2479
+    },
+    {
+        "sentence": "When was the Statue of Liberty built?",
+        "question_word": "When",
+        "id": 2482
+    },
+    {
+        "sentence": "How deep is Lake Chiemsee?",
+        "question_word": "deep",
+        "id": 2495
+    },
+    {
+        "sentence": "Who is the youngest Pulitzer Prize winner?",
+        "question_word": "winner",
+        "id": 2496
+    },
+    {
+        "sentence": "Who created the comic Old Man Logan?",
+        "question_word": "Who",
+        "id": 2499
+    },
+    {
+        "sentence": "How much is the population density rank of Germany?",
+        "question_word": "population",
+        "id": 2518
+    },
+    {
+        "sentence": "Which pope succeeded John Paul II?",
+        "question_word": "pope",
+        "id": 2522
+    },
+    {
+        "sentence": "Which U.S. states are in the same time zone as Utah?",
+        "question_word": "states",
+        "id": 2524
+    },
+    {
+        "sentence": "Which American presidents were in office during the Vietnam War?",
+        "question_word": "presidents",
+        "id": 2533
+    },
+    {
+        "sentence": "Give me the birthdays of all actors of the television show Charmed.",
+        "question_word": "birthdays",
+        "id": 2535
+    },
+    {
+        "sentence": "Which street basketball player was diagnosed with Sarcoidosis?",
+        "question_word": "player",
+        "id": 2538
+    },
+    {
+        "sentence": "Give me all female Russian astronauts.",
+        "question_word": "astronauts",
+        "id": 2544
+    },
+    {
+        "sentence": "Who is the owner of Mazda?",
+        "question_word": "owner",
+        "id": 2554
+    },
+    {
+        "sentence": "What languages are spoken in Pakistan?",
+        "question_word": "languages",
+        "id": 2556
+    },
+    {
+        "sentence": "What is the official website of Tom Hanks?",
+        "question_word": "website",
+        "id": 2557
+    },
+    {
+        "sentence": "Which species does an elephant belong?",
+        "question_word": "species",
+        "id": 2568
+    },
+    {
+        "sentence": "Which classis does the Millepede belong to?",
+        "question_word": "classis",
+        "id": 2573
+    },
+    {
+        "sentence": "Who is the most powerful Jedi?",
+        "question_word": "Jedi",
+        "id": 2576
+    },
+    {
+        "sentence": "Give me all female given names.",
+        "question_word": "names",
+        "id": 2587
+    },
+    {
+        "sentence": "Who is the editor of Forbes?",
+        "question_word": "editor",
+        "id": 2591
+    },
+    {
+        "sentence": "List all games by GMT.",
+        "question_word": "games",
+        "id": 2592
+    },
+    {
+        "sentence": "Which Greek goddesses dwelt on Mount Olympus?",
+        "question_word": "goddesses",
+        "id": 2604
+    },
+    {
+        "sentence": "When did Muhammad die?",
+        "question_word": "When",
+        "id": 2615
+    },
+    {
+        "sentence": "Show me all English Gothic buildings in Kent.",
+        "question_word": "buildings",
+        "id": 2656
+    },
+    {
+        "sentence": "What was Brazil's lowest rank in the FIFA World Ranking?",
+        "question_word": "rank",
+        "id": 2658
+    },
+    {
+        "sentence": "How many employees does IBM have?",
+        "question_word": "employees",
+        "id": 2684
+    },
+    {
+        "sentence": "Which country has the most official languages?",
+        "question_word": "country",
+        "id": 2686
+    },
+    {
+        "sentence": "Where is Syngman Rhee buried?",
+        "question_word": "Where",
+        "id": 2691
+    },
+    {
+        "sentence": "Which rivers flow into the North Sea?",
+        "question_word": "rivers",
+        "id": 2713
+    },
+    {
+        "sentence": "What is the largest country in the world?",
+        "question_word": "country",
+        "id": 2714
+    },
+    {
+        "sentence": "In which countries do people speak Japanese?",
+        "question_word": "countries",
+        "id": 2719
+    },
+    {
+        "sentence": "When did the Dodo become extinct?",
+        "question_word": "When",
+        "id": 2732
+    },
+    {
+        "sentence": "In which country is Mecca located?",
+        "question_word": "country",
+        "id": 2734
+    },
+    {
+        "sentence": "Who is the husband of Amanda Palmer?",
+        "question_word": "husband",
+        "id": 2743
+    },
+    {
+        "sentence": "Which poet wrote the most books?",
+        "question_word": "poet",
+        "id": 2757
+    },
+    {
+        "sentence": "Who discovered Ceres?",
+        "question_word": "Who",
+        "id": 2758
+    },
+    {
+        "sentence": "How many awards has Bertrand Russell?",
+        "question_word": "awards",
+        "id": 2764
+    },
+    {
+        "sentence": "Show me the book that Muhammad Ali wrote.",
+        "question_word": "book",
+        "id": 2768
+    },
+    {
+        "sentence": "How many ethnic groups live in Spain?",
+        "question_word": "groups",
+        "id": 2775
+    },
+    {
+        "sentence": "Which of Tim Burton's films had the highest budget?",
+        "question_word": "films",
+        "id": 2779
+    },
+    {
+        "sentence": "Who composed the music for Harold and Maude?",
+        "question_word": "Who",
+        "id": 2815
+    },
+    {
+        "sentence": "Where was Bach born?",
+        "question_word": "Where",
+        "id": 2822
+    },
+    {
+        "sentence": "Which awards did WikiLeaks win?",
+        "question_word": "awards",
+        "id": 2823
+    },
+    {
+        "sentence": "Who wrote The Hunger Games?",
+        "question_word": "Who",
+        "id": 2827
+    },
+    {
+        "sentence": "Who is the heaviest player of the Chicago Bulls?",
+        "question_word": "player",
+        "id": 2829
+    },
+    {
+        "sentence": "How deep is Lake Placid?",
+        "question_word": "deep",
+        "id": 2833
+    },
+    {
+        "sentence": "Who is the manager of Gazelle FC?",
+        "question_word": "manager",
+        "id": 2840
+    },
+    {
+        "sentence": "What is Donald Trump's main business?",
+        "question_word": "business",
+        "id": 2851
+    },
+    {
+        "sentence": "Who is the owner of Universal Studios?",
+        "question_word": "owner",
+        "id": 2865
+    },
+    {
+        "sentence": "How often did Nicole Kidman marry?",
+        "question_word": "often",
+        "id": 2886
+    },
+    {
+        "sentence": "Who developed Quake engine?",
+        "question_word": "Who",
+        "id": 2888
+    },
+    {
+        "sentence": "Give me all federal chancellors of Germany.",
+        "question_word": "chancellors",
+        "id": 2893
+    },
+    {
+        "sentence": "Who is the tallest player of Udinese Calcio?",
+        "question_word": "player",
+        "id": 2895
+    },
+    {
+        "sentence": "Give me the grandchildren of Elvis Presley.",
+        "question_word": "grandchildren",
+        "id": 2896
+    },
+    {
+        "sentence": "What was the first Queen album?",
+        "question_word": "album",
+        "id": 2903
+    },
+    {
+        "sentence": "What do ants eat?",
+        "question_word": "ants",
+        "id": 2925
+    },
+    {
+        "sentence": "Which countries in the European Union adopted the Euro?",
+        "question_word": "countries",
+        "id": 2930
+    },
+    {
+        "sentence": "How old is James Bond in the latest Bond book by William Boyd?",
+        "question_word": "old",
+        "id": 2955
+    },
+    {
+        "sentence": "Which mountain is the highest after the Annapurna?",
+        "question_word": "mountain",
+        "id": 2956
+    },
+    {
+        "sentence": "Who was the doctoral supervisor of Albert Einstein?",
+        "question_word": "supervisor",
+        "id": 2959
+    },
+    {
+        "sentence": "How many airlines are there?",
+        "question_word": "airlines",
+        "id": 2960
+    },
+    {
+        "sentence": "Give me the capitals of all countries that the Himalayas run through.",
+        "question_word": "capitals",
+        "id": 2964
+    },
+    {
+        "sentence": "What is the official language of Suriname?",
+        "question_word": "language",
+        "id": 2965
+    },
+    {
+        "sentence": "In which military conflicts did Lawrence of Arabia participate?",
+        "question_word": "conflicts",
+        "id": 2976
+    },
+    {
+        "sentence": "Who is the governor of Wyoming?",
+        "question_word": "governor",
+        "id": 2988
+    },
+    {
+        "sentence": "Which movies did Kurosawa direct after Rashomon?",
+        "question_word": "movies",
+        "id": 2994
+    },
+    {
+        "sentence": "What is Angela Merkel’s birth name?",
+        "question_word": "name",
+        "id": 3015
+    },
+    {
+        "sentence": "Who was called Rodzilla?",
+        "question_word": "Who",
+        "id": 3020
+    },
+    {
+        "sentence": "What is the official color of the University of Oxford?",
+        "question_word": "color",
+        "id": 3021
+    },
+    {
+        "sentence": "In which UK city are the headquarters of the MI6?",
+        "question_word": "city",
+        "id": 3022
+    },
+    {
+        "sentence": "Whom did Lance Bass marry?",
+        "question_word": "Whom",
+        "id": 3023
+    },
+    {
+        "sentence": "How high is the Yokohama Marine Tower?",
+        "question_word": "high",
+        "id": 3024
+    },
+    {
+        "sentence": "What is the longest river in the world?",
+        "question_word": "river",
+        "id": 3025
+    },
+    {
+        "sentence": "Show me all books in Asimov's Foundation series.",
+        "question_word": "books",
+        "id": 3027
+    },
+    {
+        "sentence": "Which movies starring Brad Pitt were directed by Guy Ritchie?",
+        "question_word": "movies",
+        "id": 3029
+    },
+    {
+        "sentence": "Which monarchs were married to a German?",
+        "question_word": "monarchs",
+        "id": 3030
+    },
+    {
+        "sentence": "What is the highest mountain in Australia?",
+        "question_word": "mountain",
+        "id": 3031
+    },
+    {
+        "sentence": "When did the Ming dynasty dissolve?",
+        "question_word": "When",
+        "id": 3033
+    },
+    {
+        "sentence": "What is the currency of Rhodesia?",
+        "question_word": "currency",
+        "id": 3036
+    },
+    {
+        "sentence": "What is the area code of Aegina?",
+        "question_word": "code",
+        "id": 3042
+    },
+    {
+        "sentence": "Which caves have more than 3 entrances?",
+        "question_word": "caves",
+        "id": 3056
+    },
+    {
+        "sentence": "What are the official languages of the Philippines?",
+        "question_word": "languages",
+        "id": 3058
+    },
+    {
+        "sentence": "Give me all cars that are produced in Germany.",
+        "question_word": "cars",
+        "id": 3073
+    },
+    {
+        "sentence": "To which countries does the Himalayan mountain system extend?",
+        "question_word": "countries",
+        "id": 3085
+    },
+    {
+        "sentence": "How many emperors did China have?",
+        "question_word": "emperors",
+        "id": 3095
+    },
+    {
+        "sentence": "When was DBpedia released?",
+        "question_word": "When",
+        "id": 3098
+    },
+    {
+        "sentence": "Which actors play in Big Bang Theory?",
+        "question_word": "actors",
+        "id": 3099
+    },
+    {
+        "sentence": "What is the capital of Cameroon?",
+        "question_word": "capital",
+        "id": 3100
+    },
+    {
+        "sentence": "How big is the Mammoth Pool Reservoir?",
+        "question_word": "big",
+        "id": 3103
+    },
+    {
+        "sentence": "How high is the Volcano Mountain?",
+        "question_word": "high",
+        "id": 3106
+    },
+    {
+        "sentence": "How many employees does Staedtler have?",
+        "question_word": "employees",
+        "id": 3113
+    },
+    {
+        "sentence": "What were the main discoveries of the Mars rover Curiosity?",
+        "question_word": "discoveries",
+        "id": 3119
+    },
+    {
+        "sentence": "What is the revenue of IBM?",
+        "question_word": "revenue",
+        "id": 3122
+    },
+    {
+        "sentence": "List all boardgames by GMT.",
+        "question_word": "boardgames",
+        "id": 3126
+    },
+    {
+        "sentence": "Give me all female German chancellors.",
+        "question_word": "chancellors",
+        "id": 3129
+    },
+    {
+        "sentence": "When did Red Sonja's creator die?",
+        "question_word": "When",
+        "id": 3130
+    },
+    {
+        "sentence": "Who wrote the book The pillars of the Earth?",
+        "question_word": "Who",
+        "id": 3134
+    },
+    {
+        "sentence": "Which instruments did John Lennon play?",
+        "question_word": "instruments",
+        "id": 3145
+    },
+    {
+        "sentence": "Where did the first man in space die?",
+        "question_word": "Where",
+        "id": 3146
+    },
+    {
+        "sentence": "Which movies star both Liz Taylor and Richard Burton?",
+        "question_word": "movies",
+        "id": 3158
+    },
+    {
+        "sentence": "Who killed Caesar?",
+        "question_word": "Who",
+        "id": 3160
+    },
+    {
+        "sentence": "What country is Sitecore from?",
+        "question_word": "country",
+        "id": 3164
+    },
+    {
+        "sentence": "In which countries can you pay using the West African CFA franc?",
+        "question_word": "countries",
+        "id": 3169
+    },
+    {
+        "sentence": "When did Jules Bergman die?",
+        "question_word": "When",
+        "id": 3171
+    },
+    {
+        "sentence": "How many inhabitants does the largest city in Canada have?",
+        "question_word": "inhabitants",
+        "id": 3175
+    },
+    {
+        "sentence": "Give me all Australian nonprofit organizations.",
+        "question_word": "organizations",
+        "id": 3186
+    },
+    {
+        "sentence": "Which telecommunications organizations are located in Belgium?",
+        "question_word": "organizations",
+        "id": 3200
+    },
+    {
+        "sentence": "Give me all soccer clubs in Qatar.",
+        "question_word": "clubs",
+        "id": 3209
+    },
+    {
+        "sentence": "Give me all gangsters from the prohibition era.",
+        "question_word": "gangsters",
+        "id": 3236
+    },
+    {
+        "sentence": "Show me all U.S. states.",
+        "question_word": "states",
+        "id": 3244
+    },
+    {
+        "sentence": "In which city is the headquarter of Air China?",
+        "question_word": "city",
+        "id": 3251
+    },
+    {
+        "sentence": "Give me all actors starring in Last Action Hero.",
+        "question_word": "actors",
+        "id": 3253
+    },
+    {
+        "sentence": "Which U.S. states possess gold minerals?",
+        "question_word": "states",
+        "id": 3254
+    },
+    {
+        "sentence": "Which states border Utah?",
+        "question_word": "states",
+        "id": 3256
+    },
+    {
+        "sentence": "What is the time zone of Salt Lake City?",
+        "question_word": "zone",
+        "id": 3259
+    },
+    {
+        "sentence": "Which country does the Airedale Terrier come from?",
+        "question_word": "country",
+        "id": 3260
+    },
+    {
+        "sentence": "What is the birth name of Angela Merkel?",
+        "question_word": "name",
+        "id": 3263
+    },
+    {
+        "sentence": "What is the full name of Prince Charles?",
+        "question_word": "name",
+        "id": 3270
+    },
+    {
+        "sentence": "Give me all animal species that live in the Amazon rainforest.",
+        "question_word": "animal",
+        "id": 3288
+    },
+    {
+        "sentence": "Give me all books written by Danielle Steel.",
+        "question_word": "books",
+        "id": 3293
+    },
+    {
+        "sentence": "When was Jack Wolfskin founded?",
+        "question_word": "When",
+        "id": 3321
+    },
+    {
+        "sentence": "Who is the author of the interpretation of dreams?",
+        "question_word": "author",
+        "id": 3327
+    },
+    {
+        "sentence": "How many people live in Poland?",
+        "question_word": "people",
+        "id": 3338
+    },
+    {
+        "sentence": "What is in a chocolate chip cookie?",
+        "question_word": "What",
+        "id": 3342
+    },
+    {
+        "sentence": "Who are the writers of the Wall album of Pink Floyd?",
+        "question_word": "writers",
+        "id": 3346
+    },
+    {
+        "sentence": "Give me all Frisian islands that belong to the Netherlands.",
+        "question_word": "islands",
+        "id": 3348
+    },
+    {
+        "sentence": "How many states are in Mexico?",
+        "question_word": "states",
+        "id": 3350
+    },
+    {
+        "sentence": "In which city was the former Dutch queen Juliana buried?",
+        "question_word": "city",
+        "id": 3351
+    },
+    {
+        "sentence": "Which country does the creator of Miffy come from?",
+        "question_word": "country",
+        "id": 3358
+    },
+    {
+        "sentence": "What did Bruce Carver die from?",
+        "question_word": "What",
+        "id": 3363
+    },
+    {
+        "sentence": "Who is Dan Jurafsky?",
+        "question_word": "Who",
+        "id": 3366
+    },
+    {
+        "sentence": "Give me the grandchildren of Bruce Lee.",
+        "question_word": "grandchildren",
+        "id": 3370
+    },
+    {
+        "sentence": "What is the longest river?",
+        "question_word": "river",
+        "id": 3371
+    },
+    {
+        "sentence": "Give me a list of all American inventions.",
+        "question_word": "list",
+        "id": 3381
+    },
+    {
+        "sentence": "How many scientists graduated from Washburn University?",
+        "question_word": "scientists",
+        "id": 3383
+    },
+    {
+        "sentence": "How many official languages are spoken on the Seychelles?",
+        "question_word": "languages",
+        "id": 3401
+    },
+    {
+        "sentence": "Who wrote the book Les Piliers de la terre?",
+        "question_word": "Who",
+        "id": 3408
+    },
+    {
+        "sentence": "How many films did Leonardo DiCaprio star in?",
+        "question_word": "films",
+        "id": 3419
+    },
+    {
+        "sentence": "Give me all books by William Goldman with more than 300 pages.",
+        "question_word": "books",
+        "id": 3422
+    },
+    {
+        "sentence": "In which year did the Hungarian-American actor called \"The King of Horror\" make his first film?",
+        "question_word": "year",
+        "id": 3425
+    },
+    {
+        "sentence": "How much is the population of Mexico City?",
+        "question_word": "population",
+        "id": 3428
+    },
+    {
+        "sentence": "Who is the Formula 1 race driver with the most races?",
+        "question_word": "driver",
+        "id": 3435
+    },
+    {
+        "sentence": "How many grand-children did Jacques Cousteau have?",
+        "question_word": "children",
+        "id": 3459
+    },
+    {
+        "sentence": "How many movies did Park Chan-wook direct?",
+        "question_word": "movies",
+        "id": 3462
+    },
+    {
+        "sentence": "Give me all Swedish holidays.",
+        "question_word": "holidays",
+        "id": 3464
+    },
+    {
+        "sentence": "What is the relation between Resource Description Framework and Web Ontology Language?",
+        "question_word": "relation",
+        "id": 3468
+    },
+    {
+        "sentence": "Which of the volcanoes that erupted in 1550 is still active?",
+        "question_word": "volcanoes",
+        "id": 3471
+    },
+    {
+        "sentence": "Give me all people with first name Jimmy.",
+        "question_word": "people",
+        "id": 3480
+    },
+    {
+        "sentence": "Which horses did The Long Fellow ride?",
+        "question_word": "horses",
+        "id": 3486
+    },
+    {
+        "sentence": "What is the highest place of Karakoram?",
+        "question_word": "place",
+        "id": 3488
+    },
+    {
+        "sentence": "Which instruments does Courtney Love play?",
+        "question_word": "instruments",
+        "id": 3501
+    },
+    {
+        "sentence": "Which budget did the first movie of Zdenek Sverak have?",
+        "question_word": "budget",
+        "id": 3507
+    },
+    {
+        "sentence": "Who is the mayor of Berlin?",
+        "question_word": "mayor",
+        "id": 3513
+    },
+    {
+        "sentence": "Who is the novelist of the work a song of ice and fire?",
+        "question_word": "novelist",
+        "id": 3514
+    },
+    {
+        "sentence": "Show me all the breweries in Australia.",
+        "question_word": "breweries",
+        "id": 3515
+    },
+    {
+        "sentence": "In which city does Sylvester Stallone live?",
+        "question_word": "city",
+        "id": 3516
+    },
+    {
+        "sentence": "What is the ruling party in Lo Espejo?",
+        "question_word": "party",
+        "id": 3530
+    },
+    {
+        "sentence": "Give me all books written by David Foster Wallace.",
+        "question_word": "books",
+        "id": 3536
+    },
+    {
+        "sentence": "Who painted The Storm on the Sea of Galilee?",
+        "question_word": "Who",
+        "id": 3554
+    },
+    {
+        "sentence": "What is the area code of Berlin?",
+        "question_word": "code",
+        "id": 3561
+    },
+    {
+        "sentence": "On which day is Columbus Day?",
+        "question_word": "day",
+        "id": 3569
+    },
+    {
+        "sentence": "What is the most frequent death cause?",
+        "question_word": "cause",
+        "id": 3576
+    },
+    {
+        "sentence": "Which river does the Brooklyn Bridge cross?",
+        "question_word": "river",
+        "id": 3612
+    },
+    {
+        "sentence": "Which scientist is known for the Manhattan Project and the Nobel Peace Prize?",
+        "question_word": "scientist",
+        "id": 3614
+    },
+    {
+        "sentence": "Give me all Dutch parties.",
+        "question_word": "parties",
+        "id": 3616
+    },
+    {
+        "sentence": "Give me English actors starring in Lovesick.",
+        "question_word": "actors",
+        "id": 3640
+    },
+    {
+        "sentence": "Which books were written by Danielle Steel?",
+        "question_word": "books",
+        "id": 3665
+    },
+    {
+        "sentence": "Give me all members of Prodigy.",
+        "question_word": "members",
+        "id": 3666
+    },
+    {
+        "sentence": "How high is the Mount Everest?",
+        "question_word": "high",
+        "id": 3667
+    },
+    {
+        "sentence": "Who were the parents of Maria of Antioch?",
+        "question_word": "parents",
+        "id": 3671
+    },
+    {
+        "sentence": "Who owns Aldi?",
+        "question_word": "Who",
+        "id": 3680
+    },
+    {
+        "sentence": "Who was buried in the Great Pyramid of Giza?",
+        "question_word": "Who",
+        "id": 3686
+    },
+    {
+        "sentence": "In which city did John F. Kennedy die?",
+        "question_word": "city",
+        "id": 3688
+    },
+    {
+        "sentence": "Which bridges cross the Prut?",
+        "question_word": "bridges",
+        "id": 3699
+    },
+    {
+        "sentence": "Which companies are located in California, USA?",
+        "question_word": "companies",
+        "id": 3714
+    },
+    {
+        "sentence": "Which birds are protected under the National Parks and Wildlife Act?",
+        "question_word": "birds",
+        "id": 3722
+    },
+    {
+        "sentence": "Who was the wife of President Lincoln?",
+        "question_word": "wife",
+        "id": 3724
+    },
+    {
+        "sentence": "Which rivers flow into a German lake?",
+        "question_word": "rivers",
+        "id": 3735
+    },
+    {
+        "sentence": "When was the Cobble Hill Tunnel built?",
+        "question_word": "When",
+        "id": 3764
+    },
+    {
+        "sentence": "When was the death  of  Shakespeare?",
+        "question_word": "When",
+        "id": 3791
+    },
+    {
+        "sentence": "Give me all films produced by Steven Spielberg with a budget of at least $80 million.",
+        "question_word": "films",
+        "id": 3792
+    },
+    {
+        "sentence": "How many films did Hal Roach produce?",
+        "question_word": "films",
+        "id": 3798
+    },
+    {
+        "sentence": "In which programming language is QuickTime written?",
+        "question_word": "language",
+        "id": 3806
+    },
+    {
+        "sentence": "Give me all films produced by Hal Roach.",
+        "question_word": "films",
+        "id": 3812
+    },
+    {
+        "sentence": "Give me all spacecrafts that flew to Mars.",
+        "question_word": "spacecrafts",
+        "id": 3821
+    },
+    {
+        "sentence": "When did princess Diana die?",
+        "question_word": "When",
+        "id": 3822
+    },
+    {
+        "sentence": "How much did Vanilla Sky cost?",
+        "question_word": "cost",
+        "id": 3824
+    },
+    {
+        "sentence": "Which computer scientist won an oscar?",
+        "question_word": "scientist",
+        "id": 3825
+    },
+    {
+        "sentence": "When was the Riverdale Monument built?",
+        "question_word": "When",
+        "id": 3839
+    },
+    {
+        "sentence": "Which states border Illinois?",
+        "question_word": "states",
+        "id": 3853
+    },
+    {
+        "sentence": "How many monarchical countries are there in Europe?",
+        "question_word": "countries",
+        "id": 3862
+    },
+    {
+        "sentence": "Who plays Phileas Fogg in the adaptation of Around the World in 80 Days directed by Buzz Kulik?",
+        "question_word": "Who",
+        "id": 3868
+    },
+    {
+        "sentence": "Who is the son of Sonny and Cher?",
+        "question_word": "son",
+        "id": 3883
+    },
+    {
+        "sentence": "Give me a list of all bandleaders that play trumpet.",
+        "question_word": "list",
+        "id": 3886
+    },
+    {
+        "sentence": "Who wrote the Game of Thrones theme?",
+        "question_word": "Who",
+        "id": 3890
+    },
+    {
+        "sentence": "Which cities have more than 2 million inhabitants?",
+        "question_word": "cities",
+        "id": 3892
+    },
+    {
+        "sentence": "Who played Agent Smith in Matrix?",
+        "question_word": "Who",
+        "id": 3907
+    },
+    {
+        "sentence": "Give me all movies with Tom Cruise.",
+        "question_word": "movies",
+        "id": 3916
+    },
+    {
+        "sentence": "Which actors were born in Germany?",
+        "question_word": "actors",
+        "id": 3919
+    },
+    {
+        "sentence": "Give me all companies in Munich.",
+        "question_word": "companies",
+        "id": 3923
+    },
+    {
+        "sentence": "Who is the mayor of Paris?",
+        "question_word": "mayor",
+        "id": 3931
+    },
+    {
+        "sentence": "What is the height difference between Mount Everest and K2?",
+        "question_word": "difference",
+        "id": 3937
+    },
+    {
+        "sentence": "What was the final result of the War of the Roses?",
+        "question_word": "result",
+        "id": 3944
+    },
+    {
+        "sentence": "Which recipients of the Victoria Cross died in the Battle of Arnhem?",
+        "question_word": "recipients",
+        "id": 3959
+    },
+    {
+        "sentence": "Which software has been developed by organizations founded in California?",
+        "question_word": "software",
+        "id": 3963
+    },
+    {
+        "sentence": "Who was the first King of England?",
+        "question_word": "King",
+        "id": 3974
+    },
+    {
+        "sentence": "How many museums does Paris have?",
+        "question_word": "museums",
+        "id": 3978
+    },
+    {
+        "sentence": "What was the original occupation of the inventor of Lego?",
+        "question_word": "occupation",
+        "id": 3988
+    },
+    {
+        "sentence": "Which actor played Chewbacca?",
+        "question_word": "actor",
+        "id": 3989
+    },
+    {
+        "sentence": "How many inhabitants does Nagamangala have?",
+        "question_word": "inhabitants",
+        "id": 3995
+    },
+    {
+        "sentence": "Give me all American presidents of the last 20 years.",
+        "question_word": "presidents",
+        "id": 4009
+    },
+    {
+        "sentence": "How large is the total area of North Rhine-Westphalia?",
+        "question_word": "area",
+        "id": 4013
+    },
+    {
+        "sentence": "How many languages are spoken in Turkmenistan?",
+        "question_word": "languages",
+        "id": 4033
+    },
+    {
+        "sentence": "Which languages are spoken in Estonia?",
+        "question_word": "languages",
+        "id": 4041
+    },
+    {
+        "sentence": "Give me all video games published by Mean Hamster Software.",
+        "question_word": "games",
+        "id": 4045
+    },
+    {
+        "sentence": "Which companies work in the aerospace industry as well as on nuclear reactor technology?",
+        "question_word": "companies",
+        "id": 4054
+    },
+    {
+        "sentence": "Who created English Wikipedia?",
+        "question_word": "Who",
+        "id": 4058
+    },
+    {
+        "sentence": "Who was vice president under the president who authorized atomic weapons against Japan during World War II?",
+        "question_word": "president",
+        "id": 4066
+    },
+    {
+        "sentence": "Which airports are located in Chios?",
+        "question_word": "airports",
+        "id": 4068
+    },
+    {
+        "sentence": "Who created the comic Captain America?",
+        "question_word": "Who",
+        "id": 4072
+    },
+    {
+        "sentence": "Where in France is sparkling wine produced?",
+        "question_word": "Where",
+        "id": 4082
+    },
+    {
+        "sentence": "When was Coca Cola invented?",
+        "question_word": "When",
+        "id": 4088
+    },
+    {
+        "sentence": "Who is the founder of Penguin Books?",
+        "question_word": "founder",
+        "id": 4090
+    },
+    {
+        "sentence": "Which books were published by DAW Books?",
+        "question_word": "books",
+        "id": 4101
+    },
+    {
+        "sentence": "Who is the tallest player of the Atlanta Falcons?",
+        "question_word": "player",
+        "id": 4103
+    },
+    {
+        "sentence": "What are the top selling luxury vehicle brands in Germany?",
+        "question_word": "brands",
+        "id": 4104
+    },
+    {
+        "sentence": "Who was influenced by Socrates?",
+        "question_word": "Who",
+        "id": 4112
+    },
+    {
+        "sentence": "Which building owned by the Bank of America was featured in the TV series MegaStructures?",
+        "question_word": "building",
+        "id": 4125
+    },
+    {
+        "sentence": "When was the composer of the opera Madame Butterfly born?",
+        "question_word": "When",
+        "id": 4137
+    },
+    {
+        "sentence": "Give me all female German chancellors!",
+        "question_word": "chancellors",
+        "id": 4153
+    },
+    {
+        "sentence": "Which music albums contain the song Last Christmas?",
+        "question_word": "albums",
+        "id": 4156
+    },
+    {
+        "sentence": "Give me all companies in the advertising industry.",
+        "question_word": "companies",
+        "id": 4180
+    },
+    {
+        "sentence": "Who are the four youngest MVP basketball players?",
+        "question_word": "players",
+        "id": 4183
+    },
+    {
+        "sentence": "Where is Sungkyunkwan University?",
+        "question_word": "Where",
+        "id": 4186
+    },
+    {
+        "sentence": "Give me all Seven Wonders of the Ancient World.",
+        "question_word": "Wonders",
+        "id": 4195
+    },
+    {
+        "sentence": "Who is the mayor of New York City?",
+        "question_word": "mayor",
+        "id": 4205
+    },
+    {
+        "sentence": "Who is the youngest Snooker player?",
+        "question_word": "player",
+        "id": 4211
+    },
+    {
+        "sentence": "Where do the Red Sox play?",
+        "question_word": "Where",
+        "id": 4216
+    },
+    {
+        "sentence": "Who are the parents of the wife of Juan Carlos I?",
+        "question_word": "parents",
+        "id": 4218
+    },
+    {
+        "sentence": "Which politicians were married to a German?",
+        "question_word": "politicians",
+        "id": 4229
+    },
+    {
+        "sentence": "Which movie by the Coen brothers stars John Turturro in the role of a New York City playwright?",
+        "question_word": "movie",
+        "id": 4230
+    },
+    {
+        "sentence": "Which rockets were launched from Baikonur?",
+        "question_word": "rockets",
+        "id": 4239
+    },
+    {
+        "sentence": "Who is called Dana?",
+        "question_word": "Who",
+        "id": 4253
+    },
+    {
+        "sentence": "In which country is the Tiefer See?",
+        "question_word": "country",
+        "id": 4279
+    },
+    {
+        "sentence": "What is the original title of the interpretation of dreams?",
+        "question_word": "title",
+        "id": 4288
+    },
+    {
+        "sentence": "Who painted Unfinished portrait of General Bonaparte?",
+        "question_word": "Who",
+        "id": 4303
+    },
+    {
+        "sentence": "Who is the youngest Darts player?",
+        "question_word": "player",
+        "id": 4304
+    },
+    {
+        "sentence": "What other books have been written by the author of The Fault in Our Stars?",
+        "question_word": "books",
+        "id": 4314
+    },
+    {
+        "sentence": "Which mountains are higher than the Nanga Parbat?",
+        "question_word": "mountains",
+        "id": 4323
+    },
+    {
+        "sentence": "In which programming language is GIMP written?",
+        "question_word": "language",
+        "id": 4343
+    },
+    {
+        "sentence": "Give me a list of all critically endangered birds.",
+        "question_word": "list",
+        "id": 4349
+    },
+    {
+        "sentence": "Give me a list of all lakes in Denmark.",
+        "question_word": "list",
+        "id": 4377
+    },
+    {
+        "sentence": "What is the hair color of Marlon Teixeira?",
+        "question_word": "color",
+        "id": 4379
+    },
+    {
+        "sentence": "How many students does the Texas Tech University have?",
+        "question_word": "students",
+        "id": 4380
+    },
+    {
+        "sentence": "Which bridges cross the Seine?",
+        "question_word": "bridges",
+        "id": 4395
+    },
+    {
+        "sentence": "In which U.S. state is Mount McKinley located?",
+        "question_word": "state",
+        "id": 4397
+    },
+    {
+        "sentence": "Who produced the most films?",
+        "question_word": "Who",
+        "id": 4398
+    },
+    {
+        "sentence": "Which countries have places with more than two caves?",
+        "question_word": "countries",
+        "id": 4402
+    },
+    {
+        "sentence": "What is the nick name of Baghdad?",
+        "question_word": "name",
+        "id": 4407
+    },
+    {
+        "sentence": "Which professional surfers were born in Australia?",
+        "question_word": "surfers",
+        "id": 4413
+    },
+    {
+        "sentence": "Give me all islands that belong to Japan.",
+        "question_word": "islands",
+        "id": 4414
+    },
+    {
+        "sentence": "Which university did Angela Merkel attend?",
+        "question_word": "university",
+        "id": 4429
+    },
+    {
+        "sentence": "What is the atmosphere of the Moon composed of?",
+        "question_word": "atmosphere",
+        "id": 4432
+    },
+    {
+        "sentence": "How much is the population  Iraq?",
+        "question_word": "population",
+        "id": 4448
+    },
+    {
+        "sentence": "Who is starring in Spanish movies produced by Benicio del Toro?",
+        "question_word": "Who",
+        "id": 4462
+    },
+    {
+        "sentence": "Who is the mayor of Virar?",
+        "question_word": "mayor",
+        "id": 4470
+    },
+    {
+        "sentence": "Who created Family Guy?",
+        "question_word": "Who",
+        "id": 4476
+    },
+    {
+        "sentence": "Who designed the Langebro?",
+        "question_word": "Who",
+        "id": 4481
+    },
+    {
+        "sentence": "How much is the total population of  european union?",
+        "question_word": "much",
+        "id": 4509
+    },
+    {
+        "sentence": "In which city did Nikos Kazantzakis die?",
+        "question_word": "city",
+        "id": 4527
+    },
+    {
+        "sentence": "Who founded Intel?",
+        "question_word": "Who",
+        "id": 4535
+    },
+    {
+        "sentence": "Who is the oldest child of Meryl Streep?",
+        "question_word": "child",
+        "id": 4537
+    },
+    {
+        "sentence": "Give me all breeds of the German Shepherd dog.",
+        "question_word": "breeds",
+        "id": 4546
+    },
+    {
+        "sentence": "Which European countries are a constitutional monarchy?",
+        "question_word": "countries",
+        "id": 4547
+    },
+    {
+        "sentence": "List the seven kings of Rome.",
+        "question_word": "kings",
+        "id": 4549
+    },
+    {
+        "sentence": "Which anti-apartheid activist was born in Mvezo?",
+        "question_word": "activist",
+        "id": 4551
+    },
+    {
+        "sentence": "In which films directed by Garry Marshall was Julia Roberts starring?",
+        "question_word": "films",
+        "id": 4557
+    },
+    {
+        "sentence": "What is the largest city in Australia?",
+        "question_word": "city",
+        "id": 4558
+    },
+    {
+        "sentence": "How often was Michael Jordan divorced?",
+        "question_word": "often",
+        "id": 4564
+    },
+    {
+        "sentence": "Give me all current Methodist national leaders.",
+        "question_word": "leaders",
+        "id": 4569
+    },
+    {
+        "sentence": "How many museums does Sofia have?",
+        "question_word": "museums",
+        "id": 4599
+    },
+    {
+        "sentence": "What are the zodiac signs?",
+        "question_word": "What",
+        "id": 4608
+    },
+    {
+        "sentence": "List all the musicals with music by Elton John.",
+        "question_word": "musicals",
+        "id": 4612
+    },
+    {
+        "sentence": "Who writes the Farmers' Almanac?",
+        "question_word": "Who",
+        "id": 4617
+    },
+    {
+        "sentence": "What airlines are part of the SkyTeam alliance?",
+        "question_word": "airlines",
+        "id": 4618
+    },
+    {
+        "sentence": "Which ingredients do I need for carrot cake?",
+        "question_word": "ingredients",
+        "id": 4619
+    },
+    {
+        "sentence": "What was the last movie with Alec Guinness?",
+        "question_word": "movie",
+        "id": 4623
+    },
+    {
+        "sentence": "Who has Tom Cruise been married to?",
+        "question_word": "Who",
+        "id": 4624
+    },
+    {
+        "sentence": "Sean Parnell was the governor of which U.S. state?",
+        "question_word": "state",
+        "id": 4626
+    },
+    {
+        "sentence": "What is the alma mater of the chancellor of Germany Angela Merkel?",
+        "question_word": "mater",
+        "id": 4631
+    },
+    {
+        "sentence": "When was the Titanic completed?",
+        "question_word": "When",
+        "id": 4634
+    },
+    {
+        "sentence": "How big is the total area of North Rhine- Westphalia?",
+        "question_word": "area",
+        "id": 4637
+    },
+    {
+        "sentence": "In which time zone is Rome?",
+        "question_word": "zone",
+        "id": 4640
+    },
+    {
+        "sentence": "In what city is the Heineken brewery?",
+        "question_word": "city",
+        "id": 4650
+    },
+    {
+        "sentence": "Give me all actors who were born in Paris after 1950.",
+        "question_word": "actors",
+        "id": 4666
+    },
+    {
+        "sentence": "Which types of grapes grow in Oregon?",
+        "question_word": "types",
+        "id": 4671
+    },
+    {
+        "sentence": "In which city does the former main presenter of the Xposé girls live?",
+        "question_word": "city",
+        "id": 4672
+    },
+    {
+        "sentence": "What does CPU stand for?",
+        "question_word": "What",
+        "id": 4689
+    },
+    {
+        "sentence": "Who are the founders of  BlaBlaCar?",
+        "question_word": "founders",
+        "id": 4691
+    },
+    {
+        "sentence": "Who were the parents of Queen Victoria?",
+        "question_word": "parents",
+        "id": 4707
+    },
+    {
+        "sentence": "When did Michael Jackson die?",
+        "question_word": "When",
+        "id": 4708
+    },
+    {
+        "sentence": "How deep is Steinsee?",
+        "question_word": "deep",
+        "id": 4713
+    },
+    {
+        "sentence": "What is the largest state in the United States?",
+        "question_word": "state",
+        "id": 4716
+    },
+    {
+        "sentence": "What is the highest mountain in Germany?",
+        "question_word": "mountain",
+        "id": 4723
+    },
+    {
+        "sentence": "Which birds are there in the United States?",
+        "question_word": "birds",
+        "id": 4740
+    },
+    {
+        "sentence": "Which European countries have a constitutional monarchy?",
+        "question_word": "countries",
+        "id": 4743
+    },
+    {
+        "sentence": "How much is the population of Iraq?",
+        "question_word": "population",
+        "id": 4756
+    },
+    {
+        "sentence": "When is Halloween?",
+        "question_word": "When",
+        "id": 4757
+    },
+    {
+        "sentence": "Which people were born in Heraklion?",
+        "question_word": "people",
+        "id": 4764
+    },
+    {
+        "sentence": "Which professional surfers were born on the Philippines?",
+        "question_word": "surfers",
+        "id": 4768
+    },
+    {
+        "sentence": "Which animals are critically endangered?",
+        "question_word": "animals",
+        "id": 4772
+    },
+    {
+        "sentence": "Who founded Sony?",
+        "question_word": "Who",
+        "id": 4773
+    },
+    {
+        "sentence": "How many inhabitants does Maribor have?",
+        "question_word": "inhabitants",
+        "id": 4774
+    },
+    {
+        "sentence": "What is the biggest stadium in Spain?",
+        "question_word": "stadium",
+        "id": 4777
+    },
+    {
+        "sentence": "How many Aldi stores are there?",
+        "question_word": "stores",
+        "id": 4780
+    },
+    {
+        "sentence": "Where does Piccadilly start?",
+        "question_word": "Where",
+        "id": 4786
+    },
+    {
+        "sentence": "Give me all sister cities of Brno.",
+        "question_word": "cities",
+        "id": 4803
+    },
+    {
+        "sentence": "What is the ruling party in Lisbon?",
+        "question_word": "party",
+        "id": 4809
+    },
+    {
+        "sentence": "What is the wavelength of indigo?",
+        "question_word": "wavelength",
+        "id": 4817
+    },
+    {
+        "sentence": "Who discovered Pluto?",
+        "question_word": "Who",
+        "id": 4819
+    },
+    {
+        "sentence": "Which movies did Sam Raimi direct after Army of Darkness?",
+        "question_word": "movies",
+        "id": 4825
+    },
+    {
+        "sentence": "Give me all actors called Baldwin.",
+        "question_word": "actors",
+        "id": 4828
+    },
+    {
+        "sentence": "Who are the presidents of the United States?",
+        "question_word": "presidents",
+        "id": 4829
+    },
+    {
+        "sentence": "Who is the author of WikiLeaks?",
+        "question_word": "author",
+        "id": 4832
+    },
+    {
+        "sentence": "Who produced films starring Natalie Portman?",
+        "question_word": "Who",
+        "id": 4849
+    },
+    {
+        "sentence": "Who is the owner of Facebook?",
+        "question_word": "owner",
+        "id": 4851
+    },
+    {
+        "sentence": "What is the average temperature on Hawaii?",
+        "question_word": "temperature",
+        "id": 4862
+    },
+    {
+        "sentence": "What is the highest place of the Urals?",
+        "question_word": "place",
+        "id": 4866
+    },
+    {
+        "sentence": "Give me all libraries established earlier than 1400.",
+        "question_word": "libraries",
+        "id": 4867
+    },
+    {
+        "sentence": "What is the largest metropolitan area in Washington state?",
+        "question_word": "area",
+        "id": 4873
+    },
+    {
+        "sentence": "On which island did the national poet of Greece die?",
+        "question_word": "island",
+        "id": 4883
+    },
+    {
+        "sentence": "What is the population of Cairo?",
+        "question_word": "population",
+        "id": 4884
+    },
+    {
+        "sentence": "Who was called Scarface?",
+        "question_word": "Who",
+        "id": 4889
+    },
+    {
+        "sentence": "Give me the children of David Foster.",
+        "question_word": "children",
+        "id": 4906
+    },
+    {
+        "sentence": "Who is the tallest basketball player?",
+        "question_word": "player",
+        "id": 4907
+    },
+    {
+        "sentence": "Which instruments does Cat Stevens play?",
+        "question_word": "instruments",
+        "id": 4908
+    },
+    {
+        "sentence": "What languages do they speak in Pakistan?",
+        "question_word": "What",
+        "id": 4914
+    },
+    {
+        "sentence": "Give me all cosmonauts.",
+        "question_word": "cosmonauts",
+        "id": 4926
+    },
+    {
+        "sentence": "How many countries are there in Europe?",
+        "question_word": "countries",
+        "id": 4927
+    },
+    {
+        "sentence": "Who is the host of the BBC Wildlife Specials?",
+        "question_word": "host",
+        "id": 4938
+    },
+    {
+        "sentence": "Where did Queen Emma of Hawaii  die?",
+        "question_word": "Where",
+        "id": 4947
+    },
+    {
+        "sentence": "Where is Fort Knox located?",
+        "question_word": "Where",
+        "id": 4948
+    },
+    {
+        "sentence": "When did Finland join the EU?",
+        "question_word": "When",
+        "id": 4954
+    },
+    {
+        "sentence": "Who composed the soundtrack for Cameron's Titanic?",
+        "question_word": "Who",
+        "id": 4955
+    },
+    {
+        "sentence": "How much carbs does peanut butter have?",
+        "question_word": "carbs",
+        "id": 4957
+    },
+    {
+        "sentence": "Which city does the first person to climb all 14 eight-thousanders come from?",
+        "question_word": "city",
+        "id": 4961
+    },
+    {
+        "sentence": "How many people live in the capital of Australia?",
+        "question_word": "people",
+        "id": 4964
+    },
+    {
+        "sentence": "When was John Adams born?",
+        "question_word": "When",
+        "id": 4966
+    },
+    {
+        "sentence": "When did Operation Overlord commence?",
+        "question_word": "When",
+        "id": 4970
+    },
+    {
+        "sentence": "When was Albert Schweitzer born?",
+        "question_word": "When",
+        "id": 4979
+    },
+    {
+        "sentence": "How many Golden Globe awards did the daughter of Henry Fonda win?",
+        "question_word": "awards",
+        "id": 4984
+    },
+    {
+        "sentence": "Which German mathematicians were members of the von Braun rocket group?",
+        "question_word": "members",
+        "id": 5000
+    },
+    {
+        "sentence": "Give me all ESA astronauts.",
+        "question_word": "astronauts",
+        "id": 5002
+    },
+    {
+        "sentence": "What is the highest volcano in Africa?",
+        "question_word": "volcano",
+        "id": 5003
+    },
+    {
+        "sentence": "Give me all Australian metalcore bands.",
+        "question_word": "bands",
+        "id": 5009
+    },
+    {
+        "sentence": "Give me all people that were born in Vienna and died in Berlin.",
+        "question_word": "people",
+        "id": 5012
+    },
+    {
+        "sentence": "Who was the wife of U.S. president Lincoln?",
+        "question_word": "wife",
+        "id": 5035
+    },
+    {
+        "sentence": "What is the name of the school where Obama's wife studied?",
+        "question_word": "name",
+        "id": 5037
+    },
+    {
+        "sentence": "When was Capcom founded?",
+        "question_word": "When",
+        "id": 5039
+    },
+    {
+        "sentence": "Give me all Canadian Grunge record labels.",
+        "question_word": "labels",
+        "id": 5051
+    },
+    {
+        "sentence": "What is the largest city in the county in which Faulkner spent most of his life?",
+        "question_word": "city",
+        "id": 5052
+    },
+    {
+        "sentence": "Give me all animal species that live in the Teutoburg Forest.",
+        "question_word": "animal",
+        "id": 5053
+    },
+    {
+        "sentence": "Which buildings in art deco style did Shreve, Lamb and Harmon design?",
+        "question_word": "buildings",
+        "id": 5054
+    },
+    {
+        "sentence": "What is the profession of Frank Herbert?",
+        "question_word": "profession",
+        "id": 5089
+    },
+    {
+        "sentence": "In which country does the Ganges start?",
+        "question_word": "country",
+        "id": 5093
+    },
+    {
+        "sentence": "What was the first name of the band Queens of the Stone Age?",
+        "question_word": "name",
+        "id": 5094
+    },
+    {
+        "sentence": "Under which king did the British prime minister that signed the Munich agreement serve?",
+        "question_word": "king",
+        "id": 5111
+    },
+    {
+        "sentence": "Which presidents of the United States had more than three children?",
+        "question_word": "presidents",
+        "id": 5112
+    },
+    {
+        "sentence": "How many ethnic groups live in Slovenia?",
+        "question_word": "groups",
+        "id": 5115
+    },
+    {
+        "sentence": "To which artistic movement did the painter of The Three Dancers belong?",
+        "question_word": "movement",
+        "id": 5120
+    },
+    {
+        "sentence": "How many students does the Free University in Amsterdam have?",
+        "question_word": "students",
+        "id": 5128
+    },
+    {
+        "sentence": "What is the highest mountain?",
+        "question_word": "mountain",
+        "id": 5131
+    },
+    {
+        "sentence": "How many politicians graduated from Columbia University?",
+        "question_word": "politicians",
+        "id": 5161
+    },
+    {
+        "sentence": "Show a list of soccer clubs that play in the Bundesliga.",
+        "question_word": "list",
+        "id": 5167
+    },
+    {
+        "sentence": "In which town was the assassin of Martin Luther King born?",
+        "question_word": "town",
+        "id": 5175
+    },
+    {
+        "sentence": "Which countries adopted the Euro?",
+        "question_word": "countries",
+        "id": 5179
+    },
+    {
+        "sentence": "Which U.S. state has been admitted latest?",
+        "question_word": "state",
+        "id": 5183
+    },
+    {
+        "sentence": "Under which pseudonym did Charles Dickens publish some of his books?",
+        "question_word": "pseudonym",
+        "id": 5188
+    },
+    {
+        "sentence": "How old was Steve Jobs' sister when she first met him?",
+        "question_word": "old",
+        "id": 5206
+    },
+    {
+        "sentence": "In which city was the president of Montenegro born?",
+        "question_word": "city",
+        "id": 5217
+    },
+    {
+        "sentence": "How many foreigners speak German?",
+        "question_word": "foreigners",
+        "id": 5218
+    },
+    {
+        "sentence": "What is Elon Musk famous for?",
+        "question_word": "What",
+        "id": 5220
+    },
+    {
+        "sentence": "Which beer brewing companies are located in North-Rhine Westphalia?",
+        "question_word": "companies",
+        "id": 5224
+    },
+    {
+        "sentence": "Which companies have more than 1 million employees?",
+        "question_word": "companies",
+        "id": 5237
+    },
+    {
+        "sentence": "Of the people that died of radiation in Los Alamos, whose death was an accident?",
+        "question_word": "people",
+        "id": 5242
+    },
+    {
+        "sentence": "In which country is the Tasman Lake?",
+        "question_word": "country",
+        "id": 5244
+    },
+    {
+        "sentence": "Which country did the first known photographer of snowflakes come from?",
+        "question_word": "country",
+        "id": 5253
+    },
+    {
+        "sentence": "Which programming languages were influenced by Perl?",
+        "question_word": "languages",
+        "id": 5255
+    },
+    {
+        "sentence": "In which ancient empire could you pay with cocoa beans?",
+        "question_word": "empire",
+        "id": 5256
+    },
+    {
+        "sentence": "A landmark of which city is the home of the Mona Lisa?",
+        "question_word": "city",
+        "id": 5266
+    },
+    {
+        "sentence": "Give me all world heritage sites designated within the past two years.",
+        "question_word": "sites",
+        "id": 5267
+    },
+    {
+        "sentence": "Who is the daughter of Bill Clinton married to?",
+        "question_word": "daughter",
+        "id": 5269
+    },
+    {
+        "sentence": "Which state of the United States of America has the highest density?",
+        "question_word": "state",
+        "id": 5272
+    },
+    {
+        "sentence": "What country is Mount Everest in?",
+        "question_word": "country",
+        "id": 5280
+    }
+]
